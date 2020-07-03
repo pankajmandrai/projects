@@ -1,0 +1,2167 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" 
+      class="">
+<head>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+    window._currentDevice = 'desktop';
+    window.Parameters = window.Parameters || {
+        AjaxContainer: 'div.dmBody',
+        WrappingContainer: 'div.dmOuter',
+        HomeUrl: 'https://www.progestgroup.it/',
+        AccountUUID: 'cf279c6fb73a440cb358adc032ea153b',
+        SystemID: 'US_DIRECT_PRODUCTION',
+        SiteAlias: '002795da',
+        SiteId: '816114',
+        SiteType: atob('RFVEQU9ORQ=='),
+        ExternalUid: '1938901',
+        IsSiteMultilingual: false,
+        InitialPostAlias: '',
+        InitialDynamicItem: '',
+        InitialPageAlias: 'progest-group',
+        InitialEncodedPageAlias: 'cHJvZ2VzdC1ncm91cA==',
+        CurrentPageUrl: '',
+        IsCurrentHomePage: false,
+        AllowAjax: false,
+        AfterAjaxCommand: null,
+        HomeLinkText: 'Back To Home',
+        UseGalleryModule: false,
+        CurrentThemeName: 'Layout Theme',
+        ThemeVersion: '1055',
+        DefaultPageAlias: '',
+        RemoveDID: true,
+        WidgetStyleID : null,
+        IsHeaderFixed: false,
+        IsHeaderSkinny: false,
+        IsBfs: true,
+        LayoutParams : {
+            _navigationAnimationStyle: 'slide',
+            _manifestId : 10001,
+            _device : 'desktop'
+        },
+        StorePageAlias: 'null',
+        StorePath: '',
+        StoreId: 'null',
+        StoreVersion: 0,
+        StoreBaseUrl: '',
+        StoreCleanUrl: true,
+        StoreDisableScrolling: true,
+        NotificationSubDomain: 'progestgroup',
+        HasCustomDomain: true,
+        showCookieNotification: false,
+        cookiesNotificationMarkup: 'null',
+        translatedPageUrl: '',
+        isFastMigrationSite: false,
+        sidebarPosition: 'NA',
+        currentLanguage: 'null',
+        NavItems: 'W3sidGl0bGUiOiJIb21lIiwiYWxpYXMiOiJob21lIiwicGF0aCI6Ii8iLCJpbk5hdmlnYXRpb24iOnRydWUsInN1Yk5hdiI6W119LHsidGl0bGUiOiJQcm9nZXN0IEdyb3VwIiwiYWxpYXMiOiJwcm9nZXN0LWdyb3VwIiwicGF0aCI6Ii9wcm9nZXN0LWdyb3VwIiwiaW5OYXZpZ2F0aW9uIjp0cnVlLCJzdWJOYXYiOltdfSx7InRpdGxlIjoiRm9ybWF6aW9uZSIsImFsaWFzIjoiZm9ybWF6aW9uZSIsInBhdGgiOiIvZm9ybWF6aW9uZSIsImluTmF2aWdhdGlvbiI6dHJ1ZSwic3ViTmF2IjpbeyJ0aXRsZSI6IlNlcnZpemlvIGRpIHByZXZlbnppb25lIGUgcHJvdGV6aW9uZSAtIFNQUCIsImFsaWFzIjoic2Vydml6aW8tZGktcHJldmVuemlvbmUtZS1wcm90ZXppb25lLXNwcCIsInBhdGgiOiIvc2Vydml6aW8tZGktcHJldmVuemlvbmUtZS1wcm90ZXppb25lLXNwcCIsImluTmF2aWdhdGlvbiI6dHJ1ZSwic3ViTmF2IjpbXX0seyJ0aXRsZSI6IlNxdWFkcmEgZGVsbGUgZW1lcmdlbnplIiwiYWxpYXMiOiJzcXVhZHJhLWRlbGxlLWVtZXJnZW56ZSIsInBhdGgiOiIvc3F1YWRyYS1kZWxsZS1lbWVyZ2VuemUiLCJpbk5hdmlnYXRpb24iOnRydWUsInN1Yk5hdiI6W119LHsidGl0bGUiOiJMYXZvcmF0b3JpIGUgbG9ybyByYXBwcmVzZW50YW50aSIsImFsaWFzIjoibGF2b3JhdG9yaS1lLWxvcm8tcmFwcHJlc2VudGFudGkiLCJwYXRoIjoiL2xhdm9yYXRvcmktZS1sb3JvLXJhcHByZXNlbnRhbnRpIiwiaW5OYXZpZ2F0aW9uIjp0cnVlLCJzdWJOYXYiOltdfSx7InRpdGxlIjoiSWdpZW5lIGUgSEFDQ1AiLCJhbGlhcyI6IklnaWVuZS1lLWhhY2NwIiwicGF0aCI6Ii9JZ2llbmUtZS1oYWNjcCIsImluTmF2aWdhdGlvbiI6dHJ1ZSwic3ViTmF2IjpbXX1dfSx7InRpdGxlIjoiQ29yc2kgb25saW5lIiwiYWxpYXMiOiJhbHRyaS1jb3JzaSIsInBhdGgiOiIvYWx0cmktY29yc2kiLCJpbk5hdmlnYXRpb24iOnRydWUsInN1Yk5hdiI6W119LHsidGl0bGUiOiJSU1BQIGVzdGVybm8iLCJhbGlhcyI6InJzcHAtZXN0ZXJubyIsInBhdGgiOiIvcnNwcC1lc3Rlcm5vIiwiaW5OYXZpZ2F0aW9uIjp0cnVlLCJzdWJOYXYiOltdfSx7InRpdGxlIjoiQW5hbGlzaSBMZWdpb25lbGxhIiwiYWxpYXMiOiJhbmFsaXNpLW1pY3JvYmlvbG9naWNoZSIsInBhdGgiOiIvYW5hbGlzaS1taWNyb2Jpb2xvZ2ljaGUiLCJpbk5hdmlnYXRpb24iOnRydWUsInN1Yk5hdiI6W119LHsidGl0bGUiOiJDb2xsYWJvcmF6aW9uaSIsImFsaWFzIjoiY29sbGFib3JhemlvbmkiLCJwYXRoIjoiL2NvbGxhYm9yYXppb25pIiwiaW5OYXZpZ2F0aW9uIjp0cnVlLCJzdWJOYXYiOltdfSx7InRpdGxlIjoiQ29udGF0dGkiLCJhbGlhcyI6ImNvbnRhdHRpIiwicGF0aCI6Ii9jb250YXR0aSIsImluTmF2aWdhdGlvbiI6dHJ1ZSwic3ViTmF2IjpbXX1d',
+        errors: {
+            general: 'There was an error connecting to the page.<br/> Make sure you are not offline.',
+            password: 'Incorrect name/password combination',
+            tryAgain: 'Try again'
+        },
+        NavigationAreaParams: {
+            ShowBackToHomeOnInnerPages: true,
+            NavbarSize: -1,
+            NavbarLiveHomePage: 'https://www.progestgroup.it/',
+            BlockContainerSelector: '.dmBody',
+            NavbarSelector: '#dmNav:has(a)',
+            SubNavbarSelector: '#subnav_main'
+        },
+        hasCustomCode: true,
+        planID: 7,
+        disableTracking: false
+    };
+
+    window.Parameters.LayoutID = {};
+    window.Parameters.LayoutID[window._currentDevice] = 6;
+    window.Parameters.LayoutVariationID = {};
+    window.Parameters.LayoutVariationID[window._currentDevice] = 5;
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Injecting site-wide to the head -->
+
+
+
+<!-- End Injecting site-wide to the head -->
+
+<!-- ========= Meta Tags ========= -->
+<script>
+    try {
+    if(navigator.serviceWorker && navigator.serviceWorker.getRegistrations && location.protocol === 'https:') {
+        // remove all service workers
+        navigator.serviceWorker.getRegistrations().then(function(registrations) {
+            if(registrations && registrations.length) {
+                console.log('unregistering service workers')
+                registrations.forEach(function(registration) {
+                    registration.unregister();
+                });
+            }
+         });
+        // clear caches
+        if(caches) {
+            caches.keys().then(function(keyList) {
+                if(keyList && keyList.length) {
+                    console.log('deleting caches')
+                    keyList.forEach(function(key) {
+                        if (key && key.indexOf('druntime') === 0) {
+                            caches.delete(key);
+                        }
+                    });
+                }
+              })
+        }
+    }
+} catch (err) {
+    // not a secured location
+}</script>
+
+
+<meta http-equiv="Content-type" content="text/html;charset=utf-8">
+<meta charset="utf-8">
+
+<link rel="canonical" href="progest-group">
+
+<meta id="view" name="viewport"
+      content=", initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=0, viewport-fit=cover"/>
+
+<meta name="apple-mobile-web-app-capable" content="yes">
+
+<!--Add favorites icons-->
+
+<link rel="icon" type="image/x-icon" href="https://irp-cdn.multiscreensite.com/002795da/site_favicon_16_1573734885434.ico"/>
+
+<!-- End favorite icons -->
+
+<link rel="preconnect" href="https://ssl.google-analytics.com" crossorigin />
+
+
+
+<!-- render the required CSS and JS in the head section -->
+<script>
+    window.SystemID = 'US_DIRECT_PRODUCTION';
+
+    if(!window.dmAPI) {
+        window.dmAPI = {
+            registerExternalRuntimeComponent: function() {
+            },
+            getCurrentDeviceType: function() {
+                return window._currentDevice;
+            }
+        };
+    }
+
+    if (!window.requestIdleCallback) {
+        window.requestIdleCallback = function (fn) {
+            setTimeout(fn, 0);
+        }
+    }
+
+    function loadCSS(link) {
+        try {
+            var urlParams = new URLSearchParams(window.location.search);
+            var noCSS = !!urlParams.get('nocss');
+            var cssTimeout = urlParams.get('cssTimeout') || 0;
+
+            if (noCSS) {
+                return;
+            }
+            requestIdleCallback(function () {
+                window.setTimeout(function () {
+                    link.onload = null;
+                    link.rel = 'stylesheet';
+                    link.type = 'text/css'
+                }, parseInt(cssTimeout, 10));
+            });
+        } catch (e) {/* Never fail - this is just a tool for measurements */}
+    }
+
+</script>
+<script>
+(function(n){"use strict";if(!n.l){n.l=function(){}}var o=loadCSS.t={};o.o=function(){var l;try{l=n.document.createElement("link").relList.supports("preload")}catch(e){l=false}return function(){return l}}();o.i=function(e){var l=e.media||"all";function enableStylesheet(){if(e.addEventListener){e.removeEventListener("load",enableStylesheet)}else if(e.attachEvent){e.detachEvent("onload",enableStylesheet)}e.setAttribute("onload",null);e.media=l}if(e.addEventListener){e.addEventListener("load",enableStylesheet)}else if(e.attachEvent){e.attachEvent("onload",enableStylesheet)}setTimeout(function(){e.rel="stylesheet";e.media="only x"});setTimeout(enableStylesheet,3e3)};o.s=function(){if(o.o()){return}var e=n.document.getElementsByTagName("link");for(var l=0;l<e.length;l++){var t=e[l];if(t.rel==="preload"&&t.getAttribute("as")==="style"&&!t.getAttribute("data-loadcss")){t.setAttribute("data-loadcss",true);o.i(t)}}};if(!o.o()){o.s();var e=n.setInterval(o.s,500);if(n.addEventListener){n.addEventListener("load",function(){o.s();n.clearInterval(e)})}else if(n.attachEvent){n.attachEvent("onload",function(){o.s();n.clearInterval(e)})}}if(typeof exports!=="undefined"){exports.l=loadCSS}else{n.l=loadCSS}})(typeof global!=="undefined"?global:this);
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="https://static-cdn.multiscreensite.com/mnlt/production/1252/_dm/s/rt/dist/css/d-css-foundation.min.css" />
+
+
+
+<!-- Google Fonts Include -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Ubuntu:100,200,300,400,500,600,700,800,900,100italic,200italic,300italic,400italic,500italic,600italic,700italic,800italic,900italic|Roboto:100,200,300,400,500,600,700,800,900,100italic,200italic,300italic,400italic,500italic,600italic,700italic,800italic,900italic|Lobster:100,200,300,400,500,600,700,800,900,100italic,200italic,300italic,400italic,500italic,600italic,700italic,800italic,900italic|Source+Sans+Pro:100,200,300,400,500,600,700,800,900,100italic,200italic,300italic,400italic,500italic,600italic,700italic,800italic,900italic&amp;subset=latin-ext&amp;display=swap"  />
+
+<link type="text/css" rel="stylesheet" href="https://dd-cdn.multiscreensite.com/fonts/additional-fonts.css"  />
+
+
+<link rel="stylesheet" type="text/css" href="https://static-cdn.multiscreensite.com/mnlt/production/1252/_dm/s/rt/dist/css/css-font-package-v2.min.css" />
+
+
+<!-- RT CSS Include d-css-runtime-desktop-one-package-->
+<link rel="stylesheet" type="text/css" href="https://static-cdn.multiscreensite.com/mnlt/production/1252/_dm/s/rt/dist/css/d-css-runtime-desktop-one-package.min.css" />
+
+<!-- End of RT CSS Include -->
+
+
+
+    
+       <link type="text/css" rel="stylesheet" href="https://irp-cdn.multiscreensite.com/WIDGET_CSS/production_1252/b00809517c7eca4da93f5a367b75eec5.css" id="widgetCSS" />
+    
+
+
+
+<!-- This is populated in Ajax navigation -->
+<style id="pageAdditionalWidgetsCss" type="text/css">
+</style>
+
+
+
+
+<!-- Site CSS -->
+<link type="text/css" rel="stylesheet" href="https://irp-cdn.multiscreensite.com/002795da/files/002795da_1.min.css?v=174" id="siteGlobalCss" />
+
+
+<!-- additional css file per platform -->
+<link type="text/css" rel="stylesheet" href="_dm/s/rt/css/iol/iol-runtime.css?version=2020-04-26T06_53_05" />
+
+<style id="customWidgetStyle" type="text/css">
+    
+</style>
+<style id="innerPagesStyle" type="text/css">
+    
+</style>
+
+<style id="additionalGlobalCss" type="text/css">
+</style>
+
+<style id="pagestyle" type="text/css">
+    *#dm *.dmBody *.u_1952956150:before{
+opacity:0.5 !important;
+background-color:rgb(255,255,255) !important}
+*#dm *.dmBody *.u_1952956150.before{
+opacity:0.5 !important;
+background-color:rgb(255,255,255) !important}
+*#dm *.dmBody div.u_1952956150:before{
+background-color:rgba(0,0,0,1) !important;
+opacity:0.1 !important}
+*#dm *.dmBody div.u_1952956150.before{
+background-color:rgba(0,0,0,1) !important;
+opacity:0.1 !important}
+*#dm *.dmBody div.u_1952956150{
+background-repeat:no-repeat !important;
+background-image:url(https://irp-cdn.multiscreensite.com/002795da/dms3rep/multi/Certificazione-PROGEST-Caorle-029-1400x600.jpg) !important}
+*#dm *.dmBody div.u_1700014472{
+background-color:rgb(255,255,255) !important}
+*#dm *.dmBody div.u_1273348343{
+background-color:rgb(255,255,255) !important}
+*#dm *.dmBody div.u_1744295005{
+width:100% !important;
+display:block !important;
+max-width:100% !important}
+*#dm *.dmBody div.u_1417576753{
+background-color:rgb(255,255,255) !important}
+*#dm *.dmBody div.u_1797877005 hr{
+color:rgb(128,128,128) !important;
+background:none !important;
+height:0 !important;
+background-color:transparent !important;
+background-size:initial !important;
+border-top-width:0 !important;
+min-height:0 !important;
+border-color:currentColor !important;
+border-width:1px !important;
+border-top-style:solid !important}
+*#dm *.dmBody div.u_1709883453{
+background-color:rgb(255,255,255) !important}
+*#dm *.dmBody div.u_1649265447 hr{
+color:rgb(128,128,128) !important;
+background:none !important;
+height:0 !important;
+background-color:transparent !important;
+background-size:initial !important;
+border-top-width:0 !important;
+min-height:0 !important;
+border-color:currentColor !important;
+border-width:1px !important;
+border-top-style:solid !important}
+*#dm *.dmBody div.u_1749295792{
+background-color:rgb(255,255,255) !important}
+*#dm *.dmBody div.u_1307591418 hr{
+color:rgb(128,128,128) !important;
+background:none !important;
+height:0 !important;
+background-color:transparent !important;
+background-size:initial !important;
+border-top-width:0 !important;
+min-height:0 !important;
+border-color:currentColor !important;
+border-width:1px !important;
+border-top-style:solid !important}
+*#dm *.dmBody div.u_1758354961{
+background-color:rgba(255,255,255,1) !important}
+*#dm *.dmBody div.u_1591285782{
+background-color:rgba(241,241,241,1) !important}
+*#dm *.dmBody h4.u_1286317785{
+line-height:150% !important}
+*#dm *.dmBody div.u_1342586590{
+background-color:rgb(255,255,255) !important}
+*#dm *.dmBody div.u_1268087156 hr{
+color:rgb(128,128,128) !important;
+background:none !important;
+height:0 !important;
+background-color:transparent !important;
+background-size:initial !important;
+border-top-width:0 !important;
+min-height:0 !important;
+border-color:currentColor !important;
+border-width:1px !important;
+border-top-style:solid !important}
+*#dm *.dmBody div.u_1400782066{
+background-repeat:no-repeat !important;
+background-image:url(https://irp-cdn.multiscreensite.com/002795da/dms3rep/multi/legionella+analisi+acqua.jpg) !important;
+background-size:cover !important}
+*#dm *.dmBody div.u_1394094808 hr{
+color:rgba(84,88,88,1) !important;
+border-top-style:solid !important;
+border-top-width:2px !important}
+*#dm *.dmBody h3.u_1286317785{
+line-height:normal !important;
+border-style:solid !important;
+border-width:0 !important}
+*#dm *.dmBody div.u_1484408848 hr{
+color:rgb(128,128,128) !important;
+background:none !important;
+height:0 !important;
+background-color:transparent !important;
+background-size:initial !important;
+border-top-width:0 !important;
+min-height:0 !important;
+border-color:currentColor !important;
+border-width:1px !important;
+border-top-style:solid !important}
+*#dm *.dmBody div.u_1354561724 *.slides *.slide-text{
+font-weight:bold !important}
+*#dm *.dmBody div.u_1354561724 *.slides *.slide-title{
+font-weight:bold !important;
+text-shadow:2px 2px 3px #000 !important}
+*#dm *.dmBody div.u_1354561724 *.color-overlay{
+background-color:rgba(0,0,0,0.2) !important}
+*#dm *.dmBody div.u_1012578200{
+background-repeat:no-repeat !important;
+background-image:none !important;
+background-size:cover !important}
+*.u_1800433214{
+background-image:none !important;
+background-color:rgba(0,0,0,0) !important;
+background-position:0 0 !important;
+background-size:auto !important;
+background-repeat:repeat !important;
+padding-top:0 !important;
+padding-bottom:0 !important;
+padding-right:0 !important;
+padding-left:0 !important;
+margin:0 !important;
+text-align:start !important;
+color:rgb(76,76,76) !important}
+*.u_1012578200{
+background-image:none !important;
+background-color:rgba(0,0,0,0) !important;
+background-position:0 0 !important;
+background-size:cover !important;
+background-repeat:no-repeat !important;
+padding-top:0 !important;
+padding-bottom:0 !important;
+padding-right:0 !important;
+padding-left:0 !important;
+margin:0 !important;
+text-align:start !important;
+color:rgb(76,76,76) !important}
+*#dm *.dmBody div.u_1354561724 .slides .slide-button{
+border-style:solid !important;
+border-width:0 !important}
+*#dm *.dmBody *.u_1596833469{
+background-position:50% 100% !important;
+background-image:url(https://irp-cdn.multiscreensite.com/md/unsplash/dms3rep/multi/photo-1555963966-b7ae5404b6ed.jpg) !important}
+*#dm *.dmBody div.u_1442111010{
+background-color:rgb(255,255,255) !important}
+*#dm *.dmBody div.u_1418555734 hr{
+color:rgb(128,128,128) !important;
+background:none !important;
+height:0 !important;
+background-color:transparent !important;
+background-size:initial !important;
+border-top-width:0 !important;
+min-height:0 !important;
+border-color:currentColor !important;
+border-width:1px !important;
+border-top-style:solid !important}
+*#dm *.dmBody div.u_1411441543{
+background-color:rgba(255,255,255,1) !important}
+*.u_1411441543{
+background-image:none !important;
+background-color:rgb(255,255,255) !important;
+background-position:0 0 !important;
+background-size:auto !important;
+background-repeat:repeat !important;
+padding-top:25px !important;
+padding-bottom:25px !important;
+padding-right:0 !important;
+padding-left:0 !important;
+margin:0 !important;
+text-align:start !important;
+color:rgb(76,76,76) !important}
+*.u_1107045734{
+background-image:none !important;
+background-color:rgba(0,0,0,0) !important;
+background-position:0 0 !important;
+background-size:auto !important;
+background-repeat:repeat !important;
+padding-top:0 !important;
+padding-bottom:0 !important;
+padding-right:15px !important;
+padding-left:15px !important;
+margin:0 !important;
+text-align:start !important;
+color:rgb(76,76,76) !important}
+*#dm *.dmBody div.u_1981174639{
+background-color:rgb(255,255,255) !important}
+*#dm *.dmBody *.u_1560706690{
+display:block !important}
+*#dm *.dmBody *.u_1428843596{
+display:none !important}
+*#dm *.dmBody *.u_1891929727{
+display:none !important}
+*#dm *.dmBody *.u_1993625861{
+display:block !important}
+*#dm *.dmBody *.u_1298073477{
+display:none !important}
+*#dm *.dmBody *.u_1379678333{
+display:none !important}
+*#dm *.dmBody *.u_1980624429{
+display:block !important}
+*#dm *.dmBody *.u_1424644149{
+display:none !important}
+*#dm *.dmBody *.u_1361017722{
+display:none !important}
+*#dm *.dmBody *.u_1057497100{
+display:block !important}
+*#dm *.dmBody *.u_1002723955{
+display:none !important}
+*#dm *.dmBody *.u_1269754194{
+display:none !important}
+*#dm *.dmBody div.u_1892755940{
+background-color:rgb(255,255,255) !important}
+*#dm *.dmBody div.u_1566631740 hr{
+color:rgb(128,128,128) !important;
+background:none !important;
+height:0 !important;
+background-color:transparent !important;
+background-size:initial !important;
+border-top-width:0 !important;
+min-height:0 !important;
+border-color:currentColor !important;
+border-width:1px !important;
+border-top-style:solid !important}
+*#dm *.dmBody div.u_1338287104 hr{
+color:rgb(128,128,128) !important;
+background:none !important;
+height:0 !important;
+background-color:transparent !important;
+background-size:initial !important;
+border-top-width:0 !important;
+min-height:0 !important;
+border-color:currentColor !important;
+border-width:1px !important;
+border-top-style:solid !important}
+*#dm *.dmBody div.u_1187822124{
+background-color:rgba(235,231,231,1) !important}
+*#dm *.dmBody a.u_1837017136{
+color:rgb(24,118,204) !important;
+background-color:rgba(2,37,195,1) !important}
+*#dm *.dmBody div.u_1952588674{
+background-color:rgba(235,231,231,1) !important}
+*#dm *.dmBody a.u_1677671021{
+color:rgb(24,118,204) !important;
+background-color:rgba(2,37,195,1) !important}
+</style>
+
+<style id="pagestyleDevice" type="text/css">
+    
+*#dm *.dmBody div.u_1952956150{
+background-repeat:no-repeat !important;
+background-image:url(https://lirp-cdn.multiscreensite.com/002795da/dms3rep/multi/opt/Certificazione-PROGEST-Caorle-029-1400x600-1920w.jpg) !important}
+*#dm *.dmBody div.u_1400782066{
+background-repeat:no-repeat !important;
+background-image:url(https://lirp-cdn.multiscreensite.com/002795da/dms3rep/multi/opt/legionella+analisi+acqua-1920w.jpg) !important;
+background-size:cover !important}
+*#dm *.dmBody *.u_1596833469{
+background-position:50% 100% !important;
+background-image:url(https://irp-cdn.multiscreensite.com/md/unsplash/dms3rep/multi/photo-1555963966-b7ae5404b6ed.jpg) !important}@media all and (min-width:1920px), all and (-webkit-min-device-pixel-ratio: 1.5), all and (min--moz-device-pixel-ratio: 1.5), all and (min-device-pixel-ratio: 1.5) {
+
+*#dm *.dmBody div.u_1952956150{
+background-repeat:no-repeat !important;
+background-image:url(https://lirp-cdn.multiscreensite.com/002795da/dms3rep/multi/opt/Certificazione-PROGEST-Caorle-029-1400x600-2880w.jpg) !important}
+*#dm *.dmBody div.u_1400782066{
+background-repeat:no-repeat !important;
+background-image:url(https://lirp-cdn.multiscreensite.com/002795da/dms3rep/multi/opt/legionella+analisi+acqua-2880w.jpg) !important;
+background-size:cover !important}
+*#dm *.dmBody *.u_1596833469{
+background-position:50% 100% !important;
+background-image:url(https://irp-cdn.multiscreensite.com/md/unsplash/dms3rep/multi/photo-1555963966-b7ae5404b6ed.jpg) !important}
+}
+*#dm *.dmBody h2.u_1855179433{
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:100% !important;
+position:relative !important;
+height:auto !important;
+padding-top:2px !important;
+padding-left:0 !important;
+padding-bottom:2px !important;
+margin-right:0 !important;
+margin-left:0 !important;
+max-width:calc(100% - 0px) !important;
+margin-top:0 !important;
+margin-bottom:15px !important;
+padding-right:0 !important;
+min-width:25px !important;
+text-align:left !important}
+*#dm *.dmBody div.u_1362915068{
+padding-left:0 !important;
+padding-right:20px !important}
+*#dm *.dmBody img.u_1340994508{
+width:100% !important;
+height:auto !important;
+max-height:none !important;
+max-width:none !important}
+*#dm *.dmBody div.u_1744295005{
+width:55px !important;
+height:auto !important;
+max-height:1000px !important;
+display:block !important;
+float:none !important;
+top:0 !important;
+left:0 !important;
+position:relative !important;
+padding-top:0 !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+margin-right:auto !important;
+margin-left:auto !important;
+max-width:100% !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+padding-right:0 !important;
+min-width:0 !important;
+text-align:center !important}
+*#dm *.dmBody h2.u_1855179433{
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:100% !important;
+position:relative !important;
+height:auto !important;
+padding-top:2px !important;
+padding-left:0 !important;
+padding-bottom:2px !important;
+margin-right:0 !important;
+margin-left:0 !important;
+max-width:calc(100% - 0px) !important;
+margin-top:0 !important;
+margin-bottom:15px !important;
+padding-right:0 !important;
+min-width:25px !important;
+text-align:left !important}
+*#dm *.dmBody div.u_1362915068{
+padding-left:0 !important;
+padding-right:20px !important}
+*#dm *.dmBody img.u_1340994508{
+width:100% !important;
+height:auto !important;
+max-height:none !important;
+max-width:none !important}
+*#dm *.dmBody div.u_1744295005{
+width:55px !important;
+height:auto !important;
+max-height:1000px !important;
+display:block !important;
+float:none !important;
+top:0 !important;
+left:0 !important;
+position:relative !important;
+padding-top:0 !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+margin-right:auto !important;
+margin-left:auto !important;
+max-width:100% !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+padding-right:0 !important;
+min-width:0 !important;
+text-align:center !important}
+*#dm *.dmBody h2.u_1966877293{
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:100% !important;
+position:relative !important;
+height:auto !important;
+padding-top:2px !important;
+padding-left:0 !important;
+padding-bottom:2px !important;
+margin-right:0 !important;
+margin-left:0 !important;
+max-width:calc(100% - 0px) !important;
+margin-top:0 !important;
+margin-bottom:15px !important;
+padding-right:0 !important;
+min-width:25px !important;
+text-align:left !important}
+*#dm *.dmBody h2.u_1966877293{
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:100% !important;
+position:relative !important;
+height:auto !important;
+padding-top:2px !important;
+padding-left:0 !important;
+padding-bottom:2px !important;
+margin-right:0 !important;
+margin-left:0 !important;
+max-width:calc(100% - 0px) !important;
+margin-top:0 !important;
+margin-bottom:15px !important;
+padding-right:0 !important;
+min-width:25px !important;
+text-align:left !important}
+*#dm *.dmBody div.u_1273348343{
+padding-top:20px !important;
+padding-bottom:20px !important}
+*#dm *.dmBody div.u_1273348343{
+padding-top:20px !important;
+padding-bottom:20px !important}
+*#dm *.dmBody div.u_1709883453{
+padding-top:0 !important;
+padding-bottom:0 !important;
+padding-right:0 !important;
+padding-left:0 !important}
+*#dm *.dmBody div.u_1709883453{
+padding-top:0 !important;
+padding-bottom:0 !important;
+padding-right:0 !important;
+padding-left:0 !important}
+*#dm *.dmBody div.u_1749295792{
+padding-top:0 !important;
+padding-bottom:0 !important;
+padding-right:0 !important;
+padding-left:0 !important}
+*#dm *.dmBody div.u_1749295792{
+padding-top:0 !important;
+padding-bottom:0 !important;
+padding-right:0 !important;
+padding-left:0 !important}
+*#dm *.dmBody div.u_1417576753{
+padding-top:30px !important;
+padding-bottom:30px !important}
+*#dm *.dmBody div.u_1417576753{
+padding-top:30px !important;
+padding-bottom:30px !important}
+*#dm *.dmBody div.u_1400782066{
+margin-left:0 !important;
+padding-top:0 !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+padding-right:0 !important;
+margin-right:0 !important;
+background-position:50% 50% !important}
+*#dm *.dmBody div.u_1437478741{
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:100% !important;
+position:relative !important;
+height:auto !important;
+padding-top:2px !important;
+padding-left:0 !important;
+padding-bottom:2px !important;
+margin-right:auto !important;
+margin-left:auto !important;
+max-width:100% !important;
+margin-top:18px !important;
+margin-bottom:8px !important;
+padding-right:0 !important;
+min-width:0 !important;
+text-align:center !important;
+display:block !important}
+*#dm *.dmBody a.u_1412064623{
+display:block !important;
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:252px !important;
+position:relative !important;
+height:51px !important;
+padding-top:0 !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+margin-right:auto !important;
+margin-left:auto !important;
+max-width:calc(100% - 74px) !important;
+margin-top:26px !important;
+margin-bottom:0 !important;
+padding-right:0 !important;
+min-width:25px !important;
+text-align:center !important}
+*#dm *.dmBody div.u_1400782066{
+margin-left:0 !important;
+padding-top:0 !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+padding-right:0 !important;
+margin-right:0 !important;
+background-position:50% 50% !important}
+*#dm *.dmBody div.u_1437478741{
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:100% !important;
+position:relative !important;
+height:auto !important;
+padding-top:2px !important;
+padding-left:0 !important;
+padding-bottom:2px !important;
+margin-right:auto !important;
+margin-left:auto !important;
+max-width:100% !important;
+margin-top:18px !important;
+margin-bottom:8px !important;
+padding-right:0 !important;
+min-width:0 !important;
+text-align:center !important;
+display:block !important}
+*#dm *.dmBody a.u_1412064623{
+display:block !important;
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:252px !important;
+position:relative !important;
+height:51px !important;
+padding-top:0 !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+margin-right:auto !important;
+margin-left:auto !important;
+max-width:calc(100% - 74px) !important;
+margin-top:26px !important;
+margin-bottom:0 !important;
+padding-right:0 !important;
+min-width:25px !important;
+text-align:center !important}
+*#dm *.dmBody div.u_1342586590{
+padding-top:0 !important;
+padding-bottom:0 !important;
+padding-right:0 !important;
+padding-left:0 !important}
+*#dm *.dmBody div.u_1342586590{
+padding-top:0 !important;
+padding-bottom:0 !important;
+padding-right:0 !important;
+padding-left:0 !important}
+*#dm *.dmBody div.u_1758354961{
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:100% !important;
+position:relative !important;
+height:auto !important;
+padding-top:20px !important;
+padding-left:30px !important;
+padding-bottom:20px !important;
+max-width:none !important;
+padding-right:30px !important;
+min-width:0 !important;
+text-align:center !important}
+*#dm *.dmBody div.u_1758354961{
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:100% !important;
+position:relative !important;
+height:auto !important;
+padding-top:20px !important;
+padding-left:30px !important;
+padding-bottom:20px !important;
+max-width:none !important;
+padding-right:30px !important;
+min-width:0 !important;
+text-align:center !important}
+*#dm *.dmBody div.u_1952956150{
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:100% !important;
+position:relative !important;
+height:auto !important;
+padding-top:80px !important;
+padding-left:40px !important;
+padding-bottom:80px !important;
+margin-right:auto !important;
+margin-left:auto !important;
+max-width:none !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+padding-right:40px !important;
+min-width:0 !important;
+text-align:center !important;
+background-attachment:fixed !important;
+background-size:cover !important}
+*#dm *.dmBody div.u_1591285782{
+padding-top:40px !important;
+padding-left:40px !important;
+padding-right:40px !important;
+padding-bottom:40px !important}
+*#dm *.dmBody div.u_1591285782{
+padding-top:40px !important;
+padding-left:40px !important;
+padding-right:40px !important;
+padding-bottom:40px !important}
+*#dm *.dmBody div.u_1394094808{
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:calc(100% - 121px) !important;
+position:relative !important;
+height:auto !important;
+padding-top:0 !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+margin-right:auto !important;
+margin-left:auto !important;
+max-width:157px !important;
+margin-top:-20px !important;
+margin-bottom:0 !important;
+padding-right:0 !important;
+min-width:25px !important;
+text-align:center !important;
+display:block !important}
+*#dm *.dmBody div.u_1394094808{
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:calc(100% - 121px) !important;
+position:relative !important;
+height:auto !important;
+padding-top:0 !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+margin-right:auto !important;
+margin-left:auto !important;
+max-width:157px !important;
+margin-top:-20px !important;
+margin-bottom:0 !important;
+padding-right:0 !important;
+min-width:25px !important;
+text-align:center !important;
+display:block !important}
+*#dm *.dmBody div.u_1354561724 *.slides *.slide-text{
+font-size:30px !important}
+*#dm *.dmBody div.u_1354561724 *.slides *.slide-title{
+font-size:35px !important}
+*#dm *.dmBody div.u_1800433214{
+padding-top:0 !important}
+*#dm *.dmBody div.u_1012578200{
+padding-top:0 !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+background-position:50% 50% !important;
+padding-right:0 !important;
+position:relative !important}
+*#dm *.dmBody div.u_1354561724{
+height:650px !important;
+margin-top:0 !important;
+margin-bottom:0 !important}
+*#dm *.dmBody div.u_1354561724 *.slides *.slide-text{
+font-size:30px !important}
+*#dm *.dmBody div.u_1354561724 *.slides *.slide-title{
+font-size:35px !important}
+*#dm *.dmBody div.u_1800433214{
+padding-top:0 !important}
+*#dm *.dmBody div.u_1012578200{
+padding-top:0 !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+background-position:50% 50% !important;
+padding-right:0 !important;
+position:relative !important}
+*#dm *.dmBody div.u_1354561724{
+height:650px !important;
+margin-top:0 !important;
+margin-bottom:0 !important}
+*#dm *.dmBody div.u_1631368865{
+padding-left:0 !important;
+padding-right:20px !important}
+*#dm *.dmBody div.u_1444319256{
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:100% !important;
+position:relative !important;
+height:auto !important;
+padding-top:0 !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+margin-right:0 !important;
+margin-left:0 !important;
+max-width:calc(100% - 0px) !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+padding-right:0 !important;
+min-width:25px !important;
+text-align:left !important}
+*#dm *.dmBody div.u_1442111010{
+padding-top:0 !important;
+padding-bottom:20px !important;
+padding-left:15px !important;
+padding-right:15px !important}
+*#dm *.dmBody div.u_1318442808{
+padding-left:20px !important;
+padding-right:0 !important}
+*#dm *.dmBody div.u_1631368865{
+padding-left:0 !important;
+padding-right:20px !important}
+*#dm *.dmBody div.u_1444319256{
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:100% !important;
+position:relative !important;
+height:auto !important;
+padding-top:0 !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+margin-right:0 !important;
+margin-left:0 !important;
+max-width:calc(100% - 0px) !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+padding-right:0 !important;
+min-width:25px !important;
+text-align:left !important}
+*#dm *.dmBody div.u_1442111010{
+padding-top:0 !important;
+padding-bottom:20px !important;
+padding-left:15px !important;
+padding-right:15px !important}
+*#dm *.dmBody div.u_1318442808{
+padding-left:20px !important;
+padding-right:0 !important}
+*#dm *.dmBody div.u_1700014472{
+padding-top:20px !important;
+padding-bottom:50px !important;
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:auto !important;
+position:relative !important;
+height:auto !important;
+padding-left:15px !important;
+margin-right:0 !important;
+margin-left:0 !important;
+max-width:100% !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+padding-right:15px !important;
+min-width:0 !important;
+text-align:center !important}
+*#dm *.dmBody div.u_1717151671{
+display:block !important;
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:calc(100% - 0px) !important;
+position:relative !important;
+height:auto !important;
+padding-top:0 !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+margin-right:auto !important;
+margin-left:auto !important;
+max-width:100% !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+padding-right:0 !important;
+min-width:25px !important;
+text-align:center !important}
+*#dm *.dmBody div.u_1717151671{
+display:block !important;
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:calc(100% - 0px) !important;
+position:relative !important;
+height:auto !important;
+padding-top:0 !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+margin-right:auto !important;
+margin-left:auto !important;
+max-width:100% !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+padding-right:0 !important;
+min-width:25px !important;
+text-align:center !important}
+*#dm *.dmBody h2.u_1128557245{
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:100% !important;
+position:relative !important;
+height:auto !important;
+padding-top:2px !important;
+padding-left:0 !important;
+padding-bottom:2px !important;
+margin-right:0 !important;
+margin-left:0 !important;
+max-width:calc(100% - 0px) !important;
+margin-top:0 !important;
+margin-bottom:15px !important;
+padding-right:0 !important;
+min-width:25px !important;
+text-align:left !important}
+*#dm *.dmBody div.u_1600672874{
+padding-left:20px !important;
+padding-right:0 !important}
+*#dm *.dmBody div.u_1504983792{
+display:block !important;
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:100% !important;
+position:relative !important;
+height:48px !important;
+padding-top:0 !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+margin-right:auto !important;
+margin-left:auto !important;
+max-width:100% !important;
+margin-top:10px !important;
+margin-bottom:10px !important;
+padding-right:0 !important;
+min-width:0 !important;
+text-align:start !important}
+*#dm *.dmBody div.u_1981174639{
+padding-top:20px !important;
+padding-bottom:20px !important}
+*#dm *.dmBody h2.u_1128557245{
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:100% !important;
+position:relative !important;
+height:auto !important;
+padding-top:2px !important;
+padding-left:0 !important;
+padding-bottom:2px !important;
+margin-right:0 !important;
+margin-left:0 !important;
+max-width:calc(100% - 0px) !important;
+margin-top:0 !important;
+margin-bottom:15px !important;
+padding-right:0 !important;
+min-width:25px !important;
+text-align:left !important}
+*#dm *.dmBody div.u_1600672874{
+padding-left:20px !important;
+padding-right:0 !important}
+*#dm *.dmBody div.u_1504983792{
+display:block !important;
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:100% !important;
+position:relative !important;
+height:48px !important;
+padding-top:0 !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+margin-right:auto !important;
+margin-left:auto !important;
+max-width:100% !important;
+margin-top:10px !important;
+margin-bottom:10px !important;
+padding-right:0 !important;
+min-width:0 !important;
+text-align:start !important}
+*#dm *.dmBody div.u_1981174639{
+padding-top:20px !important;
+padding-bottom:20px !important}
+*#dm *.dmBody div.u_1892755940{
+padding-top:0 !important;
+padding-bottom:0 !important;
+padding-right:0 !important;
+padding-left:0 !important}
+*#dm *.dmBody div.u_1892755940{
+padding-top:0 !important;
+padding-bottom:0 !important;
+padding-right:0 !important;
+padding-left:0 !important}
+*#dm *.dmBody div.u_1107045734{
+padding-top:0 !important}
+*#dm *.dmBody div.u_1963783056{
+padding-left:20px !important;
+padding-right:0 !important;
+padding-top:0 !important}
+*#dm *.dmBody div.u_1963783056{
+padding-left:20px !important;
+padding-right:0 !important;
+padding-top:0 !important}
+*#dm *.dmBody div.u_1411441543{
+padding-top:25px !important;
+padding-bottom:50px !important}
+*#dm *.dmBody div.u_1411441543{
+padding-top:25px !important;
+padding-bottom:50px !important}
+</style>
+
+
+
+
+<!--[if IE 7]><style>.fw-head.fw-logo img{max-width: 290px;}.dm_header .logo-div img{max-width: 290px;}</style><![endif]-->
+<!--[if IE 8]><style>.fw-head .fw-logo img{max-width: 290px;}.dm_header .logo-div img{max-width: 290px;}*#dm div.dmHeader{_height:90px;min-height:0px;}</style><![endif]-->
+
+
+
+    <style id="globalFontSizeStyle" type="text/css">
+        .font-size-22, .size-22, .size-22 > font { font-size: 22px !important; }.font-size-24, .size-24, .size-24 > font { font-size: 24px !important; }.font-size-24, .size-24, .size-24 > font { font-size: 24px !important; }.font-size-32, .size-32, .size-32 > font { font-size: 32px !important; }.font-size-18, .size-18, .size-18 > font { font-size: 18px !important; }.font-size-18, .size-18, .size-18 > font { font-size: 18px !important; }.font-size-26, .size-26, .size-26 > font { font-size: 26px !important; }.font-size-16, .size-16, .size-16 > font { font-size: 16px !important; }.font-size-14, .size-14, .size-14 > font { font-size: 14px !important; }.font-size-16, .size-16, .size-16 > font { font-size: 16px !important; }.font-size-14, .size-14, .size-14 > font { font-size: 14px !important; }.font-size-16, .size-16, .size-16 > font { font-size: 16px !important; }.font-size-16, .size-16, .size-16 > font { font-size: 16px !important; }.font-size-14, .size-14, .size-14 > font { font-size: 14px !important; }.font-size-16, .size-16, .size-16 > font { font-size: 16px !important; }.font-size-14, .size-14, .size-14 > font { font-size: 14px !important; }.font-size-22, .size-22, .size-22 > font { font-size: 22px !important; }.font-size-18, .size-18, .size-18 > font { font-size: 18px !important; }.font-size-18, .size-18, .size-18 > font { font-size: 18px !important; }.font-size-18, .size-18, .size-18 > font { font-size: 18px !important; }.font-size-18, .size-18, .size-18 > font { font-size: 18px !important; }.font-size-20, .size-20, .size-20 > font { font-size: 20px !important; }.font-size-16, .size-16, .size-16 > font { font-size: 16px !important; }.font-size-20, .size-20, .size-20 > font { font-size: 20px !important; }.font-size-14, .size-14, .size-14 > font { font-size: 14px !important; }.font-size-14, .size-14, .size-14 > font { font-size: 14px !important; }.font-size-14, .size-14, .size-14 > font { font-size: 14px !important; }.font-size-14, .size-14, .size-14 > font { font-size: 14px !important; }.font-size-14, .size-14, .size-14 > font { font-size: 14px !important; }.font-size-14, .size-14, .size-14 > font { font-size: 14px !important; }
+    </style>
+    <style id="pageFontSizeStyle" type="text/css">
+    </style>
+
+
+
+<!-- ========= JS Section ========= -->
+
+<!-- Modernizr -->
+<script>
+    /* THIS FILE IS AUTO-GENERATED. SEE build/build-modernizr */
+
+/*! modernizr 3.5.0 (Custom Build) | MIT *
+ * https://modernizr.com/download/?-passiveeventlisteners-supports-setclasses-cssclassprefix:dm- !*/
+!function(e,n,s){function o(e,n){return typeof e===n}function t(){var e,n,s,t,a,r,l;for(var c in i)if(i.hasOwnProperty(c)){if(e=[],n=i[c],n.name&&(e.push(n.name.toLowerCase()),n.options&&n.options.aliases&&n.options.aliases.length))for(s=0;s<n.options.aliases.length;s++)e.push(n.options.aliases[s].toLowerCase());for(t=o(n.fn,"function")?n.fn():n.fn,a=0;a<e.length;a++)r=e[a],l=r.split("."),1===l.length?Modernizr[l[0]]=t:(!Modernizr[l[0]]||Modernizr[l[0]]instanceof Boolean||(Modernizr[l[0]]=new Boolean(Modernizr[l[0]])),Modernizr[l[0]][l[1]]=t),f.push((t?"":"no-")+l.join("-"))}}function a(e){var n=l.className,s=Modernizr._config.classPrefix||"";if(c&&(n=n.baseVal),Modernizr._config.enableJSClass){var o=new RegExp("(^|\\s)"+s+"no-js(\\s|$)");n=n.replace(o,"$1"+s+"js$2")}Modernizr._config.enableClasses&&(n+=" "+s+e.join(" "+s),c?l.className.baseVal=n:l.className=n)}var i=[],r={_version:"3.5.0",_config:{classPrefix:"dm-",enableClasses:!0,enableJSClass:!0,usePrefixes:!0},_q:[],on:function(e,n){var s=this;setTimeout(function(){n(s[e])},0)},addTest:function(e,n,s){i.push({name:e,fn:n,options:s})},addAsyncTest:function(e){i.push({name:null,fn:e})}},Modernizr=function(){};Modernizr.prototype=r,Modernizr=new Modernizr;var f=[],l=n.documentElement,c="svg"===l.nodeName.toLowerCase(),u="CSS"in e&&"supports"in e.CSS,p="supportsCSS"in e;Modernizr.addTest("supports",u||p),Modernizr.addTest("passiveeventlisteners",function(){var n=!1;try{var s=Object.defineProperty({},"passive",{get:function(){n=!0}});e.addEventListener("test",null,s)}catch(o){}return n}),t(),a(f),delete r.addTest,delete r.addAsyncTest;for(var d=0;d<Modernizr._q.length;d++)Modernizr._q[d]();e.Modernizr=Modernizr}(window,document);
+    var isWLR = true;
+
+    window.customWidgetsFunctions = {};
+    window.customWidgetsStrings = {};
+    window.collections = {};
+</script>
+<script>
+                window.collections = JSON.parse(decodeURIComponent(escape(atob("e30="))));
+</script>
+
+
+
+<script type="text/javascript">
+
+    var version = "4.6.1";
+    var build = "2020-04-26T06_53_05";
+
+    function buildEditorParent() {
+        window.isMultiScreen = true;
+        window.editorParent = {};
+        window.previewParent = {};
+        window.assetsCacheQueryParam = "?version=2020-04-26T06_53_05";
+        try {
+            var _p = window.parent;
+            if (_p && _p.document && _p.$ && _p.$.dmfw) {
+                window.editorParent = _p;
+            }
+            else if (_p.isSitePreview) {
+                window.previewParent = _p;
+            }
+        } catch (e) {
+
+        }
+    }
+
+    buildEditorParent();
+
+
+</script>
+<!-- Load jQuery -->
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<!-- End Load jQuery --><script>
+    window.cookiesNotificationMarkupPreview = 'null';
+</script>
+<script>
+    var shouldMonitorImages =  false;
+    if(shouldMonitorImages) {
+        window.addEventListener('error', function(event) {
+            if(event.target && event.target.tagName === 'IMG' && event.target.src && event.target.src.includes && event.target.src.includes('multiscreensite.com')) {
+                if (!window.fetch){
+                    return;
+                }
+                try {
+                    return fetch('/_dm/s/rt/actions/log/WARN', {
+                        method: 'POST',
+                        headers: {
+                            'Content-Type': 'application/json'
+                        },
+                        body: JSON.stringify({ data: {
+                                type: 'image failed to load',
+                                eventType: event.type,
+                                image: event.target.src,
+                                href: window.location.href
+                            } })
+                    });
+                } catch (error) {
+                    console.log(error);
+                }
+
+            }
+        }, { capture: true });
+    }
+
+</script>
+<!-- HEAD RT JS Include -->
+<script>
+    window.INSITE = window.INSITE || {};
+    window.INSITE.device = "desktop";
+    window.rtCommonProps = {};
+    rtCommonProps["rt.ajax.ajaxScriptsFix"] =true;
+    rtCommonProps["rt.pushnotifs.sslframe.encoded"] = 'aHR0cHM6Ly97c3ViZG9tYWlufS5wdXNoLW5vdGlmcy5jb20=';
+    rtCommonProps["facebook.accessToken"] = '126515034112906|8vv7JhnEegS8qz43fIOZjxGZReA';
+    rtCommonProps["performance.tabletPreview.removeScroll"] = 'false';
+    rtCommonProps["feature.flag.contactUsNewForm"] = 'true';
+    rtCommonProps["inlineEditGrid.snap"] =true;
+    rtCommonProps["popup.insite.cookie.ttl"] = '0.5';
+    rtCommonProps["rt.pushnotifs.force.button"] =true;
+    rtCommonProps["google.places.key"] = 'AIzaSyBAwUOqPUB1CU31yDztoZYaUE7sPv4ktEI';
+    rtCommonProps["common.mapbox.token"] = 'pk.eyJ1IjoiZGFubnliMTIzIiwiYSI6ImNqMGljZ256dzAwMDAycXBkdWxwbDgzeXYifQ.Ck5P-0NKPVKAZ6SH98gxxw';
+    rtCommonProps["common.mapbox.js.override"] =false;
+    rtCommonProps["common.opencage.token"] = '319e14f32bcce967ba55cd263478796d';
+    rtCommonProps["common.here.appId"] = 'iYvDjIQ2quyEu0rg0hLo';
+    rtCommonProps["common.here.appCode"] = '1hcIxLJcbybmtBYTD9Z1UA';
+    rtCommonProps["isCoverage.test"] =false;
+    rtCommonProps["ecommerce.ecwid.script"] = 'https://app.multiscreenstore.com/script.js';
+    rtCommonProps["feature.flag.mappy.kml"] =false;
+    rtCommonProps["common.resources.dist.cdn"]=true;
+    rtCommonProps["common.build.dist.folder"]='production/1252';
+    rtCommonProps["common.resources.cdn.host"]='https://static-cdn.multiscreensite.com';
+    rtCommonProps["common.resources.folder"]='https://static-cdn.multiscreensite.com/mnlt/production/1252';
+    rtCommonProps["import.images.storage.useImageCDN"]=true;
+    
+    rtCommonProps['common.mapsProvider'] = 'mapbox';
+    rtCommonProps['common.mapsProvider.version'] = '0.52.0';
+    rtCommonProps['common.geocodeProvider'] = 'here';
+    rtCommonProps['common.map.defaults.radiusSize'] = '1500';
+    rtCommonProps['common.map.defaults.radiusBg'] = 'rgba(255, 255, 255, 0.4)';
+    rtCommonProps['common.map.defaults.strokeColor'] = 'rgba(255, 255, 255, 1)';
+    rtCommonProps['common.map.defaults.strokeSize'] = '2';
+    rtCommonProps['server.for.resources'] = '';
+    rtCommonProps['feature.flag.lazy.widgets'] = true;
+    rtCommonProps['feature.flag.single.wow'] = false;
+    rtCommonProps['feature.flag.mark.anchors']= true;
+    rtCommonProps['captcha.public.key'] = '6LffcBsUAAAAAMU-MYacU-6QHY4iDtUEYv_Ppwlz';
+    rtCommonProps['captcha.invisible.public.key'] = '6LeiWB8UAAAAAHYnVJM7_-7ap6bXCUNGiv7bBPME';
+    rtCommonProps["images.sizes.small"]=160;
+    rtCommonProps["images.sizes.mobile"]=640;
+    rtCommonProps["images.sizes.tablet"]=1280;
+    rtCommonProps["images.sizes.desktop"]=1920;
+    rtCommonProps["modules.resources.cdn"]=true;
+    rtCommonProps["import.images.storage.imageCDN"]='https://lirp-cdn.multiscreensite.com/';
+</script>
+<script src="https://static-cdn.multiscreensite.com/mnlt/production/1252/_dm/s/rt/dist/scripts/d-js-runtime-one-package.min.js" ></script>
+<!-- End of HEAD RT JS Include -->
+<script src="https://static-cdn.multiscreensite.com/mnlt/production/1252/_dm/s/rt/dist/scripts/d-js-one-runtime-layouts-package.min.js" ></script>
+<script src="https://static-cdn.multiscreensite.com/mnlt/production/1252/_dm/s/rt/dist/scripts/d-js-one-runtime-layouts-desktop.min.js" ></script>
+<script>jQuery.DM.updateWidthAndHeight();
+$(window).resize(function () {
+    
+});
+$(window).bind("orientationchange", function (e) {
+    $.layoutManager.initLayout();
+    
+});
+$(document).resize(function () {
+    
+});
+</script>
+
+
+
+
+
+<!-- End render the required css and JS in the head section -->
+
+
+
+
+
+
+
+  <title>
+    Formazione sulla sicurezza del lavoro | Caorle, VE | Progest Group
+  </title>
+  <meta name="keywords" content="corsi di formazione, formazione sul lavoro, formazione Igienico sanitaria, consulenza, servizio di prevenzione e protezione, analisi microbiologiche, certificazioni, sicurezza sul lavoro, prevenzione incendi, RSDP Esterno, analisi microbiologiche, assistenza legale"/>
+  <meta name="description" content="Progest Group si occupa di consulenza e corsi di formazione sulla sicurezza del lavoro nel Triveneto. Scrivici una mail a info@progestgroup.it!"/>
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"/>
+
+  <meta name="twitter:card" content="summary"/>
+  <meta name="twitter:title" content="Formazione sulla sicurezza del lavoro | Caorle, VE | Progest Group"/>
+  <meta name="twitter:description" content="Progest Group si occupa di consulenza e corsi di formazione sulla sicurezza del lavoro nel Triveneto. Scrivici una mail a info@progestgroup.it!"/>
+  <meta property="og:description" content="Progest Group si occupa di consulenza e corsi di formazione sulla sicurezza del lavoro nel Triveneto. Scrivici una mail a info@progestgroup.it!"/>
+  <meta property="og:title" content="Formazione sulla sicurezza del lavoro | Caorle, VE | Progest Group"/>
+
+
+
+
+<!-- SYS- VVNfRElSRUNUX1BST0RVQ1RJT04= -->
+</head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<body id="dmRoot"  class="supportsFontIcons supportsFontIcons dmRoot dmDesktopBody fix-mobile-scrolling dmResellerSite dmLargeBody " style="padding:0;margin:0;"
+            >
+        <div id="disabledImageZone" style="display:none;z-index:-1">
+            <style type="text/css">
+                #imageZone {
+                    position: absolute;
+                    margin: auto;
+                }
+
+                .coloumns {
+                    border-radius: 3px;
+                    background-color: rgb(249, 152, 13); /*border:1px solid #999;*/
+                    height: 18px;
+                    width: 6px;
+                    -webkit-animation-name: loader;
+                    -webkit-animation-duration: 1s;
+                    -webkit-animation-iteration-count: infinite;
+                    -webkit-animation-direction: linear;
+                    -moz-animation-name: loader;
+                    -moz-animation-duration: 1s;
+                    -moz-animation-iteration-count: infinite;
+                    -moz-animation-direction: linear;
+                    opacity: .25;
+                    -webkit-transform: scale(0.7);
+                    -webkit-transform-origin: 50% 180%;
+                    -moz-transform: scale(0.7);
+                    -moz-transform-origin: 50% 180%;
+                    position: absolute;
+                }
+
+                #coloumn1 {
+                    -webkit-transform: rotate(0deg);
+                    -webkit-animation-delay: -.914s;
+                    -moz-transform: rotate(0deg);
+                    -moz-animation-delay: -.914s;
+                }
+
+                #coloumn2 {
+                    -webkit-transform: rotate(30deg);
+                    -webkit-animation-delay: -.831s;
+                    -moz-transform: rotate(30deg);
+                    -moz-animation-delay: -.831s;
+                }
+
+                #coloumn3 {
+                    -webkit-transform: rotate(60deg);
+                    -webkit-animation-delay: -.747s;
+                    -moz-transform: rotate(60deg);
+                    -moz-animation-delay: -.747s;
+                }
+
+                #coloumn4 {
+                    -webkit-transform: rotate(90deg);
+                    -webkit-animation-delay: -.664s;
+                    -moz-transform: rotate(90deg);
+                    -moz-animation-delay: -.664s;
+                }
+
+                #coloumn5 {
+                    -webkit-transform: rotate(120deg);
+                    -webkit-animation-delay: -.581s;
+                    -moz-transform: rotate(120deg);
+                    -moz-animation-delay: -.581s;
+                }
+
+                #coloumn6 {
+                    -webkit-transform: rotate(150deg);
+                    -webkit-animation-delay: -.498s;
+                    -moz-transform: rotate(150deg);
+                    -moz-animation-delay: -.498s;
+                }
+
+                #coloumn7 {
+                    -webkit-transform: rotate(180deg);
+                    -webkit-animation-delay: -.415s;
+                    -moz-transform: rotate(180deg);
+                    -moz-animation-delay: -.415s;
+                }
+
+                #coloumn8 {
+                    -webkit-transform: rotate(210deg);
+                    -webkit-animation-delay: -.332s;
+                    -moz-transform: rotate(210deg);
+                    -moz-animation-delay: -.332s;
+                }
+
+                #coloumn9 {
+                    -webkit-transform: rotate(240deg);
+                    -webkit-animation-delay: -.249s;
+                    -moz-transform: rotate(240deg);
+                    -moz-animation-delay: -.249s;
+                }
+
+                #coloumn10 {
+                    -webkit-transform: rotate(270deg);
+                    -webkit-animation-delay: -.166s;
+                    -moz-transform: rotate(270deg);
+                    -moz-animation-delay: -.166s;
+                }
+
+                #coloumn11 {
+                    -webkit-transform: rotate(300deg);
+                    -webkit-animation-delay: -.083s;
+                    -moz-transform: rotate(300deg);
+                    -moz-animation-delay: -.083s;
+                }
+
+                #coloumn12 {
+                    -webkit-transform: rotate(330deg);
+                    -moz-transform: rotate(330deg);
+                }
+
+                @-webkit-keyframes loader {
+                    0% {
+                        opacity: 1;
+                    }
+                    100% {
+                        opacity: .25;
+                    }
+                }
+
+                @-moz-keyframes loader {
+                    0% {
+                        opacity: 1;
+                    }
+                    100% {
+                        opacity: .25;
+                    }
+                }
+            </style>
+            <div id='imageZone'>
+                <div id='coloumn1' class='coloumns'></div>
+                <div id='coloumn2' class='coloumns'></div>
+                <div id='coloumn3' class='coloumns'></div>
+                <div id='coloumn4' class='coloumns'></div>
+                <div id='coloumn5' class='coloumns'></div>
+                <div id='coloumn6' class='coloumns'></div>
+                <div id='coloumn7' class='coloumns'></div>
+                <div id='coloumn8' class='coloumns'></div>
+                <div id='coloumn9' class='coloumns'></div>
+                <div id='coloumn10' class='coloumns'></div>
+                <div id='coloumn11' class='coloumns'></div>
+                <div id='coloumn12' class='coloumns'></div>
+            </div>
+        </div>
+
+        <!-- ========= Site Content ========= -->
+        <div id="dm" class='dmwr'>
+            
+            <div class="dm_wrapper standard-var5 widgetStyle-3 standard">
+                 <div dmwrapped="true" id="1223914775" themewaschanged="true"> <div dmtemplateid="StandardLayoutMultiD" class="standardHeaderLayout dm-bfs dm-layout-sec hasAnimations hasStickyHeader dmPageBody d-page-1042370682 dmFreeHeader" id="dm-outer-wrapper" data-page-class="1042370682" data-buttonstyle="FLAT" data-soch="true" data-background-position="50% 0" data-background-image="url(https://dd-cdn.multiscreensite.com/themes/sushi/fotolia/sushi_home_main.jpg)" data-background-hide-inner="true" data-background-fullbleed="false"> <div id="dmStyle_outerContainer" class="dmOuter"> <div id="dmStyle_innerContainer" class="dmInner"> <div class="dmLayoutWrapper standard-var dmStandardDesktop"> <ul class="dmn dmLayoutNav hiddenNavPlaceHolder navPlaceHolder dmDisplay_None"></ul> 
+ <div> <div id="iscrollBody"> <div id="site_content"> <div class="dmHeaderContainer fHeader d-header-wrapper"> <div id="hcontainer" class="u_hcontainer dmHeader p_hfcontainer" freeheader="true" layout="78f5c343822e4eb3aac27f4ad5d13812===header" data-scrollable-target="body" data-scrollable-target-threshold="1" data-scroll-responder-id="1" logo-size-target="83%"> <div dm:templateorder="75" class="dmHeaderResp dmHeaderStack" id="1033038057"> <div class="dmRespRow dmDefaultListContentRow u_1155023572 fullBleedChanged fullBleedMode" style="text-align:center" id="1155023572"> <div class="dmRespColsWrapper" id="1335605670"> <div class="u_1883573249 small-12 dmRespCol large-2 medium-2" id="1883573249"> <div class="u_1938239507 imageWidget align-center" editablewidget="true" data-widget-type="image" id="1938239507" data-element-type="image"><img src="https://irp-cdn.multiscreensite.com/002795da/dms3rep/multi/desktop/Logo+Progest.png" id="1805108597" class="" data-dm-image-path="https://irp-cdn.multiscreensite.com/002795da/dms3rep/multi/desktop/Logo+Progest.png" data-dm-multi-sug-width="480" onerror="handleImageLoadError(this)"/></div> 
+</div> 
+ <div class="u_1987903877 dmRespCol small-12 large-8 medium-8" id="1987903877"> <nav class="u_1280998950 effect-bottom2 main-navigation unifiednav dmLinksMenu" role="navigation" layout-main="horizontal_nav_layout_1" layout-sub="submenu_horizontal_1" data-show-vertical-sub-items="HOVER" id="1280998950" dmle_extension="onelinksmenu" data-element-type="onelinksmenu" wr="true" icon="true" surround="true" adwords="" data-from-nav="true" data-sub-nav="true" data-nav-structure="HORIZONTAL" data-items="-1" custom-li-class="" custom-ul-class="" custom-a-class="" custom-inner-ul-class="" custom-nested-inner-ul-class="" custom-span-class="" navigation-id="unifiedNav" data-links-level="0" is-build-your-own="false"> <ul class="unifiednav__container  " data-auto&#x3d;navigation-pages=""> <li class=" unifiednav__item-wrap " data-auto&#x3d;more-pages=""> <a href="index.html" class="unifiednav__item  dmUDNavigationItem_00  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+                  
+         Home
+        
+                " data-auto&#x3d;page-text-style="">Home<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li class=" unifiednav__item-wrap " data-auto&#x3d;more-pages=""> <a href="progest-group" class="unifiednav__item  dmNavItemSelected  dmUDNavigationItem_02  " target="" data-target-page-alias="" data-auto&#x3d;selected-page=""> <span class="nav-item-text " data-link-text="
+                  
+         Progest Group
+        
+                " data-auto&#x3d;page-text-style="">Progest Group<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li class=" unifiednav__item-wrap " data-auto&#x3d;more-pages=""> <a href="formazione" class="unifiednav__item  dmUDNavigationItem_010101490647  unifiednav__item_has-sub-nav" target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+                  
+         Formazione
+        
+                " data-auto&#x3d;page-text-style="">Formazione<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+ <ul class="unifiednav__container unifiednav__container_sub-nav" data-depth="0" data-auto&#x3d;sub-pages=""> <li class=" unifiednav__item-wrap " data-auto&#x3d;more-pages=""> <a href="servizio-di-prevenzione-e-protezione-spp" class="unifiednav__item  dmUDNavigationItem_010101407608  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+                      
+           Servizio di prevenzione e protezione - SPP
+          
+                    " data-auto&#x3d;page-text-style="">Servizio di prevenzione e protezione - SPP<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li class=" unifiednav__item-wrap " data-auto&#x3d;more-pages=""> <a href="squadra-delle-emergenze" class="unifiednav__item  dmUDNavigationItem_010101283419  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+                      
+           Squadra delle emergenze
+          
+                    " data-auto&#x3d;page-text-style="">Squadra delle emergenze<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li class=" unifiednav__item-wrap " data-auto&#x3d;more-pages=""> <a href="lavoratori-e-loro-rappresentanti" class="unifiednav__item  dmUDNavigationItem_010101546689  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+                      
+           Lavoratori e loro rappresentanti
+          
+                    " data-auto&#x3d;page-text-style="">Lavoratori e loro rappresentanti<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li class=" unifiednav__item-wrap " data-auto&#x3d;more-pages=""> <a href="Igiene-e-haccp" class="unifiednav__item  dmUDNavigationItem_010101274726  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+                      
+           Igiene e HACCP
+          
+                    " data-auto&#x3d;page-text-style="">Igiene e HACCP<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</li> 
+ <li class=" unifiednav__item-wrap " data-auto&#x3d;more-pages=""> <a href="altri-corsi" class="unifiednav__item  dmUDNavigationItem_010101940300  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+                  
+         Corsi online
+        
+                " data-auto&#x3d;page-text-style="">Corsi online<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li class=" unifiednav__item-wrap " data-auto&#x3d;more-pages=""> <a href="rspp-esterno" class="unifiednav__item  dmUDNavigationItem_010101408362  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+                  
+         RSPP esterno
+        
+                " data-auto&#x3d;page-text-style="">RSPP esterno<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li class=" unifiednav__item-wrap " data-auto&#x3d;more-pages=""> <a href="analisi-microbiologiche" class="unifiednav__item  dmUDNavigationItem_010101963437  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+                  
+         Analisi Legionella
+        
+                " data-auto&#x3d;page-text-style="">Analisi Legionella<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li class=" unifiednav__item-wrap " data-auto&#x3d;more-pages=""> <a href="collaborazioni" class="unifiednav__item  dmUDNavigationItem_010101336231  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+                  
+         Collaborazioni
+        
+                " data-auto&#x3d;page-text-style="">Collaborazioni<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li class=" unifiednav__item-wrap " data-auto&#x3d;more-pages=""> <a href="contatti" class="unifiednav__item  dmUDNavigationItem_03  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+                  
+         Contatti
+        
+                " data-auto&#x3d;page-text-style="">Contatti<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</nav> 
+</div> 
+ <div class="u_1182440841 dmRespCol small-12 large-2 medium-2" id="1182440841"> <div class="u_1394578861 align-center text-align-center dmSocialHub" id="1394578861" dmle_extension="social_hub" data-element-type="social_hub" wr="true" networks="" icon="true" surround="true" adwords=""> <div class="socialHubWrapper"> <div class="socialHubInnerDiv "> <a href="https://facebook.com/progestgroup" target="_blank" dmle_dont_remove="target" dm_dont_rewrite_url="true"> <span class="dmSocialFacebook dm-social-icons-facebook oneIcon socialHubIcon style2" data-hover-effect="none"></span> 
+</a> 
+ <a href="mailto:info@progestgroup.it" dmle_dont_remove="target" dm_dont_rewrite_url="true"> <span class="dmSocialEmail dm-social-icons-email oneIcon socialHubIcon style2" data-hover-effect="none"></span> 
+</a> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="stickyHeaderSpacer" id="stickyHeaderSpacer" data-new="true"></div> 
+ <div class="dmRespRow dmRespRowStable dmRespRowNoPadding dmPageTitleRow "> <div class="dmRespColsWrapper"> <div class="large-12 dmRespCol"> <div id="innerBar" class="innerBar lineInnerBar dmDisplay_None"> <div class="titleLine display_None"><hr/></div> 
+<!-- Page title is hidden in css for new responsive sites. It is left here only so we don't break old sites. Don't copy it to new layouts --> <div id="pageTitleText"> <div class="innerPageTitle">Progest Group</div> 
+</div> 
+ <div class="titleLine display_None"><hr/></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div dmwrapped="true" id="1223914775" themewaschanged="true" class="dmBody u_dmStyle_template_progest-group"> <div id="allWrapper" class="allWrapper"><!-- navigation placeholders --> <div id="dm_content" class="dmContent"> <div dm:templateorder="112" class="dmDefaultRespTmpl mainBorder" id="1042370682"> <div class=" dmDefaultPage dmAboutListPage dmRespRowsWrapper" id="1166810817"> <div class="u_1012578200 dmRespRow dmSectionNoParallax fullBleedChanged fullBleedMode" id="1012578200" data-gallery-bg="eyJzbGlkZXMiOltdfQ=="> <div class="dmRespColsWrapper" id="1231838073"> <div class="u_1800433214 dmRespCol small-12 medium-12 large-12" id="1800433214"> <div class="u_1354561724 flex-container dmImageSlider dmNoMargin dmNoMark" editablewidget="true" data-widget-type="imageSlider" data-element-type="dSliderId" id="1354561724"> <div class="flexslider ed-version nav-layout-2" sliderscriptparams="{'stretch':true,'animation':true,'randomize':false,'directionNav':true,'isAutoPlay':true,'isFade':true,'controlNav':false,'slideshowSpeed':7000,'animationDuration':600,'pausePlay':true}" id="1086732384" layout="center"> <ul class="slides" id="1052613725"> <li layout="center" position="center" animation="none" show-content="true" color-overlay="true" text-background="true" id="1596833469" class="u_1596833469" show-caption="true"><img dm="true" src="https://lirp-cdn.multiscreensite.com/md/unsplash/dms3rep/multi/opt/photo-1555963966-b7ae5404b6ed-1920w.jpg" id="1274626376" class="" onerror="handleImageLoadError(this)"/> <div class="color-overlay" id="1395831431"></div> 
+ <div class="slide-inner" id="1291854892"> <div class="text-wrapper" id="1892631186"> <h3 class="slide-title u_1457110751" id="1457110751">I nostri obiettivi per il vostro benessere</h3> 
+ <div class="slide-text richText u_1372478185" id="1372478185"><p class="rteBlock">Consulta i nostri servizi&nbsp;</p><br/></div></div> 
+ <div class="slide-button dmWidget clearfix slide-button-invisible" id="1245200666"> <span class="iconBg" id="1908185617"> <span class="icon hasFontIcon icon-star" id="1161618203"></span> 
+</span> 
+ <span class="text" id="1891305730">Chiamaci subito</span> 
+</div> 
+</div> 
+</li> 
+</ul> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="u_1700014472 dmRespRow text-center" style="text-align: center;" id="1700014472"> <div class="dmRespColsWrapper" id="1305758892"> <div class="dmRespCol small-12 medium-12 large-12" id="1960105318"> <h3 class="u_1068525967 dmNewParagraph center" id="1068525967" data-uialign="center"><font class="lh-1 font-size-22"><b><font class="lh-1"><font class="lh-1"><font class="font-size-24 lh-1"><span class="lh-1"></span></font></font></font></b><font class="lh-1"><font class="lh-1"><font class="font-size-24 lh-1"><font class="font-size-32 lh-1">Consulenza e assistenza per la vostra azienda</font></font></font></font></font></h3> <div class="dmNewParagraph u_1406197709 center" data-dmtmpl="true" id="1406197709"><div style="text-align: justify;"><font face="Arial">Una delle attivit&agrave; principali della Progest Group &egrave; quella rappresentata dall'attivit&agrave; di consulenza e assistenza fornita alle imprese sul tema della sicurezza e igiene sul lavoro.&nbsp;</font><span>Svolgiamo insieme a voi la pianificazione di tutte le attivit&agrave; utili ad aumentare i livelli di sicurezza nel tempo all&rsquo;interno della vostra azienda e vi supporteremo nella redazione e compilazione della parte documentale.&nbsp;</span></div></div></div> 
+</div> 
+</div> 
+ <div class="u_1442111010 dmRespRow dmDefaultListContentRow" id="1442111010"> <div class="dmRespColsWrapper" id="1109522762"> <div class="u_1631368865 small-12 dmRespCol dmTxtCol medium-6 large-6" id="1631368865"> <div class="dmNewParagraph" data-dmtmpl="true" id="1892692288"><div style="text-align: justify;">La nostra squadra &egrave; formata da un team di tecnici e docenti qualificati, che vi consiglieranno al meglio sui documenti da redigere, sulla formazione da svolgere, sulle procedure gestionali da seguire per il mantenimento ed il costante aggiornamento delle misure di prevenzione e protezione. Grazie alle loro competenze comunicative saranno capaci di proporvi percorsi educativi per quello che concerne la formazione di:&nbsp;</div><div><div><ul class="innerList defaultList"><li style="text-align: justify;">Servizio di prevenzione e protezione (SPP);&nbsp;</li><li style="text-align: justify;">Lavoratori e suoi rappresentanti;</li><li style="text-align: justify;">Squadre di gestione delle emergenze;</li><li style="text-align: justify;">Addetti al settore alimentare;</li><li style="text-align: justify;">Altri corsi</li></ul></div></div></div></div> 
+ <div class="u_1318442808 small-12 dmRespCol medium-6 large-6" id="1318442808"> <div class="u_1444319256 dmNewParagraph" data-dmtmpl="true" id="1444319256" style="display: block;" data-uialign="right"><div><div style="text-align: justify;">Per le pratiche di consulenza e assistenza, il team di Progest Group pu&ograve; darti supporto nella gestione di tutta la documentazione in merito ai seguenti ambiti:</div><ul class="innerList defaultList"><li style="text-align: justify;">Sicurezza e salute sul lavoro;</li><li style="text-align: justify;">Igiene alimentare;</li><li style="text-align: justify;">Servizio di RSPP Esterno;</li><li style="text-align: justify;">Altre pratiche</li></ul></div><div style="text-align: justify;">Siamo organizzati per intervenire in tempi brevi direttamente presso le vostre sedi in tutto il Triveneto, sia per la consulenza, sia per la formazione, progettando le diverse attivit&agrave; in base alle specifiche esigenze.</div></div></div> 
+</div> 
+</div> 
+ <div class="u_1709883453 dmRespRow" style="text-align: center;" id="1709883453"> <div class="dmRespColsWrapper" id="1690058510"> <div class="dmRespCol small-12 medium-12 large-12" id="1029725337"> <span id="1990240066"></span> 
+ <div class="dmDividerWrapper clearfix" id="1649265447" data-element-type="dDividerId" layout="divider-style-1" data-widget-version="2"><hr class="dmDivider" style="min-height: 2px; border:none; background:grey" id="1075219285"/></div> 
+</div> 
+</div> 
+</div> 
+ <div class="u_1273348343 dmRespRow" style="text-align: center;" id="1273348343"> <div class="dmRespColsWrapper" id="1903677839"> <div class="u_1362915068 dmRespCol small-12 medium-12 large-12" id="1362915068"> <div class="u_1744295005 imageWidget" editablewidget="true" data-widget-type="image" id="1744295005" data-element-type="image"><img src="https://lirp-cdn.multiscreensite.com/002795da/dms3rep/multi/opt/ICONE-02-100x100-110w.png" id="1340994508" dm_changed="true" class="u_1340994508" alt="ICONA ELMETTO" onerror="handleImageLoadError(this)"/></div> 
+ <h2 class="u_1855179433 dmNewParagraph" id="1855179433" data-element-type="paragraph" data-uialign="left"><div style="text-align: center;"></div><font class="font-size-18 lh-1"><b><font class="lh-1"><span style="font-family: 'Arial';"><div style="text-align: center;">Sicurezza e salute sul lavoro</div><div style="text-align: center;"><span class="lh-1">(D.Lgs. 81/08 e s.m.i.)</span></div></span></font></b></font><div style="text-align: center;"><span class="lh-1 font-size-18" style=""></span></div></h2> <div class="dmPhotoGallery newPhotoGallery dmPhotoGalleryResp" galleryoptionsparams="{thumbnailsPerRow: 3, rowsToShow: 3, imageScaleMethod: true}" data-desktop-layout="square" data-desktop-columns="4" data-element-type="dPhotoGalleryId" data-desktop-text-layout="over" id="1717421113"> <ul class="dmPhotoGalleryHolder clearfix gallery shadowEffectToChildren gallery4inArow" id="1966259268" dont_set_id="true"> <li index="0" class="photoGalleryThumbs" id="1260347044"> <div class="image-container" id="1939596008"> <a data-dm-multisize-attr="href" data-image-url="https://irp-cdn.multiscreensite.com/002795da/dms3rep/multi/Certificazione-PROGEST-Caorle-015-500x300-d4c7a004.jpg" id="1246690871" class="u_1246690871"><img data-src="https://lirp-cdn.multiscreensite.com/002795da/dms3rep/multi/opt/Certificazione-PROGEST-Caorle-015-500x300-d4c7a004-1920w.jpg" irh="1" irw="2" id="1945626384" class="" onerror="handleImageLoadError(this)"/></a> 
+</div> 
+ <div class="caption-container " id="1032778249"> <span class="caption-inner" id="1573121462"> <h3 class="caption-title" id="1933701392">DVR</h3> 
+ <div class="caption-text" id="1766463328"><p class="rteBlock">Documento Valutazione dei Rischi</p></div> <a class="caption-button dmWidget  displayNone  clearfix" href="progest-group" id="1224940383"> <span class="iconBg" id="1187033190"> <span class="icon hasFontIcon icon-star" id="1013027661"></span> 
+</span> 
+ <span class="text" id="1310687834">Button</span> 
+</a> 
+</span> 
+</div> 
+</li> 
+ <li index="2" class="photoGalleryThumbs" id="1663979639"> <div class="image-container" id="1241281962"> <a data-dm-multisize-attr="href" data-image-url="https://irp-cdn.multiscreensite.com/md/unsplash/dms3rep/multi/photo-1518709414768-a88981a4515d.jpg" id="1372530911" class="u_1372530911"><img data-src="https://lirp-cdn.multiscreensite.com/md/unsplash/dms3rep/multi/opt/photo-1518709414768-a88981a4515d-1920w.jpg" irh="3" irw="4" id="1339476435" class="" onerror="handleImageLoadError(this)"/></a> 
+</div> 
+ <div class="caption-container " id="1113552640"> <span class="caption-inner" id="1203496955"> <h3 class="caption-title" id="1211883332">Rischi Specifici</h3> 
+ <div class="caption-text" id="1185885701"><p class="rteBlock">Rumore, Vibrazioni, Chimico, Biologico, Videoterminali, Movimentazione Manuale dei Carichi, Stress Lavoro Correlato</p></div> <a class="caption-button dmWidget  displayNone  clearfix" href="progest-group" id="1536738557"> <span class="iconBg" id="1134366667"> <span class="icon hasFontIcon icon-star" id="1604934638"></span> 
+</span> 
+ <span class="text" id="1765500631">Button</span> 
+</a> 
+</span> 
+</div> 
+</li> 
+ <li index="1" class="photoGalleryThumbs" id="1758826766"> <div class="image-container" id="1487501952"> <a data-dm-multisize-attr="href" data-image-url="https://irp-cdn.multiscreensite.com/002795da/dms3rep/multi/img_5996-4272x2848.jpg" id="1253355639" class="u_1253355639"><img data-src="https://lirp-cdn.multiscreensite.com/002795da/dms3rep/multi/opt/img_5996-4272x2848-1920w.jpg" irh="2" irw="3" id="1792633946" class="" onerror="handleImageLoadError(this)"/></a> 
+</div> 
+ <div class="caption-container " id="1601200897"> <span class="caption-inner" id="1386392970"> <h3 class="caption-title" id="1658130920">Rischio Incendio</h3> 
+ <div class="caption-text" id="1151039029"><p class="rteBlock">Certificati Prevenzione Incendi</p><p class="rteBlock">Piani di evacuazione e planimetrie di emergenza</p></div> <a class="caption-button dmWidget  displayNone  clearfix" href="progest-group" id="1344340367"> <span class="iconBg" id="1530352637"> <span class="icon hasFontIcon icon-star" id="1185492132"></span> 
+</span> 
+ <span class="text" id="1889319015">Button</span> 
+</a> 
+</span> 
+</div> 
+</li> 
+ <li index="3" class="photoGalleryThumbs" id="1236293580"> <div class="image-container" id="1496313534"> <a data-dm-multisize-attr="href" data-image-url="https://irp-cdn.multiscreensite.com/md/unsplash/dms3rep/multi/photo-1521650775848-620150d73160.jpg" id="1041606414" class="u_1041606414"><img data-src="https://lirp-cdn.multiscreensite.com/md/unsplash/dms3rep/multi/opt/photo-1521650775848-620150d73160-1920w.jpg" irh="4" irw="5" id="1773400418" class="" onerror="handleImageLoadError(this)"/></a> 
+</div> 
+ <div class="caption-container " id="1357387113"> <span class="caption-inner" id="1591630302"> <h3 class="caption-title" id="1681374118">Sicurezza nei cantieri</h3> 
+ <div class="caption-text" id="1158296430"><p class="rteBlock">Piani operativi di sicurezza</p><p class="rteBlock">Piani di coordinamento</p></div> <a class="caption-button dmWidget  displayNone  clearfix" href="progest-group" id="1580108951"> <span class="iconBg" id="1334988464"> <span class="icon hasFontIcon icon-star" id="1962010136"></span> 
+</span> 
+ <span class="text" id="1749713861">Button</span> 
+</a> 
+</span> 
+</div> 
+</li> 
+</ul> 
+ <div class="photoGalleryViewAll link" isall="true" data-viewall="View more" data-viewless="View less" style="display:none;" id="1436549865"></div> 
+</div> 
+ <div class="dmNewParagraph" data-dmtmpl="true" id="1961644716" data-uialign="left"><div style="text-align: justify;">Le disposizioni contenute nel D.Lgs. 81/08 descrivono le norme vigenti in materia di salute e sicurezza dei lavoratori nei luoghi di lavoro e si applica a tutti i settori di attivit&agrave;, privati e pubblici, e a tutte le tipologie di rischio. Le misure generali di tutela prevedono che il datore di lavoro effettui una dettagliata valutazione dei rischi analizzando la propria attivit&agrave; e pianifichi la prevenzione e la protezione all&rsquo;interno dell&rsquo;azienda, agevolando l&rsquo;eliminazione o la riduzione dei rischi stessi presenti in relazione al progresso tecnico e adottando delle misure di miglioramento del livello di sicurezza adeguate nel tempo. Progest group vi aiuter&agrave; a redigere e a programmare tutte le attivit&agrave; richieste dalla normativa vigente per rendere sicura la vostra azienda.</div><div><ul class="innerList defaultList"><li style="text-align: justify;">Documento di valutazione rischi (DVR)</li><li style="text-align: justify;">Valutazione dei rischi specifici (Agenti chimici, cancerogeni e/o mutageni, Biologici; Rischi fisici: rumore, vibrazioni, campi elettromagnetici, radiazioni ottiche artificiali, ecc; Microclima e illuminazione; Movimentazione Manuale dei Carichi &ndash; MMC;&nbsp;Stress Lavoro Correlato;&nbsp;Lavoro al Videoterminale - VDT)</li><li style="text-align: justify;">Documento di valutazione del Rischio biologico legionellosi e registro degli interventi</li><li style="text-align: justify;">Documento Unico Valutazione Rischi Interferenza: DUVRI</li><li style="text-align: justify;">Indagini strumentali per rumore e vibrazioni&nbsp;</li><li style="text-align: justify;">Piano di emergenza ed evacuazione</li><li style="text-align: justify;">Assunzione del ruolo RSPP ESTERNO per tutti i macrosettori ATECO</li><li style="text-align: justify;">Individuazione dei Dispositivi di Protezione individuali (DPI)</li><li style="text-align: justify;">Redazione di procedure operative e di registri di manutenzione</li><li style="text-align: justify;">Piani Operativi di Sicurezza (POS)</li><li style="text-align: justify;">Documentazione di cantiere</li><li style="text-align: justify;">Elaborazione di piani di emergenza ed evacuazione</li><li style="text-align: justify;">Corsi di formazione per la sicurezza</li></ul></div></div></div> 
+</div> 
+</div> 
+ <div class="u_1749295792 dmRespRow" style="text-align: center;" id="1749295792"> <div class="dmRespColsWrapper" id="1447782330"> <div class="dmRespCol small-12 medium-12 large-12" id="1430505109"> <span id="1374513769"></span> 
+ <div class="dmDividerWrapper clearfix" id="1307591418" data-element-type="dDividerId" layout="divider-style-1" data-widget-version="2"><hr class="dmDivider" style="min-height: 2px; border:none; background:grey" id="1372455159"/></div> 
+</div> 
+</div> 
+</div> 
+ <div class="u_1758354961 dmRespRow mobile-columns-reversed" style="text-align: center;" id="1758354961"> <div class="dmRespColsWrapper" id="1216265536"> <div class="dmRespCol small-12 medium-6 large-6 u_1591285782" id="1591285782"> <h3 class="dmNewParagraph u_1286317785" data-element-type="paragraph" id="1286317785" data-uialign="center" style="transition: opacity 1s ease-in-out 0s;"><div style="text-align: center;"><span style="color: rgb(234, 196, 22); font-size: 25px; font-weight: inherit; text-align: center;"></span></div><span style="font-weight: 600;" class="m-specific lh-1 m-font-size-26"><div style="text-align: center;"><font style="color: rgb(0, 0, 0);"><span style="font-weight: inherit; text-align: center;">VALUTAZIONE DEL RISCHIO LEGIONELLOSI</span></font><span style="color: rgb(234, 196, 22); font-weight: inherit;"></span></div></span><span style="font-weight: 600;"><div style="text-align: center;"><span style="font-size: 25px; font-weight: inherit;"><font style="color: rgb(234, 196, 22);"></font></span></div></span><div><span style="font-size: 25px; font-weight: 400;"><font style="color: rgb(234, 196, 22);"></font></span></div></h3> <div class="u_1394094808 dmDividerWrapper clearfix" data-element-type="dDividerId" data-layout="divider-style-1" data-widget-version="2" id="1394094808"><hr class="dmDivider" style="border-width:2px; border-top-style:solid; color:grey;" id="1101300466"/></div> 
+ <div class="u_1437478741 dmNewParagraph" data-dmtmpl="true" id="1437478741" data-uialign="center" style="transition: none; display: block;"><div><font style="color: rgb(49, 49, 49);" class="font-size-16 lh-1 m-specific m-font-size-14"><b></b></font></div><div style=""><font style="color: rgb(49, 49, 49);" class="font-size-16 lh-1 m-specific m-font-size-14"></font></div><div style="text-align: justify;"><span style="font-weight: 400; font-size: 16px;"><font class="lh-1 font-size-16" color="#313131">Progest group offre una valutazione del rischio Legionellosi e un programma di monitoraggio degli impianti come previsto dalle Linee guida per la prevenzione e il controllo della Legionellosi approvate in conferenza Stato Regioni il 07 Maggio 2015.</font></span><br/><span style="font-weight: 400; font-size: 16px;"></span></div><div style=""><font style="color: rgb(49, 49, 49);" class="font-size-16 lh-1 m-specific m-font-size-14"></font></div><div><font style="color: rgb(49, 49, 49);" class="font-size-16 lh-1 m-specific m-font-size-14"><b></b></font></div></div> <a data-display-type="block" class="u_1412064623 align-center dmButtonLink dmWidget dmWwr default dmOnlyButton dmDefaultGradient" file="false" href="analisi-microbiologiche" data-element-type="dButtonLinkId" id="1412064623" dm_dont_rewrite_url="false"> <span class="iconBg" id="1977586747"> <span class="icon hasFontIcon icon-star" id="1947239908"></span> 
+</span> 
+ <span class="text" id="1799811284">Altre informazioni</span> 
+</a> 
+</div> 
+ <div class="dmRespCol small-12 medium-6 large-6 u_1400782066" id="1400782066"> <div data-element-type="spacer" class="u_1538913545 dmSpacer" id="1538913545"></div> 
+</div> 
+</div> 
+</div> 
+ <div class="u_1342586590 dmRespRow" style="text-align: center;" id="1342586590"> <div class="dmRespColsWrapper" id="1765428424"> <div class="dmRespCol small-12 medium-12 large-12" id="1344592039"> <span id="1989923416"></span> 
+ <div class="dmDividerWrapper clearfix" id="1268087156" data-element-type="dDividerId" layout="divider-style-1" data-widget-version="2"><hr class="dmDivider" style="min-height: 2px; border:none; background:grey" id="1341632580"/></div> 
+</div> 
+</div> 
+</div> 
+ <div class="u_1981174639 dmRespRow dmDefaultListContentRow" id="1981174639"> <div class="dmRespColsWrapper" id="1580721655"> <div class="u_1600672874 small-12 dmRespCol dmTxtCol medium-12 large-12" id="1600672874"> <div class="u_1504983792 dmCustomHtml" id="1504983792" data-element-type="html"> <center> <i class="fa fa-cutlery fa-3x" aria-hidden="true"></i> 
+</center> 
+</div> 
+ <h3 class="u_1128557245 dmNewParagraph" id="1128557245" data-element-type="paragraph" data-uialign="right"><div style="text-align: center;"><span style="font-family: 'Arial';"><span style="font-weight: 400;"></span></span></div><font class="lh-1 font-size-22"><b><span style="font-family: 'Arial';"><div style="text-align: center;"><font class="font-size-18 lh-1">Igiene alimentare</font></div><div style="text-align: center;"><font class="font-size-18 lh-1"><span class="lh-1">(Pacchetto igiene - Reg. CE n. 852/04, 853/04, 854/04 - D.Lgs. 193/07 - Reg. CE n. 178/02)</span></font></div></span></b></font><div style="text-align: center;"><span class="lh-1 font-size-18" style=""></span></div></h3> <div class="dmPhotoGallery newPhotoGallery dmPhotoGalleryResp" galleryoptionsparams="{thumbnailsPerRow: 3, rowsToShow: 3, imageScaleMethod: true}" data-desktop-layout="square" data-desktop-columns="4" data-element-type="dPhotoGalleryId" data-desktop-text-layout="over" id="1065177121"> <ul class="dmPhotoGalleryHolder clearfix gallery shadowEffectToChildren gallery4inArow" id="1218172708" dont_set_id="true"> <li index="0" class="photoGalleryThumbs" id="1757509605"> <div class="image-container" id="1852227585"> <a data-dm-multisize-attr="href" data-image-url="https://irp-cdn.multiscreensite.com/md/unsplash/dms3rep/multi/photo-1428515613728-6b4607e44363.jpg" id="1008605297" class="u_1008605297"><img data-src="https://lirp-cdn.multiscreensite.com/md/unsplash/dms3rep/multi/opt/photo-1428515613728-6b4607e44363-1920w.jpg" irh="1" irw="2" id="1367224050" class="" onerror="handleImageLoadError(this)"/></a> 
+</div> 
+ <div class="caption-container  u_1560706690" id="1560706690"> <span class="caption-inner" id="1903494322"> <h3 class="caption-title u_1708949503" id="1708949503">Ristoranti</h3> 
+ <div class="caption-text u_1428843596" id="1428843596"><p class="rteBlock">Manuale HACCP e autocontrollo</p></div> <a class="caption-button dmWidget   clearfix u_1891929727" href="progest-group" id="1891929727"> <span class="iconBg" id="1869866722"> <span class="icon hasFontIcon icon-star" id="1321444507"></span> 
+</span> 
+ <span class="text" id="1114788713">Button</span> 
+</a> 
+</span> 
+</div> 
+</li> 
+ <li index="1" class="photoGalleryThumbs" id="1889526336"> <div class="image-container" id="1575360800"> <a data-dm-multisize-attr="href" data-image-url="https://irp-cdn.multiscreensite.com/md/unsplash/dms3rep/multi/photo-1539639885136-56332d18071d.jpg" id="1655016248" class="u_1655016248"><img data-src="https://lirp-cdn.multiscreensite.com/md/unsplash/dms3rep/multi/opt/photo-1539639885136-56332d18071d-1920w.jpg" irh="2" irw="3" id="1357130091" class="" onerror="handleImageLoadError(this)"/></a> 
+</div> 
+ <div class="caption-container  u_1993625861" id="1993625861"> <span class="caption-inner" id="1853631520"> <h3 class="caption-title u_1857913860" id="1857913860">Bar</h3> 
+ <div class="caption-text u_1298073477" id="1298073477"><p class="rteBlock">Manuale HACCP e autocontrollo</p></div> <a class="caption-button dmWidget   clearfix u_1379678333" href="progest-group" id="1379678333"> <span class="iconBg" id="1398920356"> <span class="icon hasFontIcon icon-star" id="1868892466"></span> 
+</span> 
+ <span class="text" id="1141689870">Button</span> 
+</a> 
+</span> 
+</div> 
+</li> 
+</ul> 
+ <div class="photoGalleryViewAll link" isall="true" data-viewall="View more" data-viewless="View less" style="display:none;" id="1384702374"></div> 
+ <li index="2" class="photoGalleryThumbs" id="1527873906"> <div class="image-container" id="1573305294"> <a data-dm-multisize-attr="href" data-image-url="https://irp-cdn.multiscreensite.com/md/unsplash/dms3rep/multi/photo-1534723452862-4c874018d66d.jpg" id="1408827946" class="u_1408827946"><img data-src="https://lirp-cdn.multiscreensite.com/md/unsplash/dms3rep/multi/opt/photo-1534723452862-4c874018d66d-1920w.jpg" irh="3" irw="4" id="1465175654" class="" onerror="handleImageLoadError(this)"/></a> 
+</div> 
+ <div class="caption-container  u_1980624429" id="1980624429"> <span class="caption-inner" id="1795243862"> <h3 class="caption-title u_1792133715" id="1792133715">Supermercati</h3> 
+ <div class="caption-text u_1424644149" id="1424644149"><p class="rteBlock">Manuale HACCP e autocontrollo</p></div> <a class="caption-button dmWidget   clearfix u_1361017722" href="progest-group" id="1361017722"> <span class="iconBg" id="1662275337"> <span class="icon hasFontIcon icon-star" id="1353912603"></span> 
+</span> 
+ <span class="text" id="1838543543">Button</span> 
+</a> 
+</span> 
+</div> 
+</li> 
+ <li index="3" class="photoGalleryThumbs" id="1222361323"> <div class="image-container" id="1617049836"> <a data-dm-multisize-attr="href" data-image-url="https://irp-cdn.multiscreensite.com/md/unsplash/dms3rep/multi/photo-1482049016688-2d3e1b311543.jpg" id="1994548073" class="u_1994548073"><img data-src="https://lirp-cdn.multiscreensite.com/md/unsplash/dms3rep/multi/opt/photo-1482049016688-2d3e1b311543-1920w.jpg" irh="4" irw="5" id="1761313694" class="" onerror="handleImageLoadError(this)"/></a> 
+</div> 
+ <div class="caption-container  u_1057497100" id="1057497100"> <span class="caption-inner" id="1424484493"> <h3 class="caption-title u_1273322226" id="1273322226">Aziende alimentari</h3> 
+ <div class="caption-text u_1002723955" id="1002723955"><p class="rteBlock">Manuale HACCP e autocontrollo</p></div> <a class="caption-button dmWidget   clearfix u_1269754194" href="progest-group" id="1269754194"> <span class="iconBg" id="1591759874"> <span class="icon hasFontIcon icon-star" id="1641273387"></span> 
+</span> 
+ <span class="text" id="1350439811">Button</span> 
+</a> 
+</span> 
+</div> 
+</li> 
+</div> 
+ <div class="dmNewParagraph" data-dmtmpl="true" id="1750661118" data-uialign="right"><div style="text-align: justify;">Progest Group, grazie alla sua esperienza maturata dal 2009, svolge attivit&agrave; di consulenza igienico-sanitaria nel settore alimentare. Con precisione e affidabilit&agrave; siamo al fianco delle imprese per rispondere alle esigenze richieste dalle norme in materia, con sopralluoghi per la valutazione degli adempimenti necessari per evitare situazioni di pericolo. Inoltre, grazie al nostro team qualificato, possiamo fornire assistenza per la stesura dei manuali di autocontrollo igienico-sanitari e dei sistemi di verifica HACCP.</div><div><ul class="innerList defaultList"><li style="text-align: justify;">Redazione piani HACCP e di autocontrollo</li><li style="text-align: justify;">Organizzazione e stesura agenda allergeni</li><li style="text-align: justify;">Relazioni tecniche per ampliamento, trasferimento, modifiche strutturali dell&rsquo;attivit&agrave; (sede, aspetti merceologici, locali-impianti, ciclo produttivo, altre variazioni) - invio telematico tramite SUAP</li><li style="text-align: justify;">Pratiche e comunicazioni per subingresso, cambio di ragione sociale senza modifiche strutturali dell&rsquo;attivit&agrave;, sospensione, ripresa, cessazione dell&rsquo;attivit&agrave; e modifica dei soggetti titolari dei requisiti professionali - invio telematico tramite SUAP</li><li style="text-align: justify;">Studi delle conformit&agrave; igienico sanitarie e analisi relative le planimetrie sanitarie al fine della registrazione sanitaria</li><li style="text-align: justify;">Formazione dei responsabili e del personale dell&rsquo;impresa alimentare</li><li style="text-align: justify;">Tamponi su superfici e attrezzature per il monitoraggio della sanificazione</li><li style="text-align: justify;">Campionamento e analisi microbiologiche di matrici alimentari</li></ul></div><div style="text-align: justify;"><br/></div></div></div> 
+</div> 
+</div> 
+ <div class="u_1892755940 dmRespRow" style="text-align: center;" id="1892755940"> <div class="dmRespColsWrapper" id="1901726039"> <div class="dmRespCol small-12 medium-12 large-12" id="1664028111"> <span id="1913023896"></span> 
+ <div class="dmDividerWrapper clearfix" id="1566631740" data-element-type="dDividerId" layout="divider-style-1" data-widget-version="2"><hr class="dmDivider" style="min-height: 2px; border:none; background:grey" id="1400681899"/></div> 
+</div> 
+</div> 
+</div> 
+ <div class="u_1417576753 dmRespRow dmDefaultListContentRow" id="1417576753"> <div class="dmRespColsWrapper" id="1718232721"> <div class="u_1963783056 small-12 dmRespCol dmTxtCol medium-12 large-12" id="1963783056"> <div class="dmCustomHtml u_1409996460" id="1409996460" data-element-type="html"> <center> <i class="fa fa-users fa-3x" aria-hidden="true"></i> 
+</center> 
+</div> 
+ <h2 class="u_1966877293 dmNewParagraph" id="1966877293" data-element-type="paragraph" data-uialign="right"><div style="text-align: center;"><font class="font-size-18 lh-1"><b><font class="lh-1"><span style="font-family: 'Arial';">Assistenza pratiche</span></font></b></font></div></h2> <div class="dmNewParagraph" data-dmtmpl="true" id="1495397563" data-uialign="right"><div><div style="text-align: justify;">Lo staff di Progest Group offre anche assistenza per altre procedure documentali e per relazionarsi con gli organi ispettivi e di controllo. Vi aiuteremo a compilare e inoltrare tutta la documentazione necessaria per rispettare i rigidi canoni normativi in tema di sicurezza e igiene aziendale.</div></div><div><ul class="innerList defaultList"><li style="text-align: justify;">Pratiche e finanziamenti per Bandi Regionali, Statali, Europei</li><li style="text-align: justify;">Pratiche di prevenzione incendi con valutazione preventiva dell&rsquo;attivit&agrave;, finalizzata al stabilire l&rsquo;assoggettabilit&agrave; e la categoria di appartenenza (A, B, C)&nbsp;</li><li style="text-align: justify;">Procedure pratiche per il Certificato di Prevenzione incendi (C.P.I.)</li><li style="text-align: justify;">Assistenza sulla Medicina del lavoro&nbsp;</li><li style="text-align: justify;">Assistenza Legale in materia di Sicurezza sul lavoro</li><li style="text-align: justify;">Assistenza alla Verifica periodica dell&rsquo;impianto di messa a terra</li><li style="text-align: justify;">Assistenza Pratiche Autorizzazioni Alimentari (autorizzazione Sanitaria)&nbsp;</li><li style="text-align: justify;">Relazioni tecniche per ampliamento, trasferimento, modifiche strutturali dell&rsquo;attivit&agrave; (sede, aspetti merceologici, locali-impianti, ciclo produttivo, altre variazioni) - invio telematico tramite SUAP</li><li style="text-align: justify;">Pratiche e comunicazioni per subingresso, cambio di ragione sociale senza modifiche strutturali dell&rsquo;attivit&agrave;, sospensione, ripresa, cessazione dell&rsquo;attivit&agrave; e modifica dei soggetti titolari dei requisiti professionali - invio telematico tramite SUAP</li><li style="text-align: justify;">Studi delle conformit&agrave; igienico sanitarie e analisi relative le planimetrie sanitarie al fine della registrazione sanitaria</li><li style="text-align: justify;">Assistenza pratiche a seguito di notifica caso di Legionellosi</li></ul></div></div></div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_1411441543" id="1411441543"> <div class="dmRespColsWrapper" id="1881104880"> <div class="dmRespCol large-12 medium-12 small-12 u_1107045734" id="1107045734"> <div class="u_1717151671 dmNewParagraph" data-dmtmpl="true" data-element-type="paragraph" id="1717151671" style="text-align: justify; transition: opacity 1s ease-in-out 0s;" data-uialign="center" data-gramm_id="9dcc59b7-5f2b-ea9a-6d7f-08feac53acf4" data-gramm="true" spellcheck="false" data-gramm_editor="true"><div style="text-align: justify;"><font class="font-size-20 lh-1"><font class="font-size-16 lh-1">Progest Group &egrave; convinta che informazione, formazione e addestramento continuo dei lavoratori riduca l&rsquo;accadimento di eventi infortunistici, di malattie professionale e di patologie contro terzi. Lo sviluppo di consapevolezza di tutta la catena organizzativa aziendale pu&ograve; determinare giorno dopo giorno un miglioramento delle condizioni degli ambienti di lavoro e favorire il benessere dei lavoratori. Il nostro obiettivo &egrave; quello di sensibilizzare le persone facendole diventare parte attiva e integrante del sistema di prevenzione aziendale. Progest Group si fa, dunque, portavoce di una cultura della prevenzione e del progresso verso abitudini corrette sul posto di lavoro che possano agevolare gli imprenditori e le aziende stesse.</font></font><br/></div><font class="font-size-20 lh-1"><b></b></font></div></div> 
+</div> 
+</div> 
+ <div class="u_1952956150 dmRespRow dmSectionParallaxNew hasBackgroundOverlay" style="text-align: center;" id="1952956150"> <div class="dmRespColsWrapper" id="1212612199"> <div class="u_1366842058 dmRespCol small-12 medium-12 large-12" id="1366842058"> <div class="u_1193676009 dmSpacer" id="1193676009" data-element-type="spacer"></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="sticky-widgets-container-global" id="1328410349"></div> 
+ <div class="dmFooterContainer"> <div id="fcontainer" class="f_hcontainer dmFooter p_hfcontainer"> <div dm:templateorder="14" class="dmFooterResp dmFullFooterResp" id="1647734480"> <div class="dmRespRow dmDividerRow" id="1592018802"> <div class="dmRespColsWrapper" id="1283171258"> <div class="large-12 medium-12 small-12 dmRespCol" id="1463596247"> <div class="dmDividerWrapper clearfix" id="1676938871" data-element-type="dDividerId"><hr class="dmDivider defaultDivider" id="1887652558"/></div> 
+</div> 
+</div> 
+</div> 
+ <div class="u_1433312742 dmRespRow dmFooterContent" id="1433312742"> <div class="dmRespColsWrapper" id="1125594739"> <div class="dmRespCol large-12 medium-12 small-12 dmFooterCol" id="1228982456"> <div class="u_1261656725 dmNewParagraph text-center hide-for-medium" data-dmtmpl="true" id="1261656725" data-editor-state="closed" data-uialign="center"><div style="display:block;text-decoration:none;"><span style="" class="font-size-14 lh-1">PROGEST GROUP di Zoccarato Marco</span></div><div style="display:block;text-decoration:none;"><span style="" class="font-size-14 lh-1">Via Nicesolo n.1 &ndash; 30021 Caorle (VE)</span></div><div style="display:block;text-decoration:none;"><span style="" class="font-size-14 lh-1">Tel 0421210119 | Fax 042181476&nbsp;</span></div><div style="display:block;text-decoration:none;"><span style="" class="font-size-14 lh-1">info@progestgroup.it</span></div><div style="display:block;text-decoration:none;"><span style="" class="font-size-14 lh-1">P.I. 03843840277 | Informazioni Legali | Privacy Policy e Cookie Policy</span></div></div> <div class="u_1033020813 dmSocialHome dmSocialHub" id="1033020813" dmle_extension="social_hub" data-element-type="social_hub" data-dmtmpl="true" wr="false" icon="true" surround="false"> <div class="socialHubWrapper"> <div class="socialHubInnerDiv vertical"> <a href="https://www.facebook.com/progestgroup/?fref=ts" target="_blank" dmle_dont_remove="target" dm_dont_rewrite_url="true"> <span class="dmSocialFacebook dm-social-icons-facebook oneIcon socialHubIcon style3" data-hover-effect=""></span> 
+</a> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="u_1664316562 dmRespRow" style="text-align: center;" id="1664316562"> <div class="dmRespColsWrapper" id="1233776066"> <div class="dmRespCol small-12 medium-12 large-12" id="1940415529"> <div class="dmNewParagraph u_1767521838 text-center" data-dmtmpl="true" id="1767521838" data-editor-state="closed" data-uialign="center"><div><span class="size-14 lh-1"><a href="http://www.italiaonline.it" file="false" target="_blank">Powered by Italiaonline</a> 
+&ndash; <a href="http://www.paginegialle.it" file="false" target="_blank">Paginegialle.it</a></span></div></div></div> 
+</div> 
+</div> 
+ <div id="1981032071" dmle_extension="powered_by" data-element-type="powered_by" icon="true" surround="false" data-dmtmpl="true"></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+
+            </div>
+        </div>
+<!--  Add full CSS and Javascript before the close tag of the body if needed -->
+<script type="text/javascript" id="d_track_campaign">
+(function() {
+ 	var campaign = (/utm_campaign=([^&]*)/).exec(window.location.search);
+
+ 	if (campaign && campaign != null && campaign.length > 1) {
+ 		campaign = campaign[1];
+ 		document.cookie = "_dm_rt_campaign=" + campaign + ";expires=" + new Date().getTime() + 24*60*60*1000 + ";domain=" + window.location.hostname + ";path=/";
+ 	}
+}());
+</script>
+<script type="text/javascript" >
+  var _dm_gaq = {};
+  var _gaq = _gaq || [];
+  var _dm_insite = [];
+</script>
+
+  <script type="text/javascript" id="d_track_ga">
+
+  _dm_gaq.siteAlias = '002795da';
+  _dm_gaq.systemAggregatedGaqID = 'UA-7265702-9';
+  _dm_gaq.externalGaqID = '';
+  
+  _gaq.push(['_gat._forceSSL']);
+  
+  _gaq.push (['_gat._anonymizeIp']);
+  
+
+  if(_dm_gaq.systemAggregatedGaqID && (_dm_gaq.systemAggregatedGaqID != _dm_gaq.systemGaqID)){
+     // track aggregated account
+    _gaq.push(['b._setAccount', _dm_gaq.systemAggregatedGaqID]);
+    _gaq.push(['b._setAllowLinker', true]);
+    _gaq.push(['b._setVar', _dm_gaq.siteAlias]);
+    _gaq.push(['b._setCustomVar', 1, 'product', 'DM_DIRECT',  2 ]);
+    _gaq.push(['b._setCustomVar', 2, 'plan', 'BUSINESS_PLUS',  2 ]);
+    _gaq.push(['b._setCustomVar', 3, 'dfooter', 'false',  2 ]);
+    _gaq.push(['b._setCustomVar', 4, 'sitetype', '1',  2 ]);
+    _gaq.push(['b._setCustomVar', 5, 'pwaEnabled', 'false',  2 ]);
+
+      _gaq.push(['b._trackPageview' ]);
+    pushInsiteImpressions('b._trackEvent');
+   }
+
+   if(_dm_gaq.externalGaqID && _dm_gaq.externalGaqID!= '') {
+     _gaq.push(['c._setAccount', _dm_gaq.externalGaqID]);
+     _gaq.push(['c._setVar', _dm_gaq.siteAlias]);
+     _gaq.push(['c._setDomainName', 'progestgroup.it']);
+     _gaq.push(['c._setAllowLinker', true]);
+     _gaq.push(['c._trackPageview' ]);
+
+     pushInsiteImpressions('c._trackEvent');
+   }
+
+   function pushInsiteImpressions(category) {
+   	$.each(_dm_insite, function(idx, rule) {
+   		_gaq.push([ category, 'insite_impression' , _dm_gaq.siteAlias, rule.ruleType + '__' + rule.ruleId, ]);
+   	});
+   }
+(function() {
+	var ga = document.createElement('script');
+	ga.type = 'text/javascript';
+	ga.async = true;
+  
+	ga.src = 'https://ssl.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(ga, s);
+})();
+
+  </script>
+<script type="text/javascript" id="d_track_sp">
+;(function(p,l,o,w,i,n,g){if(!p[i]){p.GlobalSnowplowNamespace=p.GlobalSnowplowNamespace||[];
+p.GlobalSnowplowNamespace.push(i);p[i]=function(){(p[i].q=p[i].q||[]).push(arguments)
+};p[i].q=p[i].q||[];n=l.createElement(o);g=l.getElementsByTagName(o)[0];n.async=1;
+n.src=w;g.parentNode.insertBefore(n,g)}}(window,document,"script","//d32hwlnfiv2gyn.cloudfront.net/sp-2.0.0-dm-0.1.min.js","snowplow"));
+window.dmsnowplow  = window.snowplow;
+
+dmsnowplow('newTracker', 'cf', 'd32hwlnfiv2gyn.cloudfront.net', { // Initialise a tracker
+  appId: '002795da'
+});
+
+dmsnowplow('trackPageView')
+$.each(_dm_insite, function(idx, rule) {
+	//('trackStructEvent', 'category','action','label','property','value');
+			// Specifically in popup only the client knows if it is shown or not so we don't always want to track its impression here
+	        // the tracking is in popup.js
+			if (rule.actionName !== "popup") {
+                dmsnowplow('trackStructEvent', 'insite', 'impression', rule.ruleType, rule.ruleId);
+            }
+ 			$(document).ready(function(){
+ 				$.DM.events.trigger('event-ruleTriggered', {value: rule})}
+ 			);
+ 		});
+</script>
+   <div style="display:none;" id="P6iryBW0Wu"></div>
+
+<!-- photoswipe markup -->
+
+
+
+
+
+
+
+
+
+<!-- Root element of PhotoSwipe. Must have class pswp. -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    <!-- Background of PhotoSwipe. 
+         It's a separate element as animating opacity is faster than rgba(). -->
+    <div class="pswp__bg"></div>
+
+    <!-- Slides wrapper with overflow:hidden. -->
+    <div class="pswp__scroll-wrap">
+
+        <!-- Container that holds slides. 
+            PhotoSwipe keeps only 3 of them in the DOM to save memory.
+            Don't modify these 3 pswp__item elements, data is added later on. -->
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                <!--  Controls are self-explanatory. Order can be changed. -->
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                <!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
+                <!-- element will get class pswp__preloader--active when preloader is running -->
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                      <div class="pswp__preloader__cut">
+                        <div class="pswp__preloader__donut"></div>
+                      </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div> 
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+<div id="fb-root"
+        data-locale="en"></div>
+
+<!-- Alias: 002795da -->
+<div class="dmPopupMask" id="dmPopupMask"></div>
+<div id="dmPopup" class="dmPopup">
+	<div class="dmPopupCloseWrapper"> <div class="dmPopupClose dm-common-icons-close oneIcon" onclick="dmHidePopup(event);"></div> </div>
+ 	<div class="dmPopupTitle"> <span></span> Share by:</div> 
+	<div class="data"></div>
+</div><script id="d_track_personalization">
+// Collects client data and updates cookies used by smart sites
+var expireDays = 365,visitLength = 30 * 60000;
+$.setCookie("dm_timezone_offset", (new Date()).getTimezoneOffset(), expireDays);
+function setSmartSiteCookies() {
+	setSmartSiteCookiesInternal("dm_this_page_view","dm_last_page_view","dm_total_visits","dm_last_visit");
+}
+$.DM.events.on("afterAjax", setSmartSiteCookies);
+setSmartSiteCookies();
+</script>
+<script type="text/javascript">
+    
+    Parameters.NavigationAreaParams.MoreButtonText = 'More';
+    
+    Parameters.NavigationAreaParams.LessButtonText = 'Less';
+    Parameters.HomeLinkText = 'Home';
+    </script>
+
+<script>
+
+    jQuery(window).load(function () {
+        try {
+            jQuery.DM.updateIOSHeight();
+        } catch (e) {
+        }
+        ;
+    });
+</script>
+<script>
+    dmAPI.loadScript('https://cdn.jsdelivr.net/npm/lozad/dist/lozad.min.js', function () {
+        dmAPI.runOnReady('lozadInit', function () {
+            window.document.querySelectorAll('img.lazy').forEach(function (img) {
+                img.addEventListener('load', function (event) {
+                    var img = event.target;
+                    img.style.filter = 'blur(0)';
+                    setTimeout(function () {
+                        $(img).closest('.imageWidget').addClass('lazyLoaded');
+                    }, 250)
+                });
+            });
+            lozad('.lazy', {
+                threshold: 0.1,
+                loaded: function (element) {
+                    if (element.getAttribute('data-background-image')) {
+                        element.style.setProperty(
+                            'background-image',
+                            "url('" + element.getAttribute('data-background-image') + "')",
+                            "important"
+                        );
+                    }
+                }
+            }).observe();
+        });
+    });
+</script>
+<!--  End Script tags -->
+
+<!--  Begin Body End Markup -->
+<script type="text/javascript" src="https://qol3pvxuq3.execute-api.eu-west-1.amazonaws.com/live/js/3F1165AF-1C22-94B8-E050-A8C08D26705B
+"></script>
+<noscript>
+    <iframe src="https://qol3pvxuq3.execute-api.eu-west-1.amazonaws.com/live/noscript/3F1165AF-1C22-94B8-E050-A8C08D26705B
+" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<script type="text/javascript" src="https://spotzer-website-data.s3.amazonaws.com/Italia_Online/scripts/jquery.cookiebar.iol.min.js"></script><!--  End Body End Markup -->
+
+<!--  Begin Product Custom HTML Markup -->
+<script type="text/javascript" src="https://iol-website.italiaonline.it/script/iol-body.js"></script><!--  End Product Custom HTML Markup -->
+</body>
+</html>

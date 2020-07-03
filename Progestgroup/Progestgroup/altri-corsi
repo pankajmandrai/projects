@@ -1,0 +1,3269 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" 
+      class="">
+<head>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+    window._currentDevice = 'desktop';
+    window.Parameters = window.Parameters || {
+        AjaxContainer: 'div.dmBody',
+        WrappingContainer: 'div.dmOuter',
+        HomeUrl: 'https://www.progestgroup.it/',
+        AccountUUID: 'cf279c6fb73a440cb358adc032ea153b',
+        SystemID: 'US_DIRECT_PRODUCTION',
+        SiteAlias: '002795da',
+        SiteId: '816114',
+        SiteType: atob('RFVEQU9ORQ=='),
+        ExternalUid: '1938901',
+        IsSiteMultilingual: false,
+        InitialPostAlias: '',
+        InitialDynamicItem: '',
+        InitialPageAlias: 'altri-corsi',
+        InitialEncodedPageAlias: 'YWx0cmktY29yc2k=',
+        CurrentPageUrl: '',
+        IsCurrentHomePage: false,
+        AllowAjax: false,
+        AfterAjaxCommand: null,
+        HomeLinkText: 'Back To Home',
+        UseGalleryModule: false,
+        CurrentThemeName: 'Layout Theme',
+        ThemeVersion: '1055',
+        DefaultPageAlias: '',
+        RemoveDID: true,
+        WidgetStyleID : null,
+        IsHeaderFixed: false,
+        IsHeaderSkinny: false,
+        IsBfs: true,
+        LayoutParams : {
+            _navigationAnimationStyle: 'slide',
+            _manifestId : 10001,
+            _device : 'desktop'
+        },
+        StorePageAlias: 'null',
+        StorePath: '',
+        StoreId: 'null',
+        StoreVersion: 0,
+        StoreBaseUrl: '',
+        StoreCleanUrl: true,
+        StoreDisableScrolling: true,
+        NotificationSubDomain: 'progestgroup',
+        HasCustomDomain: true,
+        showCookieNotification: false,
+        cookiesNotificationMarkup: 'null',
+        translatedPageUrl: '',
+        isFastMigrationSite: false,
+        sidebarPosition: 'NA',
+        currentLanguage: 'null',
+        NavItems: 'W3sidGl0bGUiOiJIb21lIiwiYWxpYXMiOiJob21lIiwicGF0aCI6Ii8iLCJpbk5hdmlnYXRpb24iOnRydWUsInN1Yk5hdiI6W119LHsidGl0bGUiOiJQcm9nZXN0IEdyb3VwIiwiYWxpYXMiOiJwcm9nZXN0LWdyb3VwIiwicGF0aCI6Ii9wcm9nZXN0LWdyb3VwIiwiaW5OYXZpZ2F0aW9uIjp0cnVlLCJzdWJOYXYiOltdfSx7InRpdGxlIjoiRm9ybWF6aW9uZSIsImFsaWFzIjoiZm9ybWF6aW9uZSIsInBhdGgiOiIvZm9ybWF6aW9uZSIsImluTmF2aWdhdGlvbiI6dHJ1ZSwic3ViTmF2IjpbeyJ0aXRsZSI6IlNlcnZpemlvIGRpIHByZXZlbnppb25lIGUgcHJvdGV6aW9uZSAtIFNQUCIsImFsaWFzIjoic2Vydml6aW8tZGktcHJldmVuemlvbmUtZS1wcm90ZXppb25lLXNwcCIsInBhdGgiOiIvc2Vydml6aW8tZGktcHJldmVuemlvbmUtZS1wcm90ZXppb25lLXNwcCIsImluTmF2aWdhdGlvbiI6dHJ1ZSwic3ViTmF2IjpbXX0seyJ0aXRsZSI6IlNxdWFkcmEgZGVsbGUgZW1lcmdlbnplIiwiYWxpYXMiOiJzcXVhZHJhLWRlbGxlLWVtZXJnZW56ZSIsInBhdGgiOiIvc3F1YWRyYS1kZWxsZS1lbWVyZ2VuemUiLCJpbk5hdmlnYXRpb24iOnRydWUsInN1Yk5hdiI6W119LHsidGl0bGUiOiJMYXZvcmF0b3JpIGUgbG9ybyByYXBwcmVzZW50YW50aSIsImFsaWFzIjoibGF2b3JhdG9yaS1lLWxvcm8tcmFwcHJlc2VudGFudGkiLCJwYXRoIjoiL2xhdm9yYXRvcmktZS1sb3JvLXJhcHByZXNlbnRhbnRpIiwiaW5OYXZpZ2F0aW9uIjp0cnVlLCJzdWJOYXYiOltdfSx7InRpdGxlIjoiSWdpZW5lIGUgSEFDQ1AiLCJhbGlhcyI6IklnaWVuZS1lLWhhY2NwIiwicGF0aCI6Ii9JZ2llbmUtZS1oYWNjcCIsImluTmF2aWdhdGlvbiI6dHJ1ZSwic3ViTmF2IjpbXX1dfSx7InRpdGxlIjoiQ29yc2kgb25saW5lIiwiYWxpYXMiOiJhbHRyaS1jb3JzaSIsInBhdGgiOiIvYWx0cmktY29yc2kiLCJpbk5hdmlnYXRpb24iOnRydWUsInN1Yk5hdiI6W119LHsidGl0bGUiOiJSU1BQIGVzdGVybm8iLCJhbGlhcyI6InJzcHAtZXN0ZXJubyIsInBhdGgiOiIvcnNwcC1lc3Rlcm5vIiwiaW5OYXZpZ2F0aW9uIjp0cnVlLCJzdWJOYXYiOltdfSx7InRpdGxlIjoiQW5hbGlzaSBMZWdpb25lbGxhIiwiYWxpYXMiOiJhbmFsaXNpLW1pY3JvYmlvbG9naWNoZSIsInBhdGgiOiIvYW5hbGlzaS1taWNyb2Jpb2xvZ2ljaGUiLCJpbk5hdmlnYXRpb24iOnRydWUsInN1Yk5hdiI6W119LHsidGl0bGUiOiJDb2xsYWJvcmF6aW9uaSIsImFsaWFzIjoiY29sbGFib3JhemlvbmkiLCJwYXRoIjoiL2NvbGxhYm9yYXppb25pIiwiaW5OYXZpZ2F0aW9uIjp0cnVlLCJzdWJOYXYiOltdfSx7InRpdGxlIjoiQ29udGF0dGkiLCJhbGlhcyI6ImNvbnRhdHRpIiwicGF0aCI6Ii9jb250YXR0aSIsImluTmF2aWdhdGlvbiI6dHJ1ZSwic3ViTmF2IjpbXX1d',
+        errors: {
+            general: 'There was an error connecting to the page.<br/> Make sure you are not offline.',
+            password: 'Incorrect name/password combination',
+            tryAgain: 'Try again'
+        },
+        NavigationAreaParams: {
+            ShowBackToHomeOnInnerPages: true,
+            NavbarSize: -1,
+            NavbarLiveHomePage: 'https://www.progestgroup.it/',
+            BlockContainerSelector: '.dmBody',
+            NavbarSelector: '#dmNav:has(a)',
+            SubNavbarSelector: '#subnav_main'
+        },
+        hasCustomCode: true,
+        planID: 7,
+        disableTracking: false
+    };
+
+    window.Parameters.LayoutID = {};
+    window.Parameters.LayoutID[window._currentDevice] = 6;
+    window.Parameters.LayoutVariationID = {};
+    window.Parameters.LayoutVariationID[window._currentDevice] = 5;
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Injecting site-wide to the head -->
+
+
+
+<!-- End Injecting site-wide to the head -->
+
+<!-- ========= Meta Tags ========= -->
+<script>
+    try {
+    if(navigator.serviceWorker && navigator.serviceWorker.getRegistrations && location.protocol === 'https:') {
+        // remove all service workers
+        navigator.serviceWorker.getRegistrations().then(function(registrations) {
+            if(registrations && registrations.length) {
+                console.log('unregistering service workers')
+                registrations.forEach(function(registration) {
+                    registration.unregister();
+                });
+            }
+         });
+        // clear caches
+        if(caches) {
+            caches.keys().then(function(keyList) {
+                if(keyList && keyList.length) {
+                    console.log('deleting caches')
+                    keyList.forEach(function(key) {
+                        if (key && key.indexOf('druntime') === 0) {
+                            caches.delete(key);
+                        }
+                    });
+                }
+              })
+        }
+    }
+} catch (err) {
+    // not a secured location
+}</script>
+
+
+<meta http-equiv="Content-type" content="text/html;charset=utf-8">
+<meta charset="utf-8">
+
+<link rel="canonical" href="altri-corsi">
+
+<meta id="view" name="viewport"
+      content=", initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=0, viewport-fit=cover"/>
+
+<meta name="apple-mobile-web-app-capable" content="yes">
+
+<!--Add favorites icons-->
+
+<link rel="icon" type="image/x-icon" href="https://irp-cdn.multiscreensite.com/002795da/site_favicon_16_1573734885434.ico"/>
+
+<!-- End favorite icons -->
+
+<link rel="preconnect" href="https://ssl.google-analytics.com" crossorigin />
+
+
+
+<!-- render the required CSS and JS in the head section -->
+<script>
+    window.SystemID = 'US_DIRECT_PRODUCTION';
+
+    if(!window.dmAPI) {
+        window.dmAPI = {
+            registerExternalRuntimeComponent: function() {
+            },
+            getCurrentDeviceType: function() {
+                return window._currentDevice;
+            }
+        };
+    }
+
+    if (!window.requestIdleCallback) {
+        window.requestIdleCallback = function (fn) {
+            setTimeout(fn, 0);
+        }
+    }
+
+    function loadCSS(link) {
+        try {
+            var urlParams = new URLSearchParams(window.location.search);
+            var noCSS = !!urlParams.get('nocss');
+            var cssTimeout = urlParams.get('cssTimeout') || 0;
+
+            if (noCSS) {
+                return;
+            }
+            requestIdleCallback(function () {
+                window.setTimeout(function () {
+                    link.onload = null;
+                    link.rel = 'stylesheet';
+                    link.type = 'text/css'
+                }, parseInt(cssTimeout, 10));
+            });
+        } catch (e) {/* Never fail - this is just a tool for measurements */}
+    }
+
+</script>
+<script>
+(function(n){"use strict";if(!n.l){n.l=function(){}}var o=loadCSS.t={};o.o=function(){var l;try{l=n.document.createElement("link").relList.supports("preload")}catch(e){l=false}return function(){return l}}();o.i=function(e){var l=e.media||"all";function enableStylesheet(){if(e.addEventListener){e.removeEventListener("load",enableStylesheet)}else if(e.attachEvent){e.detachEvent("onload",enableStylesheet)}e.setAttribute("onload",null);e.media=l}if(e.addEventListener){e.addEventListener("load",enableStylesheet)}else if(e.attachEvent){e.attachEvent("onload",enableStylesheet)}setTimeout(function(){e.rel="stylesheet";e.media="only x"});setTimeout(enableStylesheet,3e3)};o.s=function(){if(o.o()){return}var e=n.document.getElementsByTagName("link");for(var l=0;l<e.length;l++){var t=e[l];if(t.rel==="preload"&&t.getAttribute("as")==="style"&&!t.getAttribute("data-loadcss")){t.setAttribute("data-loadcss",true);o.i(t)}}};if(!o.o()){o.s();var e=n.setInterval(o.s,500);if(n.addEventListener){n.addEventListener("load",function(){o.s();n.clearInterval(e)})}else if(n.attachEvent){n.attachEvent("onload",function(){o.s();n.clearInterval(e)})}}if(typeof exports!=="undefined"){exports.l=loadCSS}else{n.l=loadCSS}})(typeof global!=="undefined"?global:this);
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="https://static-cdn.multiscreensite.com/mnlt/production/1252/_dm/s/rt/dist/css/d-css-foundation.min.css" />
+
+
+
+<!-- Google Fonts Include -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Ubuntu:100,200,300,400,500,600,700,800,900,100italic,200italic,300italic,400italic,500italic,600italic,700italic,800italic,900italic|Roboto:100,200,300,400,500,600,700,800,900,100italic,200italic,300italic,400italic,500italic,600italic,700italic,800italic,900italic|Lobster:100,200,300,400,500,600,700,800,900,100italic,200italic,300italic,400italic,500italic,600italic,700italic,800italic,900italic|Source+Sans+Pro:100,200,300,400,500,600,700,800,900,100italic,200italic,300italic,400italic,500italic,600italic,700italic,800italic,900italic&amp;subset=latin-ext&amp;display=swap"  />
+
+<link type="text/css" rel="stylesheet" href="https://dd-cdn.multiscreensite.com/fonts/additional-fonts.css"  />
+
+
+<link rel="stylesheet" type="text/css" href="https://static-cdn.multiscreensite.com/mnlt/production/1252/_dm/s/rt/dist/css/css-font-package-v2.min.css" />
+
+
+<!-- RT CSS Include d-css-runtime-desktop-one-package-->
+<link rel="stylesheet" type="text/css" href="https://static-cdn.multiscreensite.com/mnlt/production/1252/_dm/s/rt/dist/css/d-css-runtime-desktop-one-package.min.css" />
+
+<!-- End of RT CSS Include -->
+
+
+
+    
+       <link type="text/css" rel="stylesheet" href="https://irp-cdn.multiscreensite.com/WIDGET_CSS/production_1252/d8f25ef8ae55ff452a738635a95dc9d5.css" id="widgetCSS" />
+    
+
+
+
+<!-- This is populated in Ajax navigation -->
+<style id="pageAdditionalWidgetsCss" type="text/css">
+</style>
+
+
+
+
+<!-- Site CSS -->
+<link type="text/css" rel="stylesheet" href="https://irp-cdn.multiscreensite.com/002795da/files/002795da_1.min.css?v=174" id="siteGlobalCss" />
+
+
+<!-- additional css file per platform -->
+<link type="text/css" rel="stylesheet" href="_dm/s/rt/css/iol/iol-runtime.css?version=2020-04-26T06_53_05" />
+
+<style id="customWidgetStyle" type="text/css">
+    
+</style>
+<style id="innerPagesStyle" type="text/css">
+    
+</style>
+
+<style id="additionalGlobalCss" type="text/css">
+</style>
+
+<style id="pagestyle" type="text/css">
+    *#dm *.dmBody div.u_1999944097
+{
+	background-color:rgba(255,255,255,1) !important;
+}
+*#dm *.dmBody *.u_1949524335:before
+{
+	opacity:0.5 !important;
+	background-color:rgb(255,255,255) !important;
+}
+*#dm *.dmBody *.u_1949524335.before
+{
+	opacity:0.5 !important;
+	background-color:rgb(255,255,255) !important;
+}
+*#dm *.dmBody *.u_1949524335>*.bgExtraLayerOverlay
+{
+	opacity:0.5 !important;
+	background-color:rgb(255,255,255) !important;
+}
+*#dm *.dmBody a.u_1609573347:hover
+{
+	background-color:rgba(1,1,1,1) !important;
+	background-image:none !important;
+}
+*#dm *.dmBody a.u_1609573347.hover
+{
+	background-color:rgba(1,1,1,1) !important;
+	background-image:none !important;
+}
+*#dm *.dmBody a.u_1609573347 span.text
+{
+	color:rgba(255,255,255,1) !important;
+}
+*#dm *.dmBody div.u_1690681128
+{
+	background-color:rgba(255,255,255,1) !important;
+}
+*#dm *.dmBody div.u_1949524335:before
+{
+	background-color:rgba(255,0,0,1) !important;
+}
+*#dm *.dmBody div.u_1949524335.before
+{
+	background-color:rgba(255,0,0,1) !important;
+}
+*#dm *.dmBody div.u_1949524335>*.bgExtraLayerOverlay
+{
+	background-color:rgba(255,0,0,1) !important;
+}
+*#dm *.dmBody a.u_1631033866
+{
+	opacity:1 !important;
+	background-color:rgba(244,244,244,1) !important;
+}
+*#dm *.dmBody a.u_1631033866 span.text
+{
+	color:rgba(0,0,0,1) !important;
+}
+*#dm *.dmBody a.u_1631033866:hover span.text
+{
+	color:rgba(255,255,255,1) !important;
+}
+*#dm *.dmBody a.u_1631033866.hover span.text
+{
+	color:rgba(255,255,255,1) !important;
+}
+*#dm *.dmBody a.u_1272916821
+{
+	opacity:1 !important;
+	background-color:rgba(244,244,244,1) !important;
+}
+*#dm *.dmBody a.u_1272916821 span.text
+{
+	color:rgba(0,0,0,1) !important;
+}
+*#dm *.dmBody a.u_1272916821:hover span.text
+{
+	color:rgba(255,255,255,1) !important;
+}
+*#dm *.dmBody a.u_1272916821.hover span.text
+{
+	color:rgba(255,255,255,1) !important;
+}
+*#dm *.dmBody a.u_1972082039
+{
+	opacity:1 !important;
+	background-color:rgba(244,244,244,1) !important;
+}
+*#dm *.dmBody a.u_1972082039 span.text
+{
+	color:rgba(0,0,0,1) !important;
+}
+*#dm *.dmBody a.u_1972082039:hover span.text
+{
+	color:rgba(255,255,255,1) !important;
+}
+*#dm *.dmBody a.u_1972082039.hover span.text
+{
+	color:rgba(255,255,255,1) !important;
+}
+*#dm *.dmBody h3.u_1717647326
+{
+	color:rgba(255,255,255,1) !important;
+	background-color:rgba(0,0,0,0.7) !important;
+}
+*#dm *.dmBody div.u_1469386731 *.slides *.slide-text
+{
+	font-weight:bold !important;
+}
+*#dm *.dmBody div.u_1469386731 *.slides *.slide-title
+{
+	font-weight:bold !important;
+	text-shadow:2px 2px 3px #000 !important;
+}
+*#dm *.dmBody div.u_1469386731 *.color-overlay
+{
+	background-color:rgba(0,0,0,0.2) !important;
+}
+*#dm *.dmBody div.u_1150323986
+{
+	background-repeat:no-repeat !important;
+	background-image:none !important;
+	background-size:cover !important;
+}
+*.u_1999944097
+{
+	background-image:none !important;
+	background-color:rgb(255,255,255) !important;
+	background-position:0 0 !important;
+	background-size:auto !important;
+	background-repeat:repeat !important;
+	padding-top:25px !important;
+	padding-bottom:25px !important;
+	padding-right:0 !important;
+	padding-left:0 !important;
+	margin:0 !important;
+	text-align:start !important;
+	color:rgb(76,76,76) !important;
+}
+*.u_1690681128
+{
+	background-image:none !important;
+	background-color:rgb(255,255,255) !important;
+	background-position:0 0 !important;
+	background-size:auto !important;
+	background-repeat:repeat !important;
+	padding-top:0 !important;
+	padding-bottom:15px !important;
+	padding-right:0 !important;
+	padding-left:0 !important;
+	margin:0 !important;
+	text-align:start !important;
+	color:rgb(76,76,76) !important;
+}
+*.u_1126388039
+{
+	background-image:none !important;
+	background-color:rgba(0,0,0,0) !important;
+	background-position:0 0 !important;
+	background-size:auto !important;
+	background-repeat:repeat !important;
+	padding-top:0 !important;
+	padding-bottom:0 !important;
+	padding-right:15px !important;
+	padding-left:15px !important;
+	margin:0 !important;
+	text-align:start !important;
+	color:rgb(76,76,76) !important;
+}
+*.u_1069220505
+{
+	background-image:none !important;
+	background-color:rgba(0,0,0,0) !important;
+	background-position:0 0 !important;
+	background-size:auto !important;
+	background-repeat:repeat !important;
+	padding-top:0 !important;
+	padding-bottom:0 !important;
+	padding-right:15px !important;
+	padding-left:15px !important;
+	margin:0 !important;
+	text-align:start !important;
+	color:rgb(76,76,76) !important;
+}
+*.u_1632012560
+{
+	background-image:none !important;
+	background-color:rgba(0,0,0,0) !important;
+	background-position:0 0 !important;
+	background-size:auto !important;
+	background-repeat:repeat !important;
+	padding-top:0 !important;
+	padding-bottom:0 !important;
+	padding-right:15px !important;
+	padding-left:15px !important;
+	margin:0 !important;
+	text-align:start !important;
+	color:rgb(76,76,76) !important;
+}
+*.u_1371303394
+{
+	background-image:none !important;
+	background-color:rgba(0,0,0,0) !important;
+	background-position:0 0 !important;
+	background-size:auto !important;
+	background-repeat:repeat !important;
+	padding-top:0 !important;
+	padding-bottom:0 !important;
+	padding-right:0 !important;
+	padding-left:0 !important;
+	margin:0 !important;
+	text-align:start !important;
+	color:rgb(76,76,76) !important;
+}
+*.u_1949524335
+{
+	background-image:url(https://irp-cdn.multiscreensite.com/002795da/dms3rep/multi/tende-da-sole-panuccio-la-spezia-0247.jpg) !important;
+	background-color:rgba(0,0,0,0) !important;
+	background-position:0 0 !important;
+	background-size:cover !important;
+	background-repeat:no-repeat !important;
+	padding-top:15px !important;
+	padding-bottom:15px !important;
+	padding-right:0 !important;
+	padding-left:0 !important;
+	margin:0 auto !important;
+	text-align:start !important;
+	color:rgb(76,76,76) !important;
+}
+*.u_1904015227
+{
+	background-image:none !important;
+	background-color:rgba(0,0,0,0) !important;
+	background-position:0 0 !important;
+	background-size:auto !important;
+	background-repeat:repeat !important;
+	padding-top:0 !important;
+	padding-bottom:0 !important;
+	padding-right:15px !important;
+	padding-left:15px !important;
+	margin:0 !important;
+	text-align:start !important;
+	color:rgb(76,76,76) !important;
+}
+*.u_1150323986
+{
+	background-image:none !important;
+	background-color:rgba(0,0,0,0) !important;
+	background-position:0 0 !important;
+	background-size:cover !important;
+	background-repeat:no-repeat !important;
+	padding-top:0 !important;
+	padding-bottom:0 !important;
+	padding-right:0 !important;
+	padding-left:0 !important;
+	margin:0 !important;
+	text-align:start !important;
+	color:rgb(76,76,76) !important;
+}
+*.u_1072507563
+{
+	background-image:none !important;
+	background-color:rgba(0,0,0,0) !important;
+	background-position:0 0 !important;
+	background-size:auto !important;
+	background-repeat:repeat !important;
+	padding-top:0 !important;
+	padding-bottom:0 !important;
+	padding-right:15px !important;
+	padding-left:15px !important;
+	margin:0 !important;
+	text-align:start !important;
+	color:rgb(76,76,76) !important;
+}
+*#dm *.dmBody div.u_1949524335
+{
+	background-repeat:no-repeat !important;
+	background-image:url(https://irp-cdn.multiscreensite.com/md/dmip/dms3rep/multi/computer-men-work.jpg) !important;
+	background-size:cover !important;
+}
+*#dm *.dmBody div.u_1469386731 .slides .slide-button
+{
+	border-style:solid !important;
+	border-width:0 !important;
+}
+*#dm *.dmBody a.u_1972082039:hover
+{
+	background-image:none !important;
+	border-color:rgba(96,109,110,1) !important;
+	background-color:rgba(96,109,110,1) !important;
+}
+*#dm *.dmBody a.u_1972082039.hover
+{
+	background-image:none !important;
+	border-color:rgba(96,109,110,1) !important;
+	background-color:rgba(96,109,110,1) !important;
+}
+*#dm *.dmBody a.u_1272916821:hover
+{
+	background-color:rgba(96,109,110,1) !important;
+	background-image:none !important;
+}
+*#dm *.dmBody a.u_1272916821.hover
+{
+	background-color:rgba(96,109,110,1) !important;
+	background-image:none !important;
+}
+*#dm *.dmBody a.u_1631033866:hover
+{
+	background-color:rgba(96,109,110,1) !important;
+	background-image:none !important;
+}
+*#dm *.dmBody a.u_1631033866.hover
+{
+	background-color:rgba(96,109,110,1) !important;
+	background-image:none !important;
+}
+*#dm *.dmBody div.u_1442858178 .photoGalleryThumbs .image-container
+{
+	border-radius:0 !important;
+	-moz-border-radius:0 !important;
+	-webkit-border-radius:0 !important;
+}
+*#dm *.dmBody div.u_1442858178 .caption-inner
+{
+	background-color:rgba(0,0,0,0.26) !important;
+}
+*#dm *.dmBody div.u_1992660543
+{
+	background-color:rgba(248,247,244,1) !important;
+}
+*#dm *.dmBody div.u_1442858178 .caption-button:hover span.text
+{
+	color:rgba(255,255,255,1) !important;
+}
+*#dm *.dmBody div.u_1442858178 .caption-button.hover span.text
+{
+	color:rgba(255,255,255,1) !important;
+}
+*#dm *.dmBody div.u_1442858178 .caption-container .caption-title
+{
+	color:rgba(255,255,255,1) !important;
+	font-weight:bold !important;
+}
+*#dm *.dmBody div.u_1442858178 .caption-container .caption-text
+{
+	color:rgba(255,255,255,1) !important;
+	font-weight:normal !important;
+}
+*#dm *.dmBody div.u_1442858178 .caption-container .caption-text .rteBlock
+{
+	color:rgba(255,255,255,1) !important;
+	font-weight:normal !important;
+}
+*#dm *.dmBody *.u_1931662003
+{
+	background-position:50% 100% !important;
+}
+*#dm *.dmBody *.u_1477507077
+{
+	display:block !important;
+}
+*#dm *.dmBody div.u_1442858178 .caption-button
+{
+	border-style:solid !important;
+	border-width:0 !important;
+	background-image:initial !important;
+	background-color:rgba(84,88,88,1) !important;
+}
+*#dm *.dmBody div.u_1442858178 .caption-button:hover
+{
+	background-color:rgba(84,88,88,1) !important;
+	background-image:none !important;
+}
+*#dm *.dmBody div.u_1442858178 .caption-button.hover
+{
+	background-color:rgba(84,88,88,1) !important;
+	background-image:none !important;
+}
+*#dm *.dmBody div.u_1442858178 .caption-button span.text
+{
+	text-decoration:none !important;
+	font-weight:normal !important;
+	color:rgba(255,255,255,1) !important;
+}
+*#dm *.dmBody *.u_1442858178 .caption-button
+{
+	text-align:CENTER !important;
+}
+*#dm *.dmBody *.u_1299110701
+{
+	display:block !important;
+}
+*#dm *.dmBody *.u_1477247064
+{
+	display:block !important;
+}
+*#dm *.dmBody *.u_1998778678
+{
+	display:block !important;
+}
+*#dm *.dmBody *.u_1902484516
+{
+	display:block !important;
+}
+*#dm *.dmBody *.u_1116660195
+{
+	display:block !important;
+}
+*#dm *.dmBody *.u_1606202604
+{
+	display:block !important;
+}
+*#dm *.dmBody *.u_1547127784
+{
+	background-position:50% 50% !important;
+}
+*#dm *.dmBody *.u_1861401996
+{
+	display:block !important;
+}
+*#dm *.dmBody *.u_1801323340
+{
+	display:block !important;
+}
+*#dm *.dmBody *.u_1162201915
+{
+	display:block !important;
+}
+*#dm *.dmBody *.u_1883957078
+{
+	display:block !important;
+}
+*#dm *.dmBody *.u_1887861199
+{
+	display:block !important;
+}
+*#dm *.dmBody div.u_1391530650 .photoGalleryThumbs .image-container
+{
+	border-radius:0 !important;
+	-moz-border-radius:0 !important;
+	-webkit-border-radius:0 !important;
+}
+*#dm *.dmBody div.u_1391530650 .caption-inner
+{
+	background-color:rgba(0,0,0,0.26) !important;
+}
+*#dm *.dmBody div.u_1592884964
+{
+	background-color:rgba(248,247,244,1) !important;
+}
+*#dm *.dmBody div.u_1391530650 .caption-button:hover span.text
+{
+	color:rgba(255,255,255,1) !important;
+}
+*#dm *.dmBody div.u_1391530650 .caption-button.hover span.text
+{
+	color:rgba(255,255,255,1) !important;
+}
+*#dm *.dmBody div.u_1391530650 .caption-container .caption-title
+{
+	color:rgba(255,255,255,1) !important;
+	font-weight:bold !important;
+}
+*#dm *.dmBody div.u_1391530650 .caption-container .caption-text
+{
+	color:rgba(255,255,255,1) !important;
+	font-weight:normal !important;
+}
+*#dm *.dmBody div.u_1391530650 .caption-container .caption-text .rteBlock
+{
+	color:rgba(255,255,255,1) !important;
+	font-weight:normal !important;
+}
+*#dm *.dmBody *.u_1885378612
+{
+	background-position:50% 50% !important;
+}
+*#dm *.dmBody div.u_1391530650 .caption-button
+{
+	border-style:solid !important;
+	border-width:0 !important;
+	background-image:initial !important;
+	background-color:rgba(84,88,88,1) !important;
+}
+*#dm *.dmBody div.u_1391530650 .caption-button:hover
+{
+	background-color:rgba(84,88,88,1) !important;
+	background-image:none !important;
+}
+*#dm *.dmBody div.u_1391530650 .caption-button.hover
+{
+	background-color:rgba(84,88,88,1) !important;
+	background-image:none !important;
+}
+*#dm *.dmBody div.u_1391530650 .caption-button span.text
+{
+	text-decoration:none !important;
+	font-weight:normal !important;
+	color:rgba(255,255,255,1) !important;
+}
+*#dm *.dmBody *.u_1391530650 .caption-button
+{
+	text-align:CENTER !important;
+}
+*#dm *.dmBody *.u_undefined
+{
+	display:block !important;
+}
+*#dm *.dmBody *.u_undefined
+{
+	display:none !important;
+}
+*#dm *.dmBody *.u_1059613705
+{
+	display:block !important;
+}
+*#dm *.dmBody *.u_1870688213
+{
+	display:none !important;
+}
+*#dm *.dmBody *.u_1038688462
+{
+	display:block !important;
+}
+*#dm *.dmBody *.u_1647501041
+{
+	display:none !important;
+}
+*#dm *.dmBody *.u_1918941234
+{
+	display:block !important;
+}
+*#dm *.dmBody *.u_1189810453
+{
+	display:none !important;
+}
+*#dm *.dmBody *.u_1424710388
+{
+	display:block !important;
+}
+*#dm *.dmBody *.u_1947599235
+{
+	display:none !important;
+}
+*#dm *.dmBody *.u_1902032816
+{
+	display:block !important;
+}
+*#dm *.dmBody *.u_1347087197
+{
+	display:none !important;
+}
+*#dm *.dmBody *.u_1183908535
+{
+	display:block !important;
+}
+*#dm *.dmBody *.u_1626180247
+{
+	display:none !important;
+}
+*#dm *.dmBody div.u_1658441422
+{
+	background-image:initial !important;
+	background-color:rgba(248,247,244,1) !important;
+}
+*#dm *.dmBody div.u_1605672190
+{
+	background-image:initial !important;
+	background-color:rgba(248,247,244,1) !important;
+}
+*#dm *.dmBody div.u_1718425511
+{
+	background-color:rgba(248,247,244,1) !important;
+}
+*#dm *.dmBody a.u_1481569963
+{
+	color:rgb(24,118,204) !important;
+	background-color:rgba(84,88,88,1) !important;
+}
+*#dm *.dmBody a.u_1659517810
+{
+	color:rgb(24,118,204) !important;
+	background-color:rgba(84,88,88,1) !important;
+}
+*#dm *.dmBody a.u_1659517810:hover
+{
+	border-color:rgba(84,88,88,1) !important;
+}
+*#dm *.dmBody a.u_1659517810.hover
+{
+	border-color:rgba(84,88,88,1) !important;
+}
+*#dm *.dmBody *.u_1811098014
+{
+	background-position:50% 50% !important;
+}
+*#dm *.dmBody a.u_1609573347
+{
+	background-color:rgba(84,88,88,1) !important;
+}
+*#dm *.dmBody div.u_Iscrizione
+{
+	background-color:rgba(255,255,255,1) !important;
+}
+*#dm *.dmBody div.u_1422360414 input:not([type="submit"])
+{
+	border-style:solid !important;
+	border-width:1px !important;
+	border-color:rgba(84,88,88,1) !important;
+}
+*#dm *.dmBody div.u_1422360414 textarea
+{
+	border-style:solid !important;
+	border-width:1px !important;
+	border-color:rgba(84,88,88,1) !important;
+}
+*#dm *.dmBody div.u_1422360414 select
+{
+	border-style:solid !important;
+	border-width:1px !important;
+	border-color:rgba(84,88,88,1) !important;
+}
+*#dm *.dmBody div.u_1125469378 .photoGalleryThumbs .image-container
+{
+	border-radius:0 !important;
+	-moz-border-radius:0 !important;
+	-webkit-border-radius:0 !important;
+}
+*#dm *.dmBody div.u_1125469378 .caption-inner
+{
+	background-color:rgba(0,0,0,0.26) !important;
+}
+*#dm *.dmBody div.u_1543008494
+{
+	background-color:rgba(248,247,244,1) !important;
+}
+*#dm *.dmBody div.u_1125469378 .caption-button:hover span.text
+{
+	color:rgba(255,255,255,1) !important;
+}
+*#dm *.dmBody div.u_1125469378 .caption-button.hover span.text
+{
+	color:rgba(255,255,255,1) !important;
+}
+*#dm *.dmBody div.u_1125469378 .caption-container .caption-title
+{
+	color:rgba(255,255,255,1) !important;
+	font-weight:bold !important;
+}
+*#dm *.dmBody div.u_1125469378 .caption-container .caption-text
+{
+	color:rgba(255,255,255,1) !important;
+	font-weight:normal !important;
+}
+*#dm *.dmBody div.u_1125469378 .caption-container .caption-text .rteBlock
+{
+	color:rgba(255,255,255,1) !important;
+	font-weight:normal !important;
+}
+*#dm *.dmBody div.u_1125469378 .caption-button
+{
+	border-style:solid !important;
+	border-width:0 !important;
+	background-image:initial !important;
+	background-color:rgba(84,88,88,1) !important;
+}
+*#dm *.dmBody div.u_1125469378 .caption-button:hover
+{
+	background-color:rgba(84,88,88,1) !important;
+	background-image:none !important;
+}
+*#dm *.dmBody div.u_1125469378 .caption-button.hover
+{
+	background-color:rgba(84,88,88,1) !important;
+	background-image:none !important;
+}
+*#dm *.dmBody div.u_1125469378 .caption-button span.text
+{
+	text-decoration:none !important;
+	font-weight:normal !important;
+	color:rgba(255,255,255,1) !important;
+}
+*#dm *.dmBody *.u_1125469378 .caption-button
+{
+	text-align:CENTER !important;
+}
+*#dm *.dmBody *.u_1245008026
+{
+	display:block !important;
+}
+*#dm *.dmBody *.u_1118073966
+{
+	display:block !important;
+}
+*#dm *.dmBody div.u_1281844583
+{
+	background-image:initial !important;
+	background-color:rgba(248,247,244,1) !important;
+}
+*#dm *.dmBody div.u_1899695135
+{
+	background-image:initial !important;
+	background-color:rgba(248,247,244,1) !important;
+}
+*#dm *.dmBody div.u_1481800944 .photoGalleryThumbs .image-container
+{
+	border-radius:0 !important;
+	-moz-border-radius:0 !important;
+	-webkit-border-radius:0 !important;
+}
+*#dm *.dmBody div.u_1481800944 .caption-inner
+{
+	background-color:rgba(0,0,0,0.26) !important;
+}
+*#dm *.dmBody div.u_1233390279
+{
+	background-color:rgba(248,247,244,1) !important;
+}
+*#dm *.dmBody div.u_1481800944 .caption-button:hover span.text
+{
+	color:rgba(255,255,255,1) !important;
+}
+*#dm *.dmBody div.u_1481800944 .caption-button.hover span.text
+{
+	color:rgba(255,255,255,1) !important;
+}
+*#dm *.dmBody div.u_1481800944 .caption-container .caption-title
+{
+	color:rgba(255,255,255,1) !important;
+	font-weight:bold !important;
+}
+*#dm *.dmBody div.u_1481800944 .caption-container .caption-text
+{
+	color:rgba(255,255,255,1) !important;
+	font-weight:normal !important;
+}
+*#dm *.dmBody div.u_1481800944 .caption-container .caption-text .rteBlock
+{
+	color:rgba(255,255,255,1) !important;
+	font-weight:normal !important;
+}
+*#dm *.dmBody div.u_1481800944 .caption-button
+{
+	border-style:solid !important;
+	border-width:0 !important;
+	background-image:initial !important;
+	background-color:rgba(84,88,88,1) !important;
+}
+*#dm *.dmBody div.u_1481800944 .caption-button:hover
+{
+	background-color:rgba(84,88,88,1) !important;
+	background-image:none !important;
+}
+*#dm *.dmBody div.u_1481800944 .caption-button.hover
+{
+	background-color:rgba(84,88,88,1) !important;
+	background-image:none !important;
+}
+*#dm *.dmBody div.u_1481800944 .caption-button span.text
+{
+	text-decoration:none !important;
+	font-weight:normal !important;
+	color:rgba(255,255,255,1) !important;
+}
+*#dm *.dmBody *.u_1481800944 .caption-button
+{
+	text-align:CENTER !important;
+}
+*#dm *.dmBody *.u_1845194302
+{
+	display:block !important;
+}
+*#dm *.dmBody *.u_1807151661
+{
+	display:block !important;
+}
+
+</style>
+
+<style id="pagestyleDevice" type="text/css">
+    
+*.u_1949524335
+{
+	background-image:url(https://lirp-cdn.multiscreensite.com/002795da/dms3rep/multi/opt/tende-da-sole-panuccio-la-spezia-0247-1920w.jpg) !important;
+	background-color:rgba(0,0,0,0) !important;
+	background-position:0 0 !important;
+	background-size:cover !important;
+	background-repeat:no-repeat !important;
+	padding-top:15px !important;
+	padding-bottom:15px !important;
+	padding-right:0 !important;
+	padding-left:0 !important;
+	margin:0 auto !important;
+	text-align:start !important;
+	color:rgb(76,76,76) !important;
+}
+*#dm *.dmBody div.u_1949524335
+{
+	background-repeat:no-repeat !important;
+	background-image:url(https://irp-cdn.multiscreensite.com/md/dmip/dms3rep/multi/computer-men-work.jpg) !important;
+	background-size:cover !important;
+}@media all and (min-width:1920px), all and (-webkit-min-device-pixel-ratio: 1.5), all and (min--moz-device-pixel-ratio: 1.5), all and (min-device-pixel-ratio: 1.5) {
+
+*.u_1949524335
+{
+	background-image:url(https://lirp-cdn.multiscreensite.com/002795da/dms3rep/multi/opt/tende-da-sole-panuccio-la-spezia-0247-2880w.jpg) !important;
+	background-color:rgba(0,0,0,0) !important;
+	background-position:0 0 !important;
+	background-size:cover !important;
+	background-repeat:no-repeat !important;
+	padding-top:15px !important;
+	padding-bottom:15px !important;
+	padding-right:0 !important;
+	padding-left:0 !important;
+	margin:0 auto !important;
+	text-align:start !important;
+	color:rgb(76,76,76) !important;
+}
+*#dm *.dmBody div.u_1949524335
+{
+	background-repeat:no-repeat !important;
+	background-image:url(https://irp-cdn.multiscreensite.com/md/dmip/dms3rep/multi/computer-men-work.jpg) !important;
+	background-size:cover !important;
+}
+}
+*#dm *.dmBody a.u_1272916821
+{
+	display:block !important;
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:280px !important;
+	position:relative !important;
+	height:60px !important;
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	max-width:100% !important;
+	padding-right:0 !important;
+	min-width:0 !important;
+	text-align:center !important;
+}
+*#dm *.dmBody h3.u_1717647326
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:calc(100% - 177px) !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:70px !important;
+	padding-left:30px !important;
+	padding-bottom:60px !important;
+	margin-right:auto !important;
+	margin-left:auto !important;
+	max-width:606px !important;
+	margin-top:-5px !important;
+	margin-bottom:0 !important;
+	padding-right:30px !important;
+	min-width:25px !important;
+	text-align:center !important;
+}
+*#dm *.dmBody div.u_1469386731 *.slides *.slide-text
+{
+	font-size:30px !important;
+}
+*#dm *.dmBody div.u_1469386731 *.slides *.slide-title
+{
+	font-size:35px !important;
+}
+*#dm *.dmBody div.u_1371303394
+{
+	padding-top:0 !important;
+}
+*#dm *.dmBody div.u_1150323986
+{
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	background-position:50% 50% !important;
+	padding-right:0 !important;
+	position:relative !important;
+}
+*#dm *.dmBody a.u_1609573347
+{
+	display:block !important;
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:260px !important;
+	position:relative !important;
+	height:60px !important;
+	padding-top:0 !important;
+	padding-left:10px !important;
+	padding-bottom:0 !important;
+	margin-right:auto !important;
+	margin-left:auto !important;
+	max-width:100% !important;
+	margin-top:-30px !important;
+	margin-bottom:10px !important;
+	padding-right:10px !important;
+	min-width:0 !important;
+	text-align:center !important;
+}
+*#dm *.dmBody div.u_1999944097
+{
+	padding-top:25px !important;
+}
+*#dm *.dmBody div.u_1469386731
+{
+	height:650px !important;
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+}
+*#dm *.dmBody *.u_1442858178 .photoGalleryThumbs .image-container a
+{
+	padding-top:440px !important;
+}
+*#dm *.dmBody *.u_1442858178 .photoGalleryThumbs
+{
+	padding:10px !important;
+}
+*#dm *.dmBody *.u_1442858178 .layout-container
+{
+	padding:10px !important;
+}
+*#dm *.dmBody *.u_1442858178 .photoGalleryViewAll
+{
+	padding:0 20px !important;
+}
+*#dm *.dmBody *.u_1442858178 .caption-inner
+{
+	padding-left:28px !important;
+	padding-right:28px !important;
+}
+*#dm *.dmBody div.u_1442858178 .caption-container .caption-title
+{
+	font-size:30px !important;
+}
+*#dm *.dmBody div.u_1442858178 .caption-container .caption-text
+{
+	font-size:30px !important;
+}
+*#dm *.dmBody div.u_1442858178 .caption-container .caption-text .rteBlock
+{
+	font-size:30px !important;
+}
+*#dm *.dmBody div.u_1690681128
+{
+	padding-top:25px !important;
+	padding-right:40px !important;
+	padding-left:40px !important;
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:auto !important;
+	position:relative !important;
+	height:auto !important;
+	padding-bottom:25px !important;
+	margin-right:0 !important;
+	margin-left:0 !important;
+	max-width:100% !important;
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+	min-width:0 !important;
+	text-align:start !important;
+}
+*#dm *.dmBody div.u_1041078209
+{
+	padding-top:0 !important;
+}
+*#dm *.dmBody div.u_1949524335
+{
+	background-position:50% 50% !important;
+	background-attachment:initial !important;
+	padding-top:90px !important;
+	padding-bottom:70px !important;
+	background-repeat:no-repeat !important;
+	background-size:cover !important;
+}
+*#dm *.dmBody div.u_1442858178 .caption-button span.text
+{
+	font-size:20px !important;
+}
+*#dm *.dmBody div.u_1442858178 .caption-button
+{
+	height:45px !important;
+	width:145px !important;
+}
+*#dm *.dmBody div.u_1442858178
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:calc(100% - 0px) !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	margin-right:0 !important;
+	max-width:100% !important;
+	margin-top:0 !important;
+	margin-bottom:10px !important;
+	padding-right:0 !important;
+	min-width:25px !important;
+	text-align:center !important;
+	important:true !important;
+	margin-left:0 !important;
+}
+*#dm *.dmBody div.u_1605672190
+{
+	padding-top:30px !important;
+	padding-bottom:30px !important;
+}
+*#dm *.dmBody *.u_1391530650 .photoGalleryThumbs .image-container a
+{
+	padding-top:440px !important;
+}
+*#dm *.dmBody *.u_1391530650 .photoGalleryThumbs
+{
+	padding:10px !important;
+}
+*#dm *.dmBody *.u_1391530650 .layout-container
+{
+	padding:10px !important;
+}
+*#dm *.dmBody *.u_1391530650 .photoGalleryViewAll
+{
+	padding:0 20px !important;
+}
+*#dm *.dmBody *.u_1391530650 .caption-inner
+{
+	padding-left:28px !important;
+	padding-right:28px !important;
+}
+*#dm *.dmBody div.u_1391530650 .caption-container .caption-title
+{
+	font-size:30px !important;
+}
+*#dm *.dmBody div.u_1391530650 .caption-container .caption-text
+{
+	font-size:30px !important;
+}
+*#dm *.dmBody div.u_1391530650 .caption-container .caption-text .rteBlock
+{
+	font-size:30px !important;
+}
+*#dm *.dmBody div.u_1869963990
+{
+	padding-top:0 !important;
+}
+*#dm *.dmBody div.u_1391530650 .caption-button span.text
+{
+	font-size:20px !important;
+}
+*#dm *.dmBody div.u_1391530650 .caption-button
+{
+	height:45px !important;
+	width:145px !important;
+}
+*#dm *.dmBody div.u_1391530650
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:calc(100% - 0px) !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	margin-right:0 !important;
+	max-width:100% !important;
+	margin-top:0 !important;
+	margin-bottom:10px !important;
+	padding-right:0 !important;
+	min-width:25px !important;
+	text-align:center !important;
+	important:true !important;
+	margin-left:0 !important;
+}
+*#dm *.dmBody *.u_1391530650 .photoGalleryThumbs .image-container a
+{
+	padding-top:440px !important;
+}
+*#dm *.dmBody *.u_1391530650 .photoGalleryThumbs
+{
+	padding:10px !important;
+}
+*#dm *.dmBody *.u_1391530650 .layout-container
+{
+	padding:10px !important;
+}
+*#dm *.dmBody *.u_1391530650 .photoGalleryViewAll
+{
+	padding:0 20px !important;
+}
+*#dm *.dmBody *.u_1391530650 .caption-inner
+{
+	padding-left:28px !important;
+	padding-right:28px !important;
+}
+*#dm *.dmBody div.u_1391530650 .caption-container .caption-title
+{
+	font-size:30px !important;
+}
+*#dm *.dmBody div.u_1391530650 .caption-container .caption-text
+{
+	font-size:30px !important;
+}
+*#dm *.dmBody div.u_1391530650 .caption-container .caption-text .rteBlock
+{
+	font-size:30px !important;
+}
+*#dm *.dmBody div.u_1869963990
+{
+	padding-top:0 !important;
+}
+*#dm *.dmBody div.u_1391530650 .caption-button span.text
+{
+	font-size:20px !important;
+}
+*#dm *.dmBody div.u_1391530650 .caption-button
+{
+	height:45px !important;
+	width:145px !important;
+}
+*#dm *.dmBody div.u_1391530650
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:calc(100% - 0px) !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	margin-right:0 !important;
+	max-width:100% !important;
+	margin-top:0 !important;
+	margin-bottom:10px !important;
+	padding-right:0 !important;
+	min-width:25px !important;
+	text-align:center !important;
+	important:true !important;
+	margin-left:0 !important;
+}
+*#dm *.dmBody div.u_1992660543
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:100% !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:20px !important;
+	padding-left:20px !important;
+	padding-bottom:20px !important;
+	margin-right:auto !important;
+	margin-left:auto !important;
+	max-width:none !important;
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+	padding-right:20px !important;
+	min-width:0 !important;
+	text-align:center !important;
+}
+*#dm *.dmBody div.u_1658441422
+{
+	padding-top:30px !important;
+	padding-bottom:30px !important;
+}
+*#dm *.dmBody div.u_1658441422
+{
+	padding-top:30px !important;
+	padding-bottom:30px !important;
+}
+*#dm *.dmBody div.u_1592884964
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:100% !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:20px !important;
+	padding-left:20px !important;
+	padding-bottom:50px !important;
+	max-width:none !important;
+	padding-right:20px !important;
+	min-width:0 !important;
+	text-align:center !important;
+}
+*#dm *.dmBody div.u_1592884964
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:100% !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:20px !important;
+	padding-left:20px !important;
+	padding-bottom:50px !important;
+	max-width:none !important;
+	padding-right:20px !important;
+	min-width:0 !important;
+	text-align:center !important;
+}
+*#dm *.dmBody a.u_1659517810
+{
+	padding-top:0 !important;
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:328px !important;
+	position:relative !important;
+	height:46px !important;
+	padding-left:10px !important;
+	padding-bottom:0 !important;
+	margin-right:auto !important;
+	margin-left:auto !important;
+	max-width:100% !important;
+	margin-top:10px !important;
+	margin-bottom:10px !important;
+	padding-right:10px !important;
+	min-width:0 !important;
+	text-align:center !important;
+	display:block !important;
+}
+*#dm *.dmBody div.u_1359277602
+{
+	display:block !important;
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:930px !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	margin-right:auto !important;
+	margin-left:auto !important;
+	max-width:100% !important;
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+	padding-right:0 !important;
+	min-width:0 !important;
+	text-align:center !important;
+}
+*#dm *.dmBody div.u_1422360414
+{
+	padding-top:0 !important;
+}
+*#dm *.dmBody a.u_1972082039
+{
+	display:block !important;
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:calc(100% - 26px) !important;
+	position:relative !important;
+	height:60px !important;
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	max-width:280px !important;
+	padding-right:0 !important;
+	min-width:25px !important;
+	text-align:center !important;
+	margin-right:auto !important;
+	margin-left:auto !important;
+	margin-top:10px !important;
+	margin-bottom:0 !important;
+}
+*#dm *.dmBody a.u_1631033866
+{
+	display:block !important;
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:calc(100% - 26px) !important;
+	position:relative !important;
+	height:60px !important;
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	max-width:280px !important;
+	padding-right:0 !important;
+	min-width:25px !important;
+	text-align:center !important;
+	margin-right:auto !important;
+	margin-left:auto !important;
+	margin-top:10px !important;
+	margin-bottom:0 !important;
+}
+*#dm *.dmBody *.u_1125469378 .photoGalleryThumbs .image-container a
+{
+	padding-top:440px !important;
+}
+*#dm *.dmBody *.u_1125469378 .photoGalleryThumbs
+{
+	padding:10px !important;
+}
+*#dm *.dmBody *.u_1125469378 .layout-container
+{
+	padding:10px !important;
+}
+*#dm *.dmBody *.u_1125469378 .photoGalleryViewAll
+{
+	padding:0 20px !important;
+}
+*#dm *.dmBody *.u_1125469378 .caption-inner
+{
+	padding-left:28px !important;
+	padding-right:28px !important;
+}
+*#dm *.dmBody div.u_1125469378 .caption-container .caption-title
+{
+	font-size:30px !important;
+}
+*#dm *.dmBody div.u_1125469378 .caption-container .caption-text
+{
+	font-size:30px !important;
+}
+*#dm *.dmBody div.u_1125469378 .caption-container .caption-text .rteBlock
+{
+	font-size:30px !important;
+}
+*#dm *.dmBody div.u_1251644734
+{
+	padding-top:0 !important;
+}
+*#dm *.dmBody div.u_1125469378 .caption-button span.text
+{
+	font-size:20px !important;
+}
+*#dm *.dmBody div.u_1125469378 .caption-button
+{
+	height:45px !important;
+	width:145px !important;
+}
+*#dm *.dmBody div.u_1125469378
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:calc(100% - 0px) !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	margin-right:0 !important;
+	max-width:100% !important;
+	margin-top:0 !important;
+	margin-bottom:10px !important;
+	padding-right:0 !important;
+	min-width:25px !important;
+	text-align:center !important;
+	important:true !important;
+	margin-left:0 !important;
+}
+*#dm *.dmBody *.u_1125469378 .photoGalleryThumbs .image-container a
+{
+	padding-top:440px !important;
+}
+*#dm *.dmBody *.u_1125469378 .photoGalleryThumbs
+{
+	padding:10px !important;
+}
+*#dm *.dmBody *.u_1125469378 .layout-container
+{
+	padding:10px !important;
+}
+*#dm *.dmBody *.u_1125469378 .photoGalleryViewAll
+{
+	padding:0 20px !important;
+}
+*#dm *.dmBody *.u_1125469378 .caption-inner
+{
+	padding-left:28px !important;
+	padding-right:28px !important;
+}
+*#dm *.dmBody div.u_1125469378 .caption-container .caption-title
+{
+	font-size:30px !important;
+}
+*#dm *.dmBody div.u_1125469378 .caption-container .caption-text
+{
+	font-size:30px !important;
+}
+*#dm *.dmBody div.u_1125469378 .caption-container .caption-text .rteBlock
+{
+	font-size:30px !important;
+}
+*#dm *.dmBody div.u_1251644734
+{
+	padding-top:0 !important;
+}
+*#dm *.dmBody div.u_1125469378 .caption-button span.text
+{
+	font-size:20px !important;
+}
+*#dm *.dmBody div.u_1125469378 .caption-button
+{
+	height:45px !important;
+	width:145px !important;
+}
+*#dm *.dmBody div.u_1125469378
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:calc(100% - 0px) !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	margin-right:0 !important;
+	max-width:100% !important;
+	margin-top:0 !important;
+	margin-bottom:10px !important;
+	padding-right:0 !important;
+	min-width:25px !important;
+	text-align:center !important;
+	important:true !important;
+	margin-left:0 !important;
+}
+*#dm *.dmBody div.u_1121753789
+{
+	float:none !important;
+	top:0px !important;
+	left:0 !important;
+	width:calc(100% - 0px) !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:0px !important;
+	padding-left:0px !important;
+	padding-bottom:0px !important;
+	margin-right:auto !important;
+	margin-left:auto !important;
+	max-width:544px !important;
+	margin-top:0px !important;
+	margin-bottom:0px !important;
+	padding-right:0px !important;
+	min-width:25px !important;
+	text-align:center !important;
+}
+*#dm *.dmBody div.u_1818312851
+{
+	padding-top:0px !important;
+}
+*#dm *.dmBody div.u_1281844583
+{
+	padding-top:20px !important;
+	padding-bottom:0px !important;
+}
+*#dm *.dmBody div.u_1281844583
+{
+	padding-top:20px !important;
+	padding-bottom:0px !important;
+}
+*#dm *.dmBody div.u_1543008494
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:100% !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:0px !important;
+	padding-left:20px !important;
+	padding-bottom:50px !important;
+	max-width:none !important;
+	padding-right:20px !important;
+	min-width:0 !important;
+	text-align:center !important;
+}
+*#dm *.dmBody div.u_1543008494
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:100% !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:0px !important;
+	padding-left:20px !important;
+	padding-bottom:50px !important;
+	max-width:none !important;
+	padding-right:20px !important;
+	min-width:0 !important;
+	text-align:center !important;
+}
+*#dm *.dmBody div.u_1899695135
+{
+	padding-top:30px !important;
+	padding-bottom:30px !important;
+}
+*#dm *.dmBody div.u_1899695135
+{
+	padding-top:30px !important;
+	padding-bottom:30px !important;
+}
+*#dm *.dmBody *.u_1481800944 .photoGalleryThumbs .image-container a
+{
+	padding-top:440px !important;
+}
+*#dm *.dmBody *.u_1481800944 .photoGalleryThumbs
+{
+	padding:10px !important;
+}
+*#dm *.dmBody *.u_1481800944 .layout-container
+{
+	padding:10px !important;
+}
+*#dm *.dmBody *.u_1481800944 .photoGalleryViewAll
+{
+	padding:0 20px !important;
+}
+*#dm *.dmBody *.u_1481800944 .caption-inner
+{
+	padding-left:28px !important;
+	padding-right:28px !important;
+}
+*#dm *.dmBody div.u_1481800944 .caption-container .caption-title
+{
+	font-size:30px !important;
+}
+*#dm *.dmBody div.u_1481800944 .caption-container .caption-text
+{
+	font-size:30px !important;
+}
+*#dm *.dmBody div.u_1481800944 .caption-container .caption-text .rteBlock
+{
+	font-size:30px !important;
+}
+*#dm *.dmBody div.u_1185795783
+{
+	padding-top:0 !important;
+}
+*#dm *.dmBody div.u_1481800944 .caption-button span.text
+{
+	font-size:20px !important;
+}
+*#dm *.dmBody div.u_1481800944 .caption-button
+{
+	height:45px !important;
+	width:145px !important;
+}
+*#dm *.dmBody div.u_1481800944
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:calc(100% - 0px) !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	margin-right:0 !important;
+	max-width:100% !important;
+	margin-top:0 !important;
+	margin-bottom:10px !important;
+	padding-right:0 !important;
+	min-width:25px !important;
+	text-align:center !important;
+	important:true !important;
+	margin-left:0 !important;
+}
+*#dm *.dmBody div.u_1233390279
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:100% !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:0px !important;
+	padding-left:20px !important;
+	padding-bottom:50px !important;
+	max-width:none !important;
+	padding-right:20px !important;
+	min-width:0 !important;
+	text-align:center !important;
+}
+*#dm *.dmBody *.u_1481800944 .photoGalleryThumbs .image-container a
+{
+	padding-top:440px !important;
+}
+*#dm *.dmBody *.u_1481800944 .photoGalleryThumbs
+{
+	padding:10px !important;
+}
+*#dm *.dmBody *.u_1481800944 .layout-container
+{
+	padding:10px !important;
+}
+*#dm *.dmBody *.u_1481800944 .photoGalleryViewAll
+{
+	padding:0 20px !important;
+}
+*#dm *.dmBody *.u_1481800944 .caption-inner
+{
+	padding-left:28px !important;
+	padding-right:28px !important;
+}
+*#dm *.dmBody div.u_1481800944 .caption-container .caption-title
+{
+	font-size:30px !important;
+}
+*#dm *.dmBody div.u_1481800944 .caption-container .caption-text
+{
+	font-size:30px !important;
+}
+*#dm *.dmBody div.u_1481800944 .caption-container .caption-text .rteBlock
+{
+	font-size:30px !important;
+}
+*#dm *.dmBody div.u_1185795783
+{
+	padding-top:0 !important;
+}
+*#dm *.dmBody div.u_1481800944 .caption-button span.text
+{
+	font-size:20px !important;
+}
+*#dm *.dmBody div.u_1481800944 .caption-button
+{
+	height:45px !important;
+	width:145px !important;
+}
+*#dm *.dmBody div.u_1481800944
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:calc(100% - 0px) !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	margin-right:0 !important;
+	max-width:100% !important;
+	margin-top:0 !important;
+	margin-bottom:10px !important;
+	padding-right:0 !important;
+	min-width:25px !important;
+	text-align:center !important;
+	important:true !important;
+	margin-left:0 !important;
+}
+*#dm *.dmBody div.u_1233390279
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:100% !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:0px !important;
+	padding-left:20px !important;
+	padding-bottom:50px !important;
+	max-width:none !important;
+	padding-right:20px !important;
+	min-width:0 !important;
+	text-align:center !important;
+}
+
+</style>
+
+
+
+
+<!--[if IE 7]><style>.fw-head.fw-logo img{max-width: 290px;}.dm_header .logo-div img{max-width: 290px;}</style><![endif]-->
+<!--[if IE 8]><style>.fw-head .fw-logo img{max-width: 290px;}.dm_header .logo-div img{max-width: 290px;}*#dm div.dmHeader{_height:90px;min-height:0px;}</style><![endif]-->
+
+
+
+    <style id="globalFontSizeStyle" type="text/css">
+        .font-size-20, .size-20, .size-20 > font { font-size: 20px !important; }.font-size-26, .size-26, .size-26 > font { font-size: 26px !important; }.font-size-26, .size-26, .size-26 > font { font-size: 26px !important; }.font-size-26, .size-26, .size-26 > font { font-size: 26px !important; }.font-size-26, .size-26, .size-26 > font { font-size: 26px !important; }.font-size-26, .size-26, .size-26 > font { font-size: 26px !important; }.font-size-14, .size-14, .size-14 > font { font-size: 14px !important; }.font-size-14, .size-14, .size-14 > font { font-size: 14px !important; }.font-size-14, .size-14, .size-14 > font { font-size: 14px !important; }.font-size-14, .size-14, .size-14 > font { font-size: 14px !important; }.font-size-14, .size-14, .size-14 > font { font-size: 14px !important; }.font-size-14, .size-14, .size-14 > font { font-size: 14px !important; }
+    </style>
+    <style id="pageFontSizeStyle" type="text/css">
+    </style>
+
+
+
+<!-- ========= JS Section ========= -->
+
+<!-- Modernizr -->
+<script>
+    /* THIS FILE IS AUTO-GENERATED. SEE build/build-modernizr */
+
+/*! modernizr 3.5.0 (Custom Build) | MIT *
+ * https://modernizr.com/download/?-passiveeventlisteners-supports-setclasses-cssclassprefix:dm- !*/
+!function(e,n,s){function o(e,n){return typeof e===n}function t(){var e,n,s,t,a,r,l;for(var c in i)if(i.hasOwnProperty(c)){if(e=[],n=i[c],n.name&&(e.push(n.name.toLowerCase()),n.options&&n.options.aliases&&n.options.aliases.length))for(s=0;s<n.options.aliases.length;s++)e.push(n.options.aliases[s].toLowerCase());for(t=o(n.fn,"function")?n.fn():n.fn,a=0;a<e.length;a++)r=e[a],l=r.split("."),1===l.length?Modernizr[l[0]]=t:(!Modernizr[l[0]]||Modernizr[l[0]]instanceof Boolean||(Modernizr[l[0]]=new Boolean(Modernizr[l[0]])),Modernizr[l[0]][l[1]]=t),f.push((t?"":"no-")+l.join("-"))}}function a(e){var n=l.className,s=Modernizr._config.classPrefix||"";if(c&&(n=n.baseVal),Modernizr._config.enableJSClass){var o=new RegExp("(^|\\s)"+s+"no-js(\\s|$)");n=n.replace(o,"$1"+s+"js$2")}Modernizr._config.enableClasses&&(n+=" "+s+e.join(" "+s),c?l.className.baseVal=n:l.className=n)}var i=[],r={_version:"3.5.0",_config:{classPrefix:"dm-",enableClasses:!0,enableJSClass:!0,usePrefixes:!0},_q:[],on:function(e,n){var s=this;setTimeout(function(){n(s[e])},0)},addTest:function(e,n,s){i.push({name:e,fn:n,options:s})},addAsyncTest:function(e){i.push({name:null,fn:e})}},Modernizr=function(){};Modernizr.prototype=r,Modernizr=new Modernizr;var f=[],l=n.documentElement,c="svg"===l.nodeName.toLowerCase(),u="CSS"in e&&"supports"in e.CSS,p="supportsCSS"in e;Modernizr.addTest("supports",u||p),Modernizr.addTest("passiveeventlisteners",function(){var n=!1;try{var s=Object.defineProperty({},"passive",{get:function(){n=!0}});e.addEventListener("test",null,s)}catch(o){}return n}),t(),a(f),delete r.addTest,delete r.addAsyncTest;for(var d=0;d<Modernizr._q.length;d++)Modernizr._q[d]();e.Modernizr=Modernizr}(window,document);
+    var isWLR = true;
+
+    window.customWidgetsFunctions = {};
+    window.customWidgetsStrings = {};
+    window.collections = {};
+</script>
+<script>
+                window.collections = JSON.parse(decodeURIComponent(escape(atob("e30="))));
+</script>
+
+
+
+<script type="text/javascript">
+
+    var version = "4.6.1";
+    var build = "2020-04-26T06_53_05";
+
+    function buildEditorParent() {
+        window.isMultiScreen = true;
+        window.editorParent = {};
+        window.previewParent = {};
+        window.assetsCacheQueryParam = "?version=2020-04-26T06_53_05";
+        try {
+            var _p = window.parent;
+            if (_p && _p.document && _p.$ && _p.$.dmfw) {
+                window.editorParent = _p;
+            }
+            else if (_p.isSitePreview) {
+                window.previewParent = _p;
+            }
+        } catch (e) {
+
+        }
+    }
+
+    buildEditorParent();
+
+
+</script>
+<!-- Load jQuery -->
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<!-- End Load jQuery --><script>
+    window.cookiesNotificationMarkupPreview = 'null';
+</script>
+<script>
+    var shouldMonitorImages =  false;
+    if(shouldMonitorImages) {
+        window.addEventListener('error', function(event) {
+            if(event.target && event.target.tagName === 'IMG' && event.target.src && event.target.src.includes && event.target.src.includes('multiscreensite.com')) {
+                if (!window.fetch){
+                    return;
+                }
+                try {
+                    return fetch('/_dm/s/rt/actions/log/WARN', {
+                        method: 'POST',
+                        headers: {
+                            'Content-Type': 'application/json'
+                        },
+                        body: JSON.stringify({ data: {
+                                type: 'image failed to load',
+                                eventType: event.type,
+                                image: event.target.src,
+                                href: window.location.href
+                            } })
+                    });
+                } catch (error) {
+                    console.log(error);
+                }
+
+            }
+        }, { capture: true });
+    }
+
+</script>
+<!-- HEAD RT JS Include -->
+<script>
+    window.INSITE = window.INSITE || {};
+    window.INSITE.device = "desktop";
+    window.rtCommonProps = {};
+    rtCommonProps["rt.ajax.ajaxScriptsFix"] =true;
+    rtCommonProps["rt.pushnotifs.sslframe.encoded"] = 'aHR0cHM6Ly97c3ViZG9tYWlufS5wdXNoLW5vdGlmcy5jb20=';
+    rtCommonProps["facebook.accessToken"] = '126515034112906|8vv7JhnEegS8qz43fIOZjxGZReA';
+    rtCommonProps["performance.tabletPreview.removeScroll"] = 'false';
+    rtCommonProps["feature.flag.contactUsNewForm"] = 'true';
+    rtCommonProps["inlineEditGrid.snap"] =true;
+    rtCommonProps["popup.insite.cookie.ttl"] = '0.5';
+    rtCommonProps["rt.pushnotifs.force.button"] =true;
+    rtCommonProps["google.places.key"] = 'AIzaSyBAwUOqPUB1CU31yDztoZYaUE7sPv4ktEI';
+    rtCommonProps["common.mapbox.token"] = 'pk.eyJ1IjoiZGFubnliMTIzIiwiYSI6ImNqMGljZ256dzAwMDAycXBkdWxwbDgzeXYifQ.Ck5P-0NKPVKAZ6SH98gxxw';
+    rtCommonProps["common.mapbox.js.override"] =false;
+    rtCommonProps["common.opencage.token"] = '319e14f32bcce967ba55cd263478796d';
+    rtCommonProps["common.here.appId"] = 'iYvDjIQ2quyEu0rg0hLo';
+    rtCommonProps["common.here.appCode"] = '1hcIxLJcbybmtBYTD9Z1UA';
+    rtCommonProps["isCoverage.test"] =false;
+    rtCommonProps["ecommerce.ecwid.script"] = 'https://app.multiscreenstore.com/script.js';
+    rtCommonProps["feature.flag.mappy.kml"] =false;
+    rtCommonProps["common.resources.dist.cdn"]=true;
+    rtCommonProps["common.build.dist.folder"]='production/1252';
+    rtCommonProps["common.resources.cdn.host"]='https://static-cdn.multiscreensite.com';
+    rtCommonProps["common.resources.folder"]='https://static-cdn.multiscreensite.com/mnlt/production/1252';
+    rtCommonProps["import.images.storage.useImageCDN"]=true;
+    
+    rtCommonProps['common.mapsProvider'] = 'mapbox';
+    rtCommonProps['common.mapsProvider.version'] = '0.52.0';
+    rtCommonProps['common.geocodeProvider'] = 'here';
+    rtCommonProps['common.map.defaults.radiusSize'] = '1500';
+    rtCommonProps['common.map.defaults.radiusBg'] = 'rgba(255, 255, 255, 0.4)';
+    rtCommonProps['common.map.defaults.strokeColor'] = 'rgba(255, 255, 255, 1)';
+    rtCommonProps['common.map.defaults.strokeSize'] = '2';
+    rtCommonProps['server.for.resources'] = '';
+    rtCommonProps['feature.flag.lazy.widgets'] = true;
+    rtCommonProps['feature.flag.single.wow'] = false;
+    rtCommonProps['feature.flag.mark.anchors']= true;
+    rtCommonProps['captcha.public.key'] = '6LffcBsUAAAAAMU-MYacU-6QHY4iDtUEYv_Ppwlz';
+    rtCommonProps['captcha.invisible.public.key'] = '6LeiWB8UAAAAAHYnVJM7_-7ap6bXCUNGiv7bBPME';
+    rtCommonProps["images.sizes.small"]=160;
+    rtCommonProps["images.sizes.mobile"]=640;
+    rtCommonProps["images.sizes.tablet"]=1280;
+    rtCommonProps["images.sizes.desktop"]=1920;
+    rtCommonProps["modules.resources.cdn"]=true;
+    rtCommonProps["import.images.storage.imageCDN"]='https://lirp-cdn.multiscreensite.com/';
+</script>
+<script src="https://static-cdn.multiscreensite.com/mnlt/production/1252/_dm/s/rt/dist/scripts/d-js-runtime-one-package.min.js" ></script>
+<!-- End of HEAD RT JS Include -->
+<script src="https://static-cdn.multiscreensite.com/mnlt/production/1252/_dm/s/rt/dist/scripts/d-js-one-runtime-layouts-package.min.js" ></script>
+<script src="https://static-cdn.multiscreensite.com/mnlt/production/1252/_dm/s/rt/dist/scripts/d-js-one-runtime-layouts-desktop.min.js" ></script>
+<script>jQuery.DM.updateWidthAndHeight();
+$(window).resize(function () {
+    
+});
+$(window).bind("orientationchange", function (e) {
+    $.layoutManager.initLayout();
+    
+});
+$(document).resize(function () {
+    
+});
+</script>
+
+
+
+
+
+<!-- End render the required css and JS in the head section -->
+
+
+
+
+
+
+
+  <title>
+    Altri corsi | Caorle, VE | Progest Group
+  </title>
+  <meta name="keywords" content="corsi di formazione, piattaforme mobili elevabili, lavori in quota, carrelli elevatori, trattori agricoli, forestali gommati, cingolati, servizio di prevenzione e protezione, formazione sul lavoro, consulenza, certificazioni, sicurezza sul lavoro, prevenzione incendi, RSDP Esterno
+"/>
+  <meta name="description" content="Progest Group svolge corsi di formazione di vario tipo per aziende e lavoratori. Richiedi una consulenza scrivendo una mail a info@progestgroup.it"/>
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"/>
+
+  <meta name="twitter:card" content="summary"/>
+  <meta name="twitter:title" content="Altri corsi | Caorle, VE | Progest Group"/>
+  <meta name="twitter:description" content="Progest Group svolge corsi di formazione di vario tipo per aziende e lavoratori. Richiedi una consulenza scrivendo una mail a info@progestgroup.it"/>
+  <meta property="og:description" content="Progest Group svolge corsi di formazione di vario tipo per aziende e lavoratori. Richiedi una consulenza scrivendo una mail a info@progestgroup.it"/>
+  <meta property="og:title" content="Altri corsi | Caorle, VE | Progest Group"/>
+
+
+
+
+<!-- SYS- VVNfRElSRUNUX1BST0RVQ1RJT04= -->
+</head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<body id="dmRoot"  class="supportsFontIcons supportsFontIcons dmRoot dmDesktopBody fix-mobile-scrolling dmResellerSite mac safariFix dmLargeBody " style="padding:0;margin:0;"
+            >
+        <div id="disabledImageZone" style="display:none;z-index:-1">
+            <style type="text/css">
+                #imageZone {
+                    position: absolute;
+                    margin: auto;
+                }
+
+                .coloumns {
+                    border-radius: 3px;
+                    background-color: rgb(249, 152, 13); /*border:1px solid #999;*/
+                    height: 18px;
+                    width: 6px;
+                    -webkit-animation-name: loader;
+                    -webkit-animation-duration: 1s;
+                    -webkit-animation-iteration-count: infinite;
+                    -webkit-animation-direction: linear;
+                    -moz-animation-name: loader;
+                    -moz-animation-duration: 1s;
+                    -moz-animation-iteration-count: infinite;
+                    -moz-animation-direction: linear;
+                    opacity: .25;
+                    -webkit-transform: scale(0.7);
+                    -webkit-transform-origin: 50% 180%;
+                    -moz-transform: scale(0.7);
+                    -moz-transform-origin: 50% 180%;
+                    position: absolute;
+                }
+
+                #coloumn1 {
+                    -webkit-transform: rotate(0deg);
+                    -webkit-animation-delay: -.914s;
+                    -moz-transform: rotate(0deg);
+                    -moz-animation-delay: -.914s;
+                }
+
+                #coloumn2 {
+                    -webkit-transform: rotate(30deg);
+                    -webkit-animation-delay: -.831s;
+                    -moz-transform: rotate(30deg);
+                    -moz-animation-delay: -.831s;
+                }
+
+                #coloumn3 {
+                    -webkit-transform: rotate(60deg);
+                    -webkit-animation-delay: -.747s;
+                    -moz-transform: rotate(60deg);
+                    -moz-animation-delay: -.747s;
+                }
+
+                #coloumn4 {
+                    -webkit-transform: rotate(90deg);
+                    -webkit-animation-delay: -.664s;
+                    -moz-transform: rotate(90deg);
+                    -moz-animation-delay: -.664s;
+                }
+
+                #coloumn5 {
+                    -webkit-transform: rotate(120deg);
+                    -webkit-animation-delay: -.581s;
+                    -moz-transform: rotate(120deg);
+                    -moz-animation-delay: -.581s;
+                }
+
+                #coloumn6 {
+                    -webkit-transform: rotate(150deg);
+                    -webkit-animation-delay: -.498s;
+                    -moz-transform: rotate(150deg);
+                    -moz-animation-delay: -.498s;
+                }
+
+                #coloumn7 {
+                    -webkit-transform: rotate(180deg);
+                    -webkit-animation-delay: -.415s;
+                    -moz-transform: rotate(180deg);
+                    -moz-animation-delay: -.415s;
+                }
+
+                #coloumn8 {
+                    -webkit-transform: rotate(210deg);
+                    -webkit-animation-delay: -.332s;
+                    -moz-transform: rotate(210deg);
+                    -moz-animation-delay: -.332s;
+                }
+
+                #coloumn9 {
+                    -webkit-transform: rotate(240deg);
+                    -webkit-animation-delay: -.249s;
+                    -moz-transform: rotate(240deg);
+                    -moz-animation-delay: -.249s;
+                }
+
+                #coloumn10 {
+                    -webkit-transform: rotate(270deg);
+                    -webkit-animation-delay: -.166s;
+                    -moz-transform: rotate(270deg);
+                    -moz-animation-delay: -.166s;
+                }
+
+                #coloumn11 {
+                    -webkit-transform: rotate(300deg);
+                    -webkit-animation-delay: -.083s;
+                    -moz-transform: rotate(300deg);
+                    -moz-animation-delay: -.083s;
+                }
+
+                #coloumn12 {
+                    -webkit-transform: rotate(330deg);
+                    -moz-transform: rotate(330deg);
+                }
+
+                @-webkit-keyframes loader {
+                    0% {
+                        opacity: 1;
+                    }
+                    100% {
+                        opacity: .25;
+                    }
+                }
+
+                @-moz-keyframes loader {
+                    0% {
+                        opacity: 1;
+                    }
+                    100% {
+                        opacity: .25;
+                    }
+                }
+            </style>
+            <div id='imageZone'>
+                <div id='coloumn1' class='coloumns'></div>
+                <div id='coloumn2' class='coloumns'></div>
+                <div id='coloumn3' class='coloumns'></div>
+                <div id='coloumn4' class='coloumns'></div>
+                <div id='coloumn5' class='coloumns'></div>
+                <div id='coloumn6' class='coloumns'></div>
+                <div id='coloumn7' class='coloumns'></div>
+                <div id='coloumn8' class='coloumns'></div>
+                <div id='coloumn9' class='coloumns'></div>
+                <div id='coloumn10' class='coloumns'></div>
+                <div id='coloumn11' class='coloumns'></div>
+                <div id='coloumn12' class='coloumns'></div>
+            </div>
+        </div>
+
+        <!-- ========= Site Content ========= -->
+        <div id="dm" class='dmwr'>
+            
+            <div class="dm_wrapper standard-var5 widgetStyle-3 standard">
+                 <div dmwrapped="true" id="1223914775" themewaschanged="true"> <div dmtemplateid="StandardLayoutMultiD" class="standardHeaderLayout dm-bfs dm-layout-sec hasAnimations hasStickyHeader dmPageBody d-page-1042370682 dmFreeHeader" id="dm-outer-wrapper" data-page-class="1042370682" data-buttonstyle="FLAT" data-soch="true" data-background-position="50% 0" data-background-image="url(https://dd-cdn.multiscreensite.com/themes/sushi/fotolia/sushi_home_main.jpg)" data-background-hide-inner="true" data-background-fullbleed="false"> <div id="dmStyle_outerContainer" class="dmOuter"> <div id="dmStyle_innerContainer" class="dmInner"> <div class="dmLayoutWrapper standard-var dmStandardDesktop"> <ul class="dmn dmLayoutNav hiddenNavPlaceHolder navPlaceHolder dmDisplay_None"></ul> 
+ <div> <div id="iscrollBody"> <div id="site_content"> <div class="dmHeaderContainer fHeader d-header-wrapper"> <div id="hcontainer" class="u_hcontainer dmHeader p_hfcontainer" freeheader="true" layout="78f5c343822e4eb3aac27f4ad5d13812===header" data-scrollable-target="body" data-scrollable-target-threshold="1" data-scroll-responder-id="1" logo-size-target="83%"> <div dm:templateorder="75" class="dmHeaderResp dmHeaderStack" id="1033038057"> <div class="dmRespRow dmDefaultListContentRow u_1155023572 fullBleedChanged fullBleedMode" style="text-align:center" id="1155023572"> <div class="dmRespColsWrapper" id="1335605670"> <div class="u_1883573249 small-12 dmRespCol large-2 medium-2" id="1883573249"> <div class="u_1938239507 imageWidget align-center" editablewidget="true" data-widget-type="image" id="1938239507" data-element-type="image"><img src="https://irp-cdn.multiscreensite.com/002795da/dms3rep/multi/desktop/Logo+Progest.png" id="1805108597" class="" data-dm-image-path="https://irp-cdn.multiscreensite.com/002795da/dms3rep/multi/desktop/Logo+Progest.png" data-dm-multi-sug-width="480" onerror="handleImageLoadError(this)"/></div> 
+</div> 
+ <div class="u_1987903877 dmRespCol small-12 large-8 medium-8" id="1987903877"> <nav class="u_1280998950 effect-bottom2 main-navigation unifiednav dmLinksMenu" role="navigation" layout-main="horizontal_nav_layout_1" layout-sub="submenu_horizontal_1" data-show-vertical-sub-items="HOVER" id="1280998950" dmle_extension="onelinksmenu" data-element-type="onelinksmenu" wr="true" icon="true" surround="true" adwords="" data-from-nav="true" data-sub-nav="true" data-nav-structure="HORIZONTAL" data-items="-1" custom-li-class="" custom-ul-class="" custom-a-class="" custom-inner-ul-class="" custom-nested-inner-ul-class="" custom-span-class="" navigation-id="unifiedNav" data-links-level="0" is-build-your-own="false"> <ul class="unifiednav__container  " data-auto&#x3d;navigation-pages=""> <li class=" unifiednav__item-wrap " data-auto&#x3d;more-pages=""> <a href="index.html" class="unifiednav__item  dmUDNavigationItem_00  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+                  
+         Home
+        
+                " data-auto&#x3d;page-text-style="">Home<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li class=" unifiednav__item-wrap " data-auto&#x3d;more-pages=""> <a href="progest-group" class="unifiednav__item  dmUDNavigationItem_02  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+                  
+         Progest Group
+        
+                " data-auto&#x3d;page-text-style="">Progest Group<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li class=" unifiednav__item-wrap " data-auto&#x3d;more-pages=""> <a href="formazione" class="unifiednav__item  dmUDNavigationItem_010101490647  unifiednav__item_has-sub-nav" target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+                  
+         Formazione
+        
+                " data-auto&#x3d;page-text-style="">Formazione<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+ <ul class="unifiednav__container unifiednav__container_sub-nav" data-depth="0" data-auto&#x3d;sub-pages=""> <li class=" unifiednav__item-wrap " data-auto&#x3d;more-pages=""> <a href="servizio-di-prevenzione-e-protezione-spp" class="unifiednav__item  dmUDNavigationItem_010101407608  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+                      
+           Servizio di prevenzione e protezione - SPP
+          
+                    " data-auto&#x3d;page-text-style="">Servizio di prevenzione e protezione - SPP<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li class=" unifiednav__item-wrap " data-auto&#x3d;more-pages=""> <a href="squadra-delle-emergenze" class="unifiednav__item  dmUDNavigationItem_010101283419  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+                      
+           Squadra delle emergenze
+          
+                    " data-auto&#x3d;page-text-style="">Squadra delle emergenze<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li class=" unifiednav__item-wrap " data-auto&#x3d;more-pages=""> <a href="lavoratori-e-loro-rappresentanti" class="unifiednav__item  dmUDNavigationItem_010101546689  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+                      
+           Lavoratori e loro rappresentanti
+          
+                    " data-auto&#x3d;page-text-style="">Lavoratori e loro rappresentanti<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li class=" unifiednav__item-wrap " data-auto&#x3d;more-pages=""> <a href="Igiene-e-haccp" class="unifiednav__item  dmUDNavigationItem_010101274726  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+                      
+           Igiene e HACCP
+          
+                    " data-auto&#x3d;page-text-style="">Igiene e HACCP<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</li> 
+ <li class=" unifiednav__item-wrap " data-auto&#x3d;more-pages=""> <a href="altri-corsi" class="unifiednav__item  dmNavItemSelected  dmUDNavigationItem_010101940300  " target="" data-target-page-alias="" data-auto&#x3d;selected-page=""> <span class="nav-item-text " data-link-text="
+                  
+         Corsi online
+        
+                " data-auto&#x3d;page-text-style="">Corsi online<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li class=" unifiednav__item-wrap " data-auto&#x3d;more-pages=""> <a href="rspp-esterno" class="unifiednav__item  dmUDNavigationItem_010101408362  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+                  
+         RSPP esterno
+        
+                " data-auto&#x3d;page-text-style="">RSPP esterno<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li class=" unifiednav__item-wrap " data-auto&#x3d;more-pages=""> <a href="analisi-microbiologiche" class="unifiednav__item  dmUDNavigationItem_010101963437  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+                  
+         Analisi Legionella
+        
+                " data-auto&#x3d;page-text-style="">Analisi Legionella<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li class=" unifiednav__item-wrap " data-auto&#x3d;more-pages=""> <a href="collaborazioni" class="unifiednav__item  dmUDNavigationItem_010101336231  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+                  
+         Collaborazioni
+        
+                " data-auto&#x3d;page-text-style="">Collaborazioni<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li class=" unifiednav__item-wrap " data-auto&#x3d;more-pages=""> <a href="contatti" class="unifiednav__item  dmUDNavigationItem_03  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+                  
+         Contatti
+        
+                " data-auto&#x3d;page-text-style="">Contatti<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</nav> 
+</div> 
+ <div class="u_1182440841 dmRespCol small-12 large-2 medium-2" id="1182440841"> <div class="u_1394578861 align-center text-align-center dmSocialHub" id="1394578861" dmle_extension="social_hub" data-element-type="social_hub" wr="true" networks="" icon="true" surround="true" adwords=""> <div class="socialHubWrapper"> <div class="socialHubInnerDiv "> <a href="https://facebook.com/progestgroup" target="_blank" dmle_dont_remove="target" dm_dont_rewrite_url="true"> <span class="dmSocialFacebook dm-social-icons-facebook oneIcon socialHubIcon style2" data-hover-effect="none"></span> 
+</a> 
+ <a href="mailto:info@progestgroup.it" dmle_dont_remove="target" dm_dont_rewrite_url="true"> <span class="dmSocialEmail dm-social-icons-email oneIcon socialHubIcon style2" data-hover-effect="none"></span> 
+</a> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="stickyHeaderSpacer" id="stickyHeaderSpacer" data-new="true"></div> 
+ <div class="dmRespRow dmRespRowStable dmRespRowNoPadding dmPageTitleRow "> <div class="dmRespColsWrapper"> <div class="large-12 dmRespCol"> <div id="innerBar" class="innerBar lineInnerBar dmDisplay_None"> <div class="titleLine display_None"><hr/></div> 
+<!-- Page title is hidden in css for new responsive sites. It is left here only so we don't break old sites. Don't copy it to new layouts --> <div id="pageTitleText"> <div class="innerPageTitle">Corsi online</div> 
+</div> 
+ <div class="titleLine display_None"><hr/></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div dmwrapped="true" id="1223914775" themewaschanged="true" class="dmBody u_dmStyle_template_altri-corsi"> <div id="allWrapper" class="allWrapper"><!-- navigation placeholders --> <div id="dm_content" class="dmContent"> <div dm:templateorder="112" class="dmDefaultRespTmpl mainBorder" id="1042370682"> <div class=" dmDefaultPage dmAboutListPage dmRespRowsWrapper" id="1166810817"> <div class="u_1150323986 dmRespRow dmSectionNoParallax fullBleedChanged fullBleedMode" id="1150323986" data-gallery-bg="eyJzbGlkZXMiOltdfQ=="> <div class="dmRespColsWrapper" id="1511121091"> <div class="u_1371303394 dmRespCol small-12 medium-12 large-12" id="1371303394"> <div class="u_1469386731 flex-container dmImageSlider dmNoMargin dmNoMark" editablewidget="true" data-widget-type="imageSlider" data-element-type="dSliderId" id="1469386731"> <div class="flexslider ed-version nav-layout-2" sliderscriptparams="{'stretch':true,'animation':true,'randomize':false,'directionNav':true,'isAutoPlay':true,'isFade':true,'controlNav':false,'slideshowSpeed':7000,'animationDuration':600,'pausePlay':true}" id="1185726539" layout="center"> <ul class="slides" id="1868752778"> <li layout="center" position="center" animation="none" show-content="true" color-overlay="true" text-background="true" id="1931662003" class="u_1931662003" show-caption="true"><img dm="true" src="https://lirp-cdn.multiscreensite.com/md/unsplash/dms3rep/multi/opt/photo-1486312338219-ce68d2c6f44d-1920w.jpg" id="1220176298" class="" onerror="handleImageLoadError(this)"/> <div class="color-overlay" id="1410352708"></div> 
+ <div class="slide-inner" id="1794543917"> <div class="text-wrapper" id="1191446716"> <h3 class="slide-title u_1253122667" id="1253122667">Corsi della Sicurezza in modalit&agrave; e-learning</h3> 
+ <div class="slide-text richText u_1378435181" id="1378435181"><p class="rteBlock">Consulta i nostri corsi online</p><br/></div></div> 
+ <div class="slide-button dmWidget clearfix slide-button-invisible" id="1803536060"> <span class="iconBg" id="1213932922"> <span class="icon hasFontIcon icon-star" id="1339945533"></span> 
+</span> 
+ <span class="text" id="1962716525">Chiamaci subito</span> 
+</div> 
+</div> 
+</li> 
+</ul> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_1999944097" id="1999944097"> <div class="dmRespColsWrapper" id="1185514535"> <div class="dmRespCol large-12 medium-12 small-12 u_1126388039" id="1126388039"> <a class="u_1659517810 default dmCall voipReplacement dmWidget dmNoMark dmWwr" href="tel:+39 0421 210119" contenteditable="false" onclick=";return dm_gaq_push_event('ClickToCall', 'Call',null,'002795da', this);" dm_dont_rewrite_url="true" id="1659517810" dmle_extension="clicktocall" data-element-type="clicktocall" data-buttonstyle="FLAT_ICON" wr="true" icon="true" surround="true" description="Chiama ora" adwords="" icon-name="icon-phone" phone="+39 0421 210119" text="" image=""> <span class="iconBg"> <span class="icon hasFontIcon icon-phone"></span> 
+</span> 
+ <span class="text" dmle_select_parent="1">Chiama ora</span> 
+</a> 
+ <div class="u_1359277602 dmNewParagraph" data-dmtmpl="true" data-element-type="paragraph" id="1359277602" style="text-align: justify; transition: opacity 1s ease-in-out 0s;" data-uialign="center" data-gramm_id="9dcc59b7-5f2b-ea9a-6d7f-08feac53acf4" data-gramm="true" spellcheck="false" data-gramm_editor="true"><font class="font-size-20 lh-1"><b>I corsi erogati online su piattaforma e-learning sono accessibili 24 ore al giorno, 7 giorni su 7 e permettono quindi di gestire in modo autonomo e flessibile l&rsquo;apprendimento.</b></font></div></div> 
+</div> 
+</div> 
+ <div class="u_1690681128 dmRespRow hide-for-medium fullBleedChanged fullBleedMode" id="1690681128"> <div class="dmRespColsWrapper" id="1399761450"> <div class="dmRespCol small-12 u_1904015227 medium-4 large-4" id="1904015227"> <a data-display-type="block" class="u_1972082039 align-center dmButtonLink dmWidget dmWwr default dmOnlyButton dmDefaultGradient" file="false" href="contatti" data-element-type="dButtonLinkId" id="1972082039" dm_dont_rewrite_url="false"> <span class="iconBg" id="1638985998"> <span class="icon hasFontIcon icon-star" id="1308334082"></span> 
+</span> 
+ <span class="text" id="1865386840">ASSISTENZA</span> 
+</a> 
+</div> 
+ <div class="dmRespCol small-12 u_1069220505 medium-4 large-4" id="1069220505"> <a data-display-type="block" class="u_1272916821 align-center dmButtonLink dmWidget dmWwr default dmOnlyButton dmDefaultGradient" file="false" href="altri-corsi#Iscrizione" data-element-type="dButtonLinkId" id="1272916821" dm_dont_rewrite_url="false"> <span class="iconBg" id="1885342306"> <span class="icon hasFontIcon icon-star" id="1313980876"></span> 
+</span> 
+ <span class="text" id="1636506522">PREISCRIZIONE AI CORSI</span> 
+</a> 
+</div> 
+ <div class="dmRespCol small-12 u_1072507563 medium-4 large-4" id="1072507563"> <a data-display-type="block" class="u_1631033866 align-center dmButtonLink dmWidget dmWwr default dmOnlyButton dmDefaultGradient" file="true" href="https://irp-cdn.multiscreensite.com/002795da/files/uploaded/format-preiscrizioni-corsi-online-pag1.pdf" data-element-type="dButtonLinkId" id="1631033866" dm_dont_rewrite_url="false" target="_blank"> <span class="iconBg" id="1612575850"> <span class="icon hasFontIcon icon-star" id="1954962315"></span> 
+</span> 
+ <span class="text" id="1094108000">I COSTI DEI CORSI</span> 
+</a> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_1281844583" id="1281844583"> <div class="dmRespColsWrapper" id="1904495175"> <div class="dmRespCol large-12 medium-12 small-12 u_1818312851" id="1818312851"> <div class="dmNewParagraph u_1121753789" data-dmtmpl="true" data-element-type="paragraph" id="1121753789" style="transition: none 0s ease 0s; display: block;" data-uialign="center"> <div><font class="lh-1 font-size-26" style="color: rgb(246, 9, 34);"><b><span class="lh-1">EMERGENZA COVID-19</span></b></font></div> 
+ <div><font class="lh-1 font-size-26" style="color: rgb(246, 9, 34);"><span class="lh-1"><font style="color: rgb(0, 0, 0);">Co</font></span><span class="lh-1"><font style="color: rgb(0, 0, 0);">me gestire il rischio negli ambienti di lavoro:</font></span></font></div> 
+ <div style="text-align: justify;"> <ul class="innerList defaultList"><li>Coronavirus: cos'&egrave;, come si trasmette</li><li>Le procedure anticontagio</li><li>I dispositivi di protezione delle vie respiratorie e corretto uso dei DPI<br/></li><li>La sanificazione degli ambienti di lavoro <br/></li><li>Quali sono i prodotti disinfettanti da impiegare<br/></li><li>Esempi pratici di sanificazione della propria postazione di lavoro<br/><br/></li></ul> 
+</div> 
+</div></div> 
+</div> 
+</div> 
+ <div class="u_1543008494 dmRespRow" style="text-align: center;" id="1543008494"> <div class="dmRespColsWrapper" id="1198781444"> <div class="dmRespCol small-12 medium-12 large-12 u_1251644734" id="1251644734"> <span id="1350149745"></span> 
+ <div class="u_1125469378 dmPhotoGallery newPhotoGallery dmPhotoGalleryResp" galleryoptionsparams="{thumbnailsPerRow: 3, rowsToShow: 3, imageScaleMethod: true}" data-desktop-layout="square" data-desktop-columns="2" data-element-type="dPhotoGalleryId" data-desktop-text-layout="fixed" id="1125469378" data-placeholder="false" data-rows-to-show="100" data-desktop-caption-alignment="center_center" data-image-hover-effect="zoomout" data-tablet-text-layout="fixed" data-tablet-caption-alignment="bottom_left" data-mobile-text-layout="fixed" data-mobile-caption-alignment="bottom_left" data-mobile-columns="1" data-enable-lazy-loading="true" data-link-gallery="true"> <ul class="dmPhotoGalleryHolder clearfix gallery shadowEffectToChildren gallery4inArow" id="1659250174" dont_set_id="true"> <li class="photoGalleryThumbs" id="1683896464"> <div class="image-container" id="1240819346"> <a data-dm-multisize-attr="href" data-image-url="https://irp-cdn.multiscreensite.com/md/unsplash/dms3rep/multi/photo-1584036561566-baf8f5f1b144.jpg" id="1311409287" class="has-link u_1311409287" dm_dont_rewrite_url="false" href="altri-corsi#Iscrizione" file="false" data-link-url="/site/002795da/altri-corsi?preview=true&nee=true&showOriginal=true&dm_checkSync=1&dm_try_mode=true#Iscrizione"><img irh="" irw="" data-src="https://lirp-cdn.multiscreensite.com/md/unsplash/dms3rep/multi/opt/photo-1584036561566-baf8f5f1b144-1920w.jpg" id="1345540975" class="" alt="corsi di RSPP" onerror="handleImageLoadError(this)"/></a> 
+</div> 
+ <div class="caption-container u_1245008026" style="display:none" id="1245008026"> <span class="caption-inner" id="1317212645"> <h3 class="caption-title u_1510930888" id="1510930888">CORONAVIRUS</h3> 
+ <div class="caption-text u_1616459316" id="1616459316"><p class="rteBlock">Come gestire il rischio negli ambienti di lavoro</p><p class="rteBlock">2 ore</p><br/><br/></div> <a class="caption-button dmWidget clearfix u_1433075497" id="1433075497" dm_dont_rewrite_url="false" href="altri-corsi#Iscrizione" file="false"> <span class="iconBg" id="1394143995"> <span class="icon hasFontIcon icon-star" id="1949164515"></span> 
+</span> 
+ <span class="text" id="1165507347">ISCRIVITI</span> 
+</a> 
+</span> 
+</div> 
+</li> 
+ <li class="photoGalleryThumbs" id="1059487777"> <div class="image-container" id="1250772930"> <a data-dm-multisize-attr="href" data-image-url="https://irp-cdn.multiscreensite.com/md/unsplash/dms3rep/multi/photo-1584634731339-252c581abfc5.jpg" id="1331172118" class="has-link"><img irh="" irw="" data-src="https://lirp-cdn.multiscreensite.com/md/unsplash/dms3rep/multi/opt/photo-1584634731339-252c581abfc5-1920w.jpg" id="1276136904" class="" onerror="handleImageLoadError(this)"/></a> 
+</div> 
+ <div class="caption-container u_1118073966" style="display:none" id="1118073966"> <span class="caption-inner" id="1264498808"> <h3 class="caption-title u_1866085120" id="1866085120">CORONAVIRUS</h3> 
+ <div class="caption-text u_1206382228" id="1206382228"><p class="rteBlock">Come gestire il rischio negli ambienti di lavoro. Approfondimenti rischio biologico e chimico.</p><p class="rteBlock">4 ore</p></div> 
+ <a class="caption-button dmWidget clearfix u_1082155581" id="1082155581"> <span class="iconBg" id="1357738265"> <span class="icon hasFontIcon icon-star" id="1831092520"></span> 
+</span> 
+ <span class="text" id="1142013510">ISCRIVITI</span> 
+</a> 
+</span> 
+</div> 
+</li> 
+</ul> 
+ <div class="photoGalleryViewAll link" isall="true" data-viewall="View more" data-viewless="View less" style="display:none;" id="1326408323"></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_1899695135" id="1899695135"> <div class="dmRespColsWrapper" id="1845402125"> <div class="dmRespCol large-12 medium-12 small-12 u_1824138128" id="1824138128"> <div class="dmNewParagraph" data-dmtmpl="true" data-element-type="paragraph" id="1150210713" style="transition: opacity 1s ease-in-out 0s; text-align: center;" data-uialign="center"><font class="lh-1 font-size-26"><b><span class="lh-1">&nbsp;</span>CORSI IGIENE ALIMENTARE - HACCP</b></font><br/></div></div> 
+</div> 
+</div> 
+ <div class="u_1233390279 dmRespRow" style="text-align: center;" id="1233390279"> <div class="dmRespColsWrapper" id="1930156761"> <div class="dmRespCol small-12 medium-12 large-12 u_1185795783" id="1185795783"> <span id="1744557011"></span> 
+ <div class="u_1481800944 dmPhotoGallery newPhotoGallery dmPhotoGalleryResp" galleryoptionsparams="{thumbnailsPerRow: 3, rowsToShow: 3, imageScaleMethod: true}" data-desktop-layout="square" data-desktop-columns="2" data-element-type="dPhotoGalleryId" data-desktop-text-layout="fixed" id="1481800944" data-placeholder="false" data-rows-to-show="100" data-desktop-caption-alignment="center_center" data-image-hover-effect="zoomout" data-tablet-text-layout="fixed" data-tablet-caption-alignment="bottom_left" data-mobile-text-layout="fixed" data-mobile-caption-alignment="bottom_left" data-mobile-columns="1" data-enable-lazy-loading="true" data-link-gallery="true"> <ul class="dmPhotoGalleryHolder clearfix gallery shadowEffectToChildren gallery4inArow" id="1221637596" dont_set_id="true"> <li class="photoGalleryThumbs" id="1595133795"> <div class="image-container" id="1517948276"> <a data-dm-multisize-attr="href" data-image-url="https://irp-cdn.multiscreensite.com/md/dmip/dms3rep/multi/pans-food.jpg" id="1921639330" class="has-link u_1921639330" dm_dont_rewrite_url="false" href="altri-corsi#Iscrizione" file="false" data-link-url="/site/002795da/altri-corsi?preview=true&nee=true&showOriginal=true&dm_checkSync=1&dm_try_mode=true#Iscrizione"><img irh="" irw="" data-src="https://lirp-cdn.multiscreensite.com/md/dmip/dms3rep/multi/opt/pans-food-1920w.jpg" id="1876616986" class="" alt="corsi di RSPP" onerror="handleImageLoadError(this)"/></a> 
+</div> 
+ <div class="caption-container u_1845194302" style="display:none" id="1845194302"> <span class="caption-inner" id="1731663638"> <h3 class="caption-title u_1888634413" id="1888634413">OPERATORE HACCP</h3> 
+ <div class="caption-text u_1093297069" id="1093297069"><p class="rteBlock">Settore alimentare</p><p class="rteBlock">3 ore</p><br/><br/></div> <a class="caption-button dmWidget clearfix u_1979961569" id="1979961569" dm_dont_rewrite_url="false" href="altri-corsi#Iscrizione" file="false"> <span class="iconBg" id="1225173558"> <span class="icon hasFontIcon icon-star" id="1313840336"></span> 
+</span> 
+ <span class="text" id="1870178934">ISCRIVITI</span> 
+</a> 
+</span> 
+</div> 
+</li> 
+ <li class="photoGalleryThumbs" id="1921849000"> <div class="image-container" id="1853716283"> <a data-dm-multisize-attr="href" data-image-url="https://irp-cdn.multiscreensite.com/md/unsplash/dms3rep/multi/photo-1428515613728-6b4607e44363.jpg" id="1848835098" class="has-link u_1848835098"><img irh="" irw="" data-src="https://lirp-cdn.multiscreensite.com/md/unsplash/dms3rep/multi/opt/photo-1428515613728-6b4607e44363-1920w.jpg" id="1788599759" class="" onerror="handleImageLoadError(this)"/></a> 
+</div> 
+ <div class="caption-container u_1807151661" style="display:none" id="1807151661"> <span class="caption-inner" id="1281113674"> <h3 class="caption-title u_1666354458" id="1666354458">RESPONSABILE HACCP</h3> 
+ <div class="caption-text u_1063742859" id="1063742859"><p class="rteBlock">Settore Alimentare</p><p class="rteBlock">8 ore</p><br/><br/></div> 
+ <a class="caption-button dmWidget clearfix u_1535685078" id="1535685078"> <span class="iconBg" id="1521603413"> <span class="icon hasFontIcon icon-star" id="1417305889"></span> 
+</span> 
+ <span class="text" id="1749599301">ISCRIVITI</span> 
+</a> 
+</span> 
+</div> 
+</li> 
+</ul> 
+ <div class="photoGalleryViewAll link" isall="true" data-viewall="View more" data-viewless="View less" style="display:none;" id="1093693377"></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_1605672190" id="1605672190"> <div class="dmRespColsWrapper" id="1511155390"> <div class="dmRespCol large-12 medium-12 small-12 u_1332605946" id="1332605946"> <div class="dmNewParagraph" data-dmtmpl="true" data-element-type="paragraph" id="1246357887" style="transition: opacity 1s ease-in-out 0s; text-align: center;" data-uialign="center"><font class="lh-1 font-size-26"><b><span class="lh-1">&nbsp;</span>CORSI SICUREZZA SUL LAVORO</b></font><br/></div></div> 
+</div> 
+</div> 
+ <div class="u_1992660543 dmRespRow" style="text-align: center;" id="1992660543"> <div class="dmRespColsWrapper" id="1533082331"> <div class="dmRespCol small-12 medium-12 large-12 u_1041078209" id="1041078209"> <span id="1896976631"></span> 
+ <div class="u_1442858178 dmPhotoGallery newPhotoGallery dmPhotoGalleryResp" galleryoptionsparams="{thumbnailsPerRow: 3, rowsToShow: 3, imageScaleMethod: true}" data-desktop-layout="square" data-desktop-columns="2" data-element-type="dPhotoGalleryId" data-desktop-text-layout="fixed" id="1442858178" data-placeholder="false" data-rows-to-show="100" data-desktop-caption-alignment="center_center" data-image-hover-effect="zoomout" data-tablet-text-layout="fixed" data-tablet-caption-alignment="bottom_left" data-mobile-text-layout="fixed" data-mobile-caption-alignment="bottom_left" data-mobile-columns="1" data-enable-lazy-loading="true" data-link-gallery="true"> <ul class="dmPhotoGalleryHolder clearfix gallery shadowEffectToChildren gallery4inArow" id="1163088969" dont_set_id="true"> <li class="photoGalleryThumbs" id="1162478260"> <div class="image-container" id="1241018128"> <a data-dm-multisize-attr="href" data-image-url="https://irp-cdn.multiscreensite.com/002795da/dms3rep/multi/laptop-hands-computer-f849cba5.jpg" id="1547127784" class="u_1547127784 has-link" dm_dont_rewrite_url="false" href="altri-corsi#Iscrizione" file="false" data-link-url="/site/002795da/altri-corsi?preview=true&nee=true&showOriginal=true&dm_checkSync=1&dm_try_mode=true#Iscrizione"><img irh="" irw="" data-src="https://lirp-cdn.multiscreensite.com/002795da/dms3rep/multi/opt/laptop-hands-computer-f849cba5-1920w.jpg" id="1304308425" class="" alt="corsi per lavoratori" onerror="handleImageLoadError(this)"/></a> 
+</div> 
+ <div class="caption-container u_1477507077" style="display:none" id="1477507077"> <span class="caption-inner" id="1114364770"> <h3 class="caption-title u_1036246345" id="1036246345">LAVORATORI</h3> 
+ <div class="caption-text u_1481479311" id="1481479311"><p class="rteBlock">Formazione Generale &nbsp;</p><p class="rteBlock">4 ore</p><br/><br/></div> <a class="caption-button dmWidget clearfix u_1170938187" id="1170938187" dm_dont_rewrite_url="false" href="altri-corsi#Iscrizione" file="false"> <span class="iconBg" id="1062159655"> <span class="icon hasFontIcon icon-star" id="1936177262"></span> 
+</span> 
+ <span class="text" id="1415384902">ISCRIVITI</span> 
+</a> 
+</span> 
+</div> 
+</li> 
+ <li class="photoGalleryThumbs" id="1144155515"> <div class="image-container" id="1331777743"> <a data-dm-multisize-attr="href" data-image-url="https://irp-cdn.multiscreensite.com/md/unsplash/dms3rep/multi/photo-1520607162513-77705c0f0d4a.jpg" id="1464262132" class="has-link" dm_dont_rewrite_url="false" href="altri-corsi#Iscrizione" file="false" data-link-url="/site/002795da/altri-corsi?preview=true&nee=true&showOriginal=true&dm_checkSync=1&dm_try_mode=true#Iscrizione"><img irh="" irw="" data-src="https://lirp-cdn.multiscreensite.com/md/unsplash/dms3rep/multi/opt/photo-1520607162513-77705c0f0d4a-1920w.jpg" id="1620142035" class="" alt="corsi online" onerror="handleImageLoadError(this)"/></a> 
+</div> 
+ <div class="caption-container u_1902484516" style="display:none" id="1902484516"> <span class="caption-inner" id="1803202092"> <h3 class="caption-title u_1577899514" id="1577899514">LAVORATORI</h3> 
+ <div class="caption-text u_1771099269" id="1771099269"><p class="rteBlock">Formazione Specifica&nbsp;</p><p class="rteBlock">(Rischio Basso)&nbsp;</p><p class="rteBlock">4 ore</p><br/></div> <a class="caption-button dmWidget clearfix u_1319134175" id="1319134175" dm_dont_rewrite_url="false" href="altri-corsi#Iscrizione" file="false"> <span class="iconBg" id="1767172666"> <span class="icon hasFontIcon icon-star" id="1065265292"></span> 
+</span> 
+ <span class="text" id="1817283222">ISCRIVITI</span> 
+</a> 
+</span> 
+</div> 
+</li> 
+ <li class="photoGalleryThumbs" id="1730312657"> <div class="image-container" id="1420133213"> <a data-dm-multisize-attr="href" data-image-url="https://irp-cdn.multiscreensite.com/md/unsplash/dms3rep/multi/photo-1547447175-a68d11e30d6b.jpg" id="1391358083" class="u_1391358083 has-link" dm_dont_rewrite_url="false" href="altri-corsi#Iscrizione" file="false" data-link-url="/site/002795da/altri-corsi?preview=true&nee=true&showOriginal=true&dm_checkSync=1&dm_try_mode=true#Iscrizione"><img irh="" irw="" data-src="https://lirp-cdn.multiscreensite.com/md/unsplash/dms3rep/multi/opt/photo-1547447175-a68d11e30d6b-1920w.jpg" id="1021993844" class="" alt="corsi per occupati" onerror="handleImageLoadError(this)"/></a> 
+</div> 
+ <div class="caption-container u_1116660195" style="display:none" id="1116660195"> <span class="caption-inner" id="1894593803"> <h3 class="caption-title u_1380738481" id="1380738481">PREPOSTI</h3> 
+ <div class="caption-text u_1779967732" id="1779967732"><p class="rteBlock">Formazione aggiuntiva&nbsp;</p><p class="rteBlock">5 ore</p><br/><br/></div> <a class="caption-button dmWidget clearfix u_1204821342" id="1204821342" dm_dont_rewrite_url="false" href="altri-corsi#Iscrizione" file="false"> <span class="iconBg" id="1729902479"> <span class="icon hasFontIcon icon-star" id="1160676112"></span> 
+</span> 
+ <span class="text" id="1833307138">ISCRIVITI</span> 
+</a> 
+</span> 
+</div> 
+</li> 
+ <li class="photoGalleryThumbs" id="1068200957"> <div class="image-container" id="1852610282"> <a data-dm-multisize-attr="href" data-image-url="https://irp-cdn.multiscreensite.com/md/unsplash/dms3rep/multi/photo-1557804506-669a67965ba0.jpg" id="1911688648" class="has-link" dm_dont_rewrite_url="false" href="altri-corsi#Iscrizione" file="false" data-link-url="/site/002795da/altri-corsi?preview=true&nee=true&showOriginal=true&dm_checkSync=1&dm_try_mode=true#Iscrizione"><img irh="" irw="" data-src="https://lirp-cdn.multiscreensite.com/md/unsplash/dms3rep/multi/opt/photo-1557804506-669a67965ba0-1920w.jpg" id="1270051507" class="" alt="corsi per dirigenti" onerror="handleImageLoadError(this)"/></a> 
+</div> 
+ <div class="caption-container u_1606202604" style="display:none" id="1606202604"> <span class="caption-inner" id="1099609880"> <h3 class="caption-title u_1747029030" id="1747029030">DIRIGENTI</h3> 
+ <div class="caption-text u_1948577025" id="1948577025"><p class="rteBlock">Sicurezza dirigenti</p><p class="rteBlock">16 ore</p><br/><br/></div> <a class="caption-button dmWidget clearfix u_1805452777" id="1805452777" dm_dont_rewrite_url="false" href="altri-corsi#Iscrizione" file="false"> <span class="iconBg" id="1430446218"> <span class="icon hasFontIcon icon-star" id="1155156737"></span> 
+</span> 
+ <span class="text" id="1544532344">ISCRIVITI</span> 
+</a> 
+</span> 
+</div> 
+</li> 
+ <li class="photoGalleryThumbs" id="1225956505"> <div class="image-container" id="1097189545"> <a data-dm-multisize-attr="href" data-image-url="https://irp-cdn.multiscreensite.com/md/dmip/dms3rep/multi/business-people-tech-work-office-laptops.jpg" id="1277412263" class="u_1277412263 has-link" dm_dont_rewrite_url="false" href="altri-corsi#Iscrizione" file="false" data-link-url="/site/002795da/altri-corsi?preview=true&nee=true&showOriginal=true&dm_checkSync=1&dm_try_mode=true#Iscrizione"><img irh="" irw="" data-src="https://lirp-cdn.multiscreensite.com/md/dmip/dms3rep/multi/opt/business-people-tech-work-office-laptops-1920w.jpg" id="1526028553" class="" alt="corsi per lavoratori" onerror="handleImageLoadError(this)"/></a> 
+</div> 
+ <div class="caption-container u_1299110701" style="display:none" id="1299110701"> <span class="caption-inner" id="1447616022"> <h3 class="caption-title u_1511360053" id="1511360053">LAVORATORI</h3> 
+ <div class="caption-text u_1324991022" id="1324991022"><p class="rteBlock">Aggiornamento lavoratori, preposti, dirigenti</p><p class="rteBlock">6 ore</p><br/><br/></div> <a class="caption-button dmWidget clearfix u_1034346133" id="1034346133" dm_dont_rewrite_url="false" file="false" link-modified="true" target="_blank"> <span class="iconBg" id="1726345427"> <span class="icon hasFontIcon icon-star" id="1854814667"></span> 
+</span> 
+ <span class="text" id="1398898245">ISCRIVITI</span> 
+</a> 
+</span> 
+</div> 
+</li> 
+ <li class="photoGalleryThumbs" id="1785311511"> <div class="image-container" id="1513592372"> <a data-dm-multisize-attr="href" data-image-url="https://irp-cdn.multiscreensite.com/002795da/dms3rep/multi/dispositivi+di+protezione+individuali.png" id="1811098014" class="u_1811098014 has-link" dm_dont_rewrite_url="false" href="altri-corsi#Iscrizione" file="false" data-link-url="/site/002795da/altri-corsi?preview=true&nee=true&showOriginal=true&dm_checkSync=1&dm_try_mode=true#Iscrizione"><img irh="" irw="" data-src="https://lirp-cdn.multiscreensite.com/002795da/dms3rep/multi/opt/dispositivi+di+protezione+individuali-1920w.png" id="1623709776" class="" alt="corsi LAVORATORI" onerror="handleImageLoadError(this)"/></a> 
+</div> 
+ <div class="caption-container u_1477247064" style="display:none" id="1477247064"> <span class="caption-inner" id="1782897259"> <h3 class="caption-title u_1598175787" id="1598175787">LAVORATORI</h3> 
+ <div class="caption-text u_1032888235" id="1032888235"><p class="rteBlock">Dispositivi di proteione individuale - DPI&nbsp;</p><p class="rteBlock">1 ora e 20 min</p><br/><br/></div> <a class="caption-button dmWidget clearfix u_1437549716" id="1437549716" dm_dont_rewrite_url="false" href="altri-corsi#Iscrizione" file="false"> <span class="iconBg" id="1337508666"> <span class="icon hasFontIcon icon-star" id="1964761256"></span> 
+</span> 
+ <span class="text" id="1304297450">ISCRIVITI</span> 
+</a> 
+</span> 
+</div> 
+</li> 
+ <li class="photoGalleryThumbs" id="1140012338"> <div class="image-container" id="1712353399"> <a data-dm-multisize-attr="href" data-image-url="https://irp-cdn.multiscreensite.com/md/dmip/dms3rep/multi/computer-side-mac.jpg" id="1652344801" class="u_1652344801 has-link" dm_dont_rewrite_url="false" href="altri-corsi#Iscrizione" file="false" data-link-url="/site/002795da/altri-corsi?preview=true&nee=true&showOriginal=true&dm_checkSync=1&dm_try_mode=true#Iscrizione"><img irh="" irw="" data-src="https://lirp-cdn.multiscreensite.com/md/dmip/dms3rep/multi/opt/computer-side-mac-1920w.jpg" id="1745498268" class="" alt="corsi per lavoratori occupati" onerror="handleImageLoadError(this)"/></a> 
+</div> 
+ <div class="caption-container u_1998778678" style="display:none" id="1998778678"> <span class="caption-inner" id="1396081132"> <h3 class="caption-title u_1638020073" id="1638020073">LAVORATORI</h3> 
+ <div class="caption-text u_1889885596" id="1889885596"><p class="rteBlock">Il lavoro al videoterminale &nbsp;</p><p class="rteBlock">1 ora</p><br/><br/></div> <a class="caption-button dmWidget clearfix u_1585779766" id="1585779766" dm_dont_rewrite_url="false" href="altri-corsi#Iscrizione" file="false"> <span class="iconBg" id="1997592597"> <span class="icon hasFontIcon icon-star" id="1910201538"></span> 
+</span> 
+ <span class="text" id="1001366601">ISCRIVITI</span> 
+</a> 
+</span> 
+</div> 
+</li> 
+ <li class="photoGalleryThumbs" id="1052257624"> <div class="image-container" id="1972445096"> <a data-dm-multisize-attr="href" data-image-url="https://irp-cdn.multiscreensite.com/md/unsplash/dms3rep/multi/photo-1526315439957-87bcad3dbb4d.jpg" id="1075088503" class="has-link" dm_dont_rewrite_url="false" href="altri-corsi#Iscrizione" file="false" data-link-url="/site/002795da/altri-corsi?preview=true&nee=true&showOriginal=true&dm_checkSync=1&dm_try_mode=true#Iscrizione"><img irh="" irw="" data-src="https://lirp-cdn.multiscreensite.com/md/unsplash/dms3rep/multi/opt/photo-1526315439957-87bcad3dbb4d-1920w.jpg" id="1868828683" class="" alt="corsi per lavoratori di movimentazione merci" onerror="handleImageLoadError(this)"/></a> 
+</div> 
+ <div class="caption-container u_1861401996" style="display:none" id="1861401996"> <span class="caption-inner" id="1280972215"> <h3 class="caption-title u_1622791454" id="1622791454">LAVORATORI</h3> 
+ <div class="caption-text u_1950172215" id="1950172215"><p class="rteBlock">Movimentazione carichi e disturbi muscolo scheletrici</p><p class="rteBlock">2 ore</p><br/></div> <a class="caption-button dmWidget clearfix u_1578584129" id="1578584129" dm_dont_rewrite_url="false" href="altri-corsi#Iscrizione" file="false"> <span class="iconBg" id="1132872256"> <span class="icon hasFontIcon icon-star" id="1123957207"></span> 
+</span> 
+ <span class="text" id="1452099701">ISCRIVITI</span> 
+</a> 
+</span> 
+</div> 
+</li> 
+ <li class="photoGalleryThumbs" id="1390957978"> <div class="image-container" id="1900751617"> <a data-dm-multisize-attr="href" data-image-url="https://irp-cdn.multiscreensite.com/md/unsplash/dms3rep/multi/photo-1576091160651-e028ca26a943.jpg" id="1735815108" class="has-link" dm_dont_rewrite_url="false" href="altri-corsi#Iscrizione" file="false" data-link-url="/site/002795da/altri-corsi?preview=true&nee=true&showOriginal=true&dm_checkSync=1&dm_try_mode=true#Iscrizione"><img irh="" irw="" data-src="https://lirp-cdn.multiscreensite.com/md/unsplash/dms3rep/multi/opt/photo-1576091160651-e028ca26a943-1920w.jpg" id="1627826875" class="" alt="corsi per il settore alimentare" onerror="handleImageLoadError(this)"/></a> 
+</div> 
+ <div class="caption-container u_1801323340" style="display:none" id="1801323340"> <span class="caption-inner" id="1821089304"> <h3 class="caption-title u_1835924868" id="1835924868">LAVORATORI</h3> 
+ <div class="caption-text u_1680044235" id="1680044235"><p class="rteBlock">Agenti biologici</p><p class="rteBlock">1 ora</p><br/><br/></div> <a class="caption-button dmWidget clearfix u_1898335978" id="1898335978" dm_dont_rewrite_url="false" href="altri-corsi#Iscrizione" file="false"> <span class="iconBg" id="1284346837"> <span class="icon hasFontIcon icon-star" id="1613314251"></span> 
+</span> 
+ <span class="text" id="1669450026">ISCRIVITI</span> 
+</a> 
+</span> 
+</div> 
+</li> 
+ <li class="photoGalleryThumbs" id="1302910050"> <div class="image-container" id="1680871387"> <a data-dm-multisize-attr="href" data-image-url="https://irp-cdn.multiscreensite.com/md/unsplash/dms3rep/multi/photo-1525569815264-42cac54bfd4c.jpg" id="1119750423"><img irh="" irw="" data-src="https://lirp-cdn.multiscreensite.com/md/unsplash/dms3rep/multi/opt/photo-1525569815264-42cac54bfd4c-1920w.jpg" id="1959790533" class="" alt="corsi per la sicurezza in azienda" onerror="handleImageLoadError(this)"/></a> 
+</div> 
+ <div class="caption-container u_1162201915" style="display:none" id="1162201915"> <span class="caption-inner" id="1741042624"> <h3 class="caption-title u_1195129431" id="1195129431">LAVORATORI</h3> 
+ <div class="caption-text u_1526369956" id="1526369956"><p class="rteBlock">Rumore e vibrazioni</p><p class="rteBlock">1 ora</p><br/><br/></div> <a class="caption-button dmWidget clearfix u_1279143178" id="1279143178"> <span class="iconBg" id="1193624602"> <span class="icon hasFontIcon icon-star" id="1770018967"></span> 
+</span> 
+ <span class="text" id="1034828605">ISCRIVITI</span> 
+</a> 
+</span> 
+</div> 
+</li> 
+ <li class="photoGalleryThumbs" id="1883757711"> <div class="image-container" id="1617936659"> <a data-dm-multisize-attr="href" data-image-url="https://irp-cdn.multiscreensite.com/md/unsplash/dms3rep/multi/photo-1521650775848-620150d73160.jpg" id="1038082325" class="has-link" dm_dont_rewrite_url="false" href="altri-corsi#Iscrizione" file="false" data-link-url="/site/002795da/altri-corsi?preview=true&nee=true&showOriginal=true&dm_checkSync=1&dm_try_mode=true#Iscrizione"><img irh="" irw="" data-src="https://lirp-cdn.multiscreensite.com/md/unsplash/dms3rep/multi/opt/photo-1521650775848-620150d73160-1920w.jpg" id="1609395312" class="" alt="corsi di aggiornamento" onerror="handleImageLoadError(this)"/></a> 
+</div> 
+ <div class="caption-container u_1887861199" style="display:none" id="1887861199"> <span class="caption-inner" id="1645056689"> <h3 class="caption-title u_1877572152" id="1877572152">RAPPRESENTANTE LAVORATORI</h3> 
+ <div class="caption-text u_1213766281" id="1213766281"><p class="rteBlock">Aggiornamento RLS&nbsp;</p><p class="rteBlock">8 ore</p><br/><br/></div> <a class="caption-button dmWidget clearfix u_1900376538" id="1900376538" dm_dont_rewrite_url="false" href="altri-corsi#Iscrizione" file="false"> <span class="iconBg" id="1375062329"> <span class="icon hasFontIcon icon-star" id="1469062309"></span> 
+</span> 
+ <span class="text" id="1938624936">ISCRIVITI</span> 
+</a> 
+</span> 
+</div> 
+</li> 
+ <li class="photoGalleryThumbs" id="1005226873"> <div class="image-container" id="1274774623"> <a data-dm-multisize-attr="href" data-image-url="https://irp-cdn.multiscreensite.com/md/unsplash/dms3rep/multi/photo-1552879890-3a06dd3a06c2.jpg" id="1570240788" class="has-link" dm_dont_rewrite_url="false" href="altri-corsi#Iscrizione" file="false" data-link-url="/site/002795da/altri-corsi?preview=true&nee=true&showOriginal=true&dm_checkSync=1&dm_try_mode=true#Iscrizione"><img irh="" irw="" data-src="https://lirp-cdn.multiscreensite.com/md/unsplash/dms3rep/multi/opt/photo-1552879890-3a06dd3a06c2-1920w.jpg" id="1407254361" class="" alt="corsi RLS" onerror="handleImageLoadError(this)"/></a> 
+</div> 
+ <div class="caption-container u_1883957078" style="display:none" id="1883957078"> <span class="caption-inner" id="1808683381"> <h3 class="caption-title u_1824253786" id="1824253786">RAPPRESENTANTE LAVORATORI</h3> 
+ <div class="caption-text u_1016800319" id="1016800319"><p class="rteBlock">Aggiornamento RLS&nbsp;</p><p class="rteBlock">4 ore</p><br/><br/></div> <a class="caption-button dmWidget clearfix u_1799666032" id="1799666032" dm_dont_rewrite_url="false" href="altri-corsi#Iscrizione" file="false"> <span class="iconBg" id="1112823332"> <span class="icon hasFontIcon icon-star" id="1099197650"></span> 
+</span> 
+ <span class="text" id="1051547127">ISCRIVITI</span> 
+</a> 
+</span> 
+</div> 
+</li> 
+</ul> 
+ <div class="photoGalleryViewAll link" isall="true" data-viewall="View more" data-viewless="View less" style="display:none;" id="1930709027"></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_1658441422" id="1658441422"> <div class="dmRespColsWrapper" id="1346669177"> <div class="dmRespCol large-12 medium-12 small-12" id="1924918265"> <div class="dmNewParagraph" data-dmtmpl="true" data-element-type="paragraph" id="1827880651" style="transition: opacity 1s ease-in-out 0s; text-align: center;" data-uialign="center"><font class="lh-1 font-size-26"><b><span class="lh-1">&nbsp;</span>CORSI SICUREZZA SUL LAVORO - DATORI DI LAVORO</b></font><br/></div></div> 
+</div> 
+</div> 
+ <div class="u_1592884964 dmRespRow" style="text-align: center;" id="1592884964"> <div class="dmRespColsWrapper" id="1280890095"> <div class="dmRespCol small-12 medium-12 large-12 u_1869963990" id="1869963990"> <span id="1817283206"></span> 
+ <div class="u_1391530650 dmPhotoGallery newPhotoGallery dmPhotoGalleryResp" galleryoptionsparams="{thumbnailsPerRow: 3, rowsToShow: 3, imageScaleMethod: true}" data-desktop-layout="square" data-desktop-columns="2" data-element-type="dPhotoGalleryId" data-desktop-text-layout="fixed" id="1391530650" data-placeholder="false" data-rows-to-show="100" data-desktop-caption-alignment="center_center" data-image-hover-effect="zoomout" data-tablet-text-layout="fixed" data-tablet-caption-alignment="bottom_left" data-mobile-text-layout="fixed" data-mobile-caption-alignment="bottom_left" data-mobile-columns="1" data-enable-lazy-loading="true" data-link-gallery="true"> <ul class="dmPhotoGalleryHolder clearfix gallery shadowEffectToChildren gallery4inArow" id="1963480776" dont_set_id="true"> <li class="photoGalleryThumbs" id="1201673214"> <div class="image-container" id="1535005376"> <a data-dm-multisize-attr="href" data-image-url="https://irp-cdn.multiscreensite.com/md/dmip/dms3rep/multi/pans-food.jpg" id="1567848621" class="has-link" dm_dont_rewrite_url="false" href="altri-corsi#Iscrizione" file="false" data-link-url="/site/002795da/altri-corsi?preview=true&nee=true&showOriginal=true&dm_checkSync=1&dm_try_mode=true#Iscrizione"><img irh="" irw="" data-src="https://lirp-cdn.multiscreensite.com/md/dmip/dms3rep/multi/opt/pans-food-1920w.jpg" id="1635521895" class="" alt="corsi per datori di lavoro" onerror="handleImageLoadError(this)"/></a> 
+</div> 
+ <div class="caption-container u_1059613705" style="display:none" id="1059613705"> <span class="caption-inner" id="1036610062"> <h3 class="caption-title u_1870688213" id="1870688213">DATORI DI LAVORO</h3> 
+ <div class="caption-text u_1737411770" id="1737411770"><p class="rteBlock">Datore di Lavoro RSPP&nbsp;</p><p class="rteBlock">Moduli 1 e 2&nbsp;</p><p class="rteBlock">(Rischio Basso)</p><p class="rteBlock">8 ore</p><br/></div> <a class="caption-button dmWidget clearfix u_1069663461" id="1069663461" dm_dont_rewrite_url="false" href="altri-corsi#Iscrizione" file="false"> <span class="iconBg" id="1815128526"> <span class="icon hasFontIcon icon-star" id="1479668507"></span> 
+</span> 
+ <span class="text" id="1114488098">ISCRIVITI</span> 
+</a> 
+</span> 
+</div> 
+</li> 
+ <li class="photoGalleryThumbs" id="1233342418"> <div class="image-container" id="1357205997"> <a data-dm-multisize-attr="href" data-image-url="https://irp-cdn.multiscreensite.com/md/unsplash/dms3rep/multi/photo-1542744173-8e7e53415bb0.jpg" id="1205551587" class="has-link" dm_dont_rewrite_url="false" href="altri-corsi#Iscrizione" file="false" data-link-url="/site/002795da/altri-corsi?preview=true&nee=true&showOriginal=true&dm_checkSync=1&dm_try_mode=true#Iscrizione"><img irh="" irw="" data-src="https://lirp-cdn.multiscreensite.com/md/unsplash/dms3rep/multi/opt/photo-1542744173-8e7e53415bb0-1920w.jpg" id="1147619387" class="" alt="corsi di RSPP" onerror="handleImageLoadError(this)"/></a> 
+</div> 
+ <div class="caption-container u_1038688462" style="display:none" id="1038688462"> <span class="caption-inner" id="1071123914"> <h3 class="caption-title u_1647501041" id="1647501041">DATORI DI LAVORO</h3> 
+ <div class="caption-text u_1521687445" id="1521687445"><p class="rteBlock">Aggiornamento RSPP&nbsp;</p><p class="rteBlock">datori di lavoro&nbsp;</p><p class="rteBlock">(Rischio Basso)</p><p class="rteBlock">6 ore</p><br/></div> <a class="caption-button dmWidget clearfix u_1202764618" id="1202764618" dm_dont_rewrite_url="false" href="altri-corsi#Iscrizione" file="false"> <span class="iconBg" id="1984587711"> <span class="icon hasFontIcon icon-star" id="1084838626"></span> 
+</span> 
+ <span class="text" id="1224257652">ISCRIVITI</span> 
+</a> 
+</span> 
+</div> 
+</li> 
+ <li class="photoGalleryThumbs" id="1163328886"> <div class="image-container" id="1500700265"> <a data-dm-multisize-attr="href" data-image-url="https://irp-cdn.multiscreensite.com/002795da/dms3rep/multi/TRATTORI_AGRICOLI-1000x700.jpg" id="1885378612" class="u_1885378612 has-link" dm_dont_rewrite_url="false" href="altri-corsi#Iscrizione" file="false" data-link-url="/site/002795da/altri-corsi?preview=true&nee=true&showOriginal=true&dm_checkSync=1&dm_try_mode=true#Iscrizione"><img irh="" irw="" data-src="https://lirp-cdn.multiscreensite.com/002795da/dms3rep/multi/opt/TRATTORI_AGRICOLI-1000x700-1920w.jpg" id="1118673301" class="" alt="corsi di sicurezza" onerror="handleImageLoadError(this)"/></a> 
+</div> 
+ <div class="caption-container u_1918941234" style="display:none" id="1918941234"> <span class="caption-inner" id="1554071956"> <h3 class="caption-title u_1189810453" id="1189810453">DATORE DI LAVORO</h3> 
+ <div class="caption-text u_1902572810" id="1902572810"><p class="rteBlock">Datore di Lavoro RSPP&nbsp;</p><p class="rteBlock">Moduli 1 e 2</p><p class="rteBlock">(Rischio Medio)</p><p class="rteBlock">16 ore</p><br/></div> <a class="caption-button dmWidget clearfix u_1491238773" id="1491238773" dm_dont_rewrite_url="false" href="altri-corsi#Iscrizione" file="false"> <span class="iconBg" id="1004433721"> <span class="icon hasFontIcon icon-star" id="1939444947"></span> 
+</span> 
+ <span class="text" id="1628504461">ISCRIVITI</span> 
+</a> 
+</span> 
+</div> 
+</li> 
+ <li class="photoGalleryThumbs" id="1023023321"> <div class="image-container" id="1041482156"> <a data-dm-multisize-attr="href" data-image-url="https://irp-cdn.multiscreensite.com/md/dmip/dms3rep/multi/tools-wood-chop.jpg" id="1971324589" class="has-link" dm_dont_rewrite_url="false" href="altri-corsi#Iscrizione" file="false" data-link-url="/site/002795da/altri-corsi?preview=true&nee=true&showOriginal=true&dm_checkSync=1&dm_try_mode=true#Iscrizione"><img irh="" irw="" data-src="https://lirp-cdn.multiscreensite.com/md/dmip/dms3rep/multi/opt/tools-wood-chop-1920w.jpg" id="1870602590" class="" alt="corsi di sicurezza sul lavoro" onerror="handleImageLoadError(this)"/></a> 
+</div> 
+ <div class="caption-container u_1424710388" style="display:none" id="1424710388"> <span class="caption-inner" id="1069125741"> <h3 class="caption-title u_1947599235" id="1947599235">DATORI DI LAVORO</h3> 
+ <div class="caption-text u_1354710051" id="1354710051"><p class="rteBlock">Aggiornamento RSPP&nbsp;</p><p class="rteBlock">datori di lavoro&nbsp;</p><p class="rteBlock">(Rischio Medio)</p><p class="rteBlock">10 ore</p><br/></div> <a class="caption-button dmWidget clearfix u_1865477578" id="1865477578" dm_dont_rewrite_url="false" href="altri-corsi#Iscrizione" file="false"> <span class="iconBg" id="1009175414"> <span class="icon hasFontIcon icon-star" id="1454685371"></span> 
+</span> 
+ <span class="text" id="1441881031">ISCRIVITI</span> 
+</a> 
+</span> 
+</div> 
+</li> 
+ <li class="photoGalleryThumbs" id="1382309397"> <div class="image-container" id="1813018315"> <a data-dm-multisize-attr="href" data-image-url="https://irp-cdn.multiscreensite.com/002795da/dms3rep/multi/shutterstock_14034256-2000x1333.jpg" id="1882971180" class="has-link" dm_dont_rewrite_url="false" href="altri-corsi#Iscrizione" file="false" data-link-url="/site/002795da/altri-corsi?preview=true&nee=true&showOriginal=true&dm_checkSync=1&dm_try_mode=true#Iscrizione"><img irh="" irw="" data-src="https://lirp-cdn.multiscreensite.com/002795da/dms3rep/multi/opt/shutterstock_14034256-2000x1333-1920w.jpg" id="1656349234" class="" alt="corsi per dirigenti aziendali" onerror="handleImageLoadError(this)"/></a> 
+</div> 
+ <div class="caption-container u_1902032816" style="display:none" id="1902032816"> <span class="caption-inner" id="1213399764"> <h3 class="caption-title u_1347087197" id="1347087197">DATORI DI LAVORO</h3> 
+ <div class="caption-text u_1337889309" id="1337889309"><p class="rteBlock">Datore di Lavoro RSPP&nbsp;</p><p class="rteBlock">Moduli 1 e 2</p><p class="rteBlock">(Rischio Alto)&nbsp;</p><p class="rteBlock">24 ore</p><br/><br/></div> <a class="caption-button dmWidget clearfix u_1639242421" id="1639242421" dm_dont_rewrite_url="false" href="altri-corsi#Iscrizione" file="false"> <span class="iconBg" id="1153052006"> <span class="icon hasFontIcon icon-star" id="1443347352"></span> 
+</span> 
+ <span class="text" id="1693031570">ISCRIVITI</span> 
+</a> 
+</span> 
+</div> 
+</li> 
+ <li class="photoGalleryThumbs" id="1434987347"> <div class="image-container" id="1570664581"> <a data-dm-multisize-attr="href" data-image-url="https://irp-cdn.multiscreensite.com/md/unsplash/dms3rep/multi/photo-1555963966-b7ae5404b6ed.jpg" id="1182395310" class="has-link" dm_dont_rewrite_url="false" href="altri-corsi#Iscrizione" file="false" data-link-url="/site/002795da/altri-corsi?preview=true&nee=true&showOriginal=true&dm_checkSync=1&dm_try_mode=true#Iscrizione"><img irh="" irw="" data-src="https://lirp-cdn.multiscreensite.com/md/unsplash/dms3rep/multi/opt/photo-1555963966-b7ae5404b6ed-1920w.jpg" id="1159225601" class="" alt="corsi per dirigenti di aziende" onerror="handleImageLoadError(this)"/></a> 
+</div> 
+ <div class="caption-container u_1183908535" style="display:none" id="1183908535"> <span class="caption-inner" id="1135009193"> <h3 class="caption-title u_1626180247" id="1626180247">DATORI DI LAVORO</h3> 
+ <div class="caption-text u_1096265030" id="1096265030"><p class="rteBlock">Aggiornamento RSPP&nbsp;</p><p class="rteBlock">datori di lavoro&nbsp;</p><p class="rteBlock">(Rischio Alto)</p><p class="rteBlock">14 ore</p><br/></div> <a class="caption-button dmWidget clearfix u_1615073322" id="1615073322" dm_dont_rewrite_url="false" href="altri-corsi#Iscrizione" file="false"> <span class="iconBg" id="1515497559"> <span class="icon hasFontIcon icon-star" id="1560921839"></span> 
+</span> 
+ <span class="text" id="1906876500">ISCRIVITI</span> 
+</a> 
+</span> 
+</div> 
+</li> 
+</ul> 
+ <div class="photoGalleryViewAll link" isall="true" data-viewall="View more" data-viewless="View less" style="display:none;" id="1440495326"></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_Iscrizione" id="Iscrizione" data-anchor="Iscrizione"> <div class="dmRespColsWrapper" id="1287355240"> <div class="dmRespCol large-12 medium-12 small-12" id="1272603981"> <div class="dmform default u_1422360414" preserve_css="true" data-element-type="dContactUsRespId" id="1422360414" data-layout="layout-1"> <h3 class="dmform-title dmwidget-title" id="1783201620">PREISCRIZIONE AI CORSI</h3> 
+ <div class="dmform-wrapper" preserve_css="true" id="1831229391" captcha-lang="en"> <form method="post" class="dmRespDesignRow" locale="ITALIAN" id="1007281565"> <div class="dmforminput required  small-12 dmRespDesignCol medium-4 large-4" id="1188227192"> <label for="dmform-1" id="1358502555">E-mail*</label> 
+<input type="email" class="" name="dmform-1" id="1168336181"/><input type="hidden" name="label-dmform-1" value="E-mail*" id="1767302121" class=""/></div> 
+ <div class="dmforminput small-12 dmRespDesignCol required newLine medium-4 large-4" id="1508656527"> <label for="dmform-4" id="1837050883">Azienda o Privato*</label> 
+ <select name="dmform-4" id="1847681334"> <option selected="" disabled="" hidden="" value="" id="1704045561"></option> 
+ <option id="86327">Azienda</option> 
+ <option id="86186">Privato</option> 
+</select> 
+<input type="hidden" name="label-dmform-4" value="Azienda o Privato*" id="1782602201" class=""/></div> 
+ <div class="dmforminput small-12 dmRespDesignCol newLine medium-12 large-12" id="1041367033"> <label for="dmform-5" id="1617172623" class="" hide="true">Testo libero</label> 
+ <div class="freetextwrapper" id="1901996300" style=""><br id="1619814159"/> <p class="rteBlock" id="1741350082"> <strong id="1744519089">Dati per la fatturazione</strong></p> 
+</div> 
+<input type="hidden" name="label-dmform-5" value="Testo libero" id="1760458354" class=""/></div> 
+ <div class="dmforminput required  small-12 dmRespDesignCol medium-4 large-4" id="1906155051"> <label for="dmform-0" id="1287101510">Ragione Sociale*</label> 
+<input type="text" class="" name="dmform-0" id="1799155102"/><input type="hidden" name="label-dmform-0" value="Ragione Sociale*" id="1635705924" class=""/></div> 
+ <div class="dmforminput small-12 medium-4 large-4 dmRespDesignCol" id="1918752772"> <label for="dmform-26" id="1907176004">Codice Ateco Attivit&agrave;</label> 
+<input type="text" name="dmform-26" id="1041107538"/><input type="hidden" name="label-dmform-26" value="Codice Ateco Attività" id="1342760472" class=""/></div> 
+ <div class="dmforminput required  small-12 dmRespDesignCol medium-4 large-4 newLine" id="1769992070"> <label for="dmform-2" id="1968101687">N&deg; dipendenti</label> 
+<input type="text" name="dmform-2" placeholder="" id="1832527402"/><input type="hidden" name="label-dmform-2" value="N° dipendenti" id="1547453213" class=""/></div> 
+ <div class="dmforminput small-12 medium-4 large-4 dmRespDesignCol required" id="1311226398"> <label for="dmform-6" id="1083950021">P.IVA*</label> 
+<input type="text" name="dmform-6" id="1888336201" class="" placeholder="C.Fiscale (se diverso da P.IVA)"/><input type="hidden" name="label-dmform-6" value="P.IVA*" id="1198146745" class=""/></div> 
+ <div class="dmforminput small-12 medium-4 large-4 dmRespDesignCol newLine required" id="1026535927"> <label for="dmform-7" id="1042551820">Codice Univoco*</label> 
+<input type="text" name="dmform-7" id="1279780805" class="" placeholder="PEC (in alternativa al Codice Univoco)"/><input type="hidden" name="label-dmform-7" value="Codice Univoco*" id="1474491277" class=""/></div> 
+ <div class="dmforminput small-12 dmRespDesignCol newLine medium-12 large-12" id="1819696616"> <label for="dmform-8" id="1680536972" class="" hide="true">Testo libero</label> 
+ <div class="freetextwrapper" id="1351616949"><br id="1360902523"/> <p class="rteBlock" id="1326524537"> <strong id="1879434070">Sede operativa</strong></p> 
+</div> 
+<input type="hidden" name="label-dmform-8" value="Testo libero" id="1241813873" class=""/></div> 
+ <div class="dmforminput small-12 medium-4 large-4 dmRespDesignCol required" id="1183846089"> <label for="dmform-9" id="1470079094">Indirizzo*</label> 
+<input type="text" name="dmform-9" id="1163601334" class=""/><input type="hidden" name="label-dmform-9" value="Indirizzo*" id="1553852774" class=""/></div> 
+ <div class="dmforminput small-12 medium-4 large-4 dmRespDesignCol" id="1096977279"> <label for="dmform-14" id="1456810951">Citt&agrave;*</label> 
+<input type="text" name="dmform-14" id="1058689065"/><input type="hidden" name="label-dmform-14" value="Città*" id="1203096800" class=""/></div> 
+ <div class="dmforminput small-12 medium-4 large-4 dmRespDesignCol required" id="1216764613"> <label for="dmform-10" id="1598291106">Provincia*</label> 
+<input type="text" name="dmform-10" id="1718137405" class=""/><input type="hidden" name="label-dmform-10" value="Provincia*" id="1728357639" class=""/></div> 
+ <div class="dmforminput small-12 medium-4 large-4 dmRespDesignCol required" id="1861291912"> <label for="dmform-15" id="1567731040">CAP*</label> 
+<input type="text" name="dmform-15" id="1434871770"/><input type="hidden" name="label-dmform-15" value="CAP*" id="1145098904" class=""/></div> 
+ <div class="dmforminput small-12 dmRespDesignCol newLine medium-12 large-12" id="1378577287"> <label for="dmform-11" id="1589721874" class="" hide="true">Testo libero</label> 
+ <div class="freetextwrapper" id="1889081466"><br id="1922897619"/> <p class="rteBlock" id="1182182373"> <strong id="1600139580">Sede legale&nbsp;</strong>(Da compilare se diversa dalla sede operativa)</p> 
+</div> 
+<input type="hidden" name="label-dmform-11" value="Testo libero" id="1467422617" class=""/></div> 
+ <div class="dmforminput small-12 medium-4 large-4 dmRespDesignCol" id="1153621913"> <label for="dmform-12" id="1986670263">Indirizzo</label> 
+<input type="text" name="dmform-12" id="1865728716"/><input type="hidden" name="label-dmform-12" value="Indirizzo" id="1793061284" class=""/></div> 
+ <div class="dmforminput small-12 medium-4 large-4 dmRespDesignCol" id="1348147758"> <label for="dmform-13" id="1446858316">Citt&agrave;</label> 
+<input type="text" name="dmform-13" id="1554893447"/><input type="hidden" name="label-dmform-13" value="Città" id="1200209785" class=""/></div> 
+ <div class="dmforminput small-12 medium-4 large-4 dmRespDesignCol" id="1447317795"> <label for="dmform-16" id="1936622546">Provincia</label> 
+<input type="text" name="dmform-16" id="1260176261"/><input type="hidden" name="label-dmform-16" value="Provincia" id="1959026576" class=""/></div> 
+ <div class="dmforminput small-12 medium-4 large-4 dmRespDesignCol" id="1227333016"> <label for="dmform-17" id="1089627901">CAP</label> 
+<input type="text" name="dmform-17" id="1929300922"/><input type="hidden" name="label-dmform-17" value="CAP" id="1172928606" class=""/></div> 
+ <div class="dmforminput small-12 dmRespDesignCol newLine medium-12 large-12" id="1310702325"> <label for="dmform-21" id="1691400638" class="" hide="true">Testo libero</label> 
+ <div class="freetextwrapper" id="1310368942"><br id="1082287204"/> <p class="rteBlock" id="1135323570"> <strong id="1991310625">Contatti</strong></p> 
+</div> 
+<input type="hidden" name="label-dmform-21" value="Testo libero" id="1256583785" class=""/></div> 
+ <div class="dmforminput small-12 medium-4 large-4 dmRespDesignCol newLine required" id="1599491877"> <label for="dmform-18" id="1978646764">Telefono*</label> 
+<input type="text" name="dmform-18" id="1886292708"/><input type="hidden" name="label-dmform-18" value="Telefono*" id="1723451602" class=""/></div> 
+ <div class="dmforminput small-12 medium-4 large-4 dmRespDesignCol" id="1353896886"> <label for="dmform-19" id="1368084539">Fax</label> 
+<input type="text" name="dmform-19" id="1462047816"/><input type="hidden" name="label-dmform-19" value="Fax" id="1814365866" class=""/></div> 
+ <div class="dmforminput small-12 medium-4 large-4 dmRespDesignCol" id="1665721330"> <label for="dmform-20" id="1405018434">Sito Web</label> 
+<input type="text" name="dmform-20" id="1487396456"/><input type="hidden" name="label-dmform-20" value="Sito Web" id="1960394654" class=""/></div> 
+ <div class="dmforminput small-12 medium-4 large-4 dmRespDesignCol" id="1893948628"> <label for="dmform-22" id="1285401653">Mail</label> 
+<input type="text" name="dmform-22" id="1214256432"/><input type="hidden" name="label-dmform-22" value="Mail" id="1710829763" class=""/></div> 
+ <div class="dmforminput small-12 dmRespDesignCol newLine medium-12 large-12" id="1552938609"> <label for="dmform-23" id="1197879240" class="" hide="true">Testo libero</label> 
+ <div class="freetextwrapper" id="1546060869"><br id="1017624020"/> <p class="rteBlock" id="1829652209"> <strong id="1439502602">Referente*</strong></p> 
+</div> 
+<input type="hidden" name="label-dmform-23" value="Testo libero" id="1516115240" class=""/></div> 
+ <div class="dmforminput small-12 medium-4 large-4 dmRespDesignCol required" id="1747096942"> <label for="dmform-24" id="1316146576">Nome*</label> 
+<input type="text" name="dmform-24" id="1865530363"/><input type="hidden" name="label-dmform-24" value="Nome*" id="1604825037" class=""/></div> 
+ <div class="dmforminput small-12 medium-4 large-4 dmRespDesignCol" id="1761394234"> <label for="dmform-25" id="1438796539">Cognome*</label> 
+<input type="text" name="dmform-25" id="1202378881"/><input type="hidden" name="label-dmform-25" value="Cognome*" id="1146742968" class=""/></div> 
+ <div class="dmforminput small-12 dmRespDesignCol newLine medium-12 large-12" id="1380359828"> <label for="dmform-27" id="1963462265" class="" hide="true">Testo libero</label> 
+ <div class="freetextwrapper" id="1033976821"><br id="1559323751"/> <p class="rteBlock" id="1880024955"> <strong id="1849459364">Dati Partecipanti:</strong></p> 
+</div> 
+<input type="hidden" name="label-dmform-27" value="Testo libero" id="1009827931" class=""/></div> 
+ <div class="dmforminput small-12 dmRespDesignCol required medium-2 large-2" id="1204820127"> <label for="dmform-37" id="1211130692">Numero di Partecipanti*</label> 
+ <select name="dmform-37" id="1074754718"> <option selected="" disabled="" hidden="" value="" id="1339054680"></option> 
+ <option id="49138">1</option> 
+ <option id="56464">2</option> 
+ <option id="55761">3</option> 
+</select> 
+<input type="hidden" name="label-dmform-37" value="Numero di Partecipanti*" id="1341736275" class=""/></div> 
+ <div class="dmforminput small-12 dmRespDesignCol newLine medium-12 large-12" id="1691200894"> <label for="dmform-45" id="1393052410" class="" hide="true">Testo libero</label> 
+ <div class="freetextwrapper" id="1932586530"> <p class="rteBlock" id="1866616200"> <strong id="1211542990">Iscritto 1</strong></p> 
+</div> 
+<input type="hidden" name="label-dmform-45" value="Testo libero" id="1222119870" class=""/></div> 
+ <div class="dmforminput small-12 medium-4 large-4 dmRespDesignCol required" id="1693243486"> <label for="dmform-28" id="1285792500">Nome*</label> 
+<input type="text" name="dmform-28" id="1176878790"/><input type="hidden" name="label-dmform-28" value="Nome*" id="1948870874" class=""/></div> 
+ <div class="dmforminput small-12 medium-4 large-4 dmRespDesignCol required" id="1447441871"> <label for="dmform-29" id="1726360366">Cognome*</label> 
+<input type="text" name="dmform-29" id="1044800500"/><input type="hidden" name="label-dmform-29" value="Cognome*" id="1336915145" class=""/></div> 
+ <div class="dmforminput small-12 medium-4 large-4 dmRespDesignCol" id="1256585553"> <label for="dmform-30" id="1252075161">Codice Fiscale *</label> 
+<input type="text" name="dmform-30" id="1800182824"/><input type="hidden" name="label-dmform-30" value="Codice Fiscale *" id="1086673488" class=""/></div> 
+ <div class="dmforminput small-12 medium-4 large-4 dmRespDesignCol" id="1586858167"> <label for="dmform-31" id="1292438611">Nato il:</label> 
+<input type="text" class="dmDatePicker" lang="undefined" placeholder="" date_format="mmddyyyy" name="dmform-31" id="1200636042"/><input type="hidden" name="label-dmform-31" value="Nato il:" id="1387862265" class=""/></div> 
+ <div class="dmforminput small-12 medium-4 large-4 dmRespDesignCol" id="1196293844"> <label for="dmform-32" id="1552563921">Nato a:</label> 
+<input type="text" name="dmform-32" id="1903688906"/><input type="hidden" name="label-dmform-32" value="Nato a:" id="1107725273" class=""/></div> 
+ <div class="dmforminput small-12 medium-4 large-4 dmRespDesignCol" id="1764475872"> <label for="dmform-33" id="1636961082">Prov:</label> 
+<input type="text" name="dmform-33" id="1836883397"/><input type="hidden" name="label-dmform-33" value="Prov:" id="1294925575" class=""/></div> 
+ <div class="dmforminput small-12 medium-4 large-4 dmRespDesignCol required" id="1432999448"> <label for="dmform-34" id="1785709838">Email*</label> 
+<input type="text" name="dmform-34" id="1442025574"/><input type="hidden" name="label-dmform-34" value="Email*" id="1053026693" class=""/></div> 
+ <div class="dmforminput small-12 medium-4 large-4 dmRespDesignCol required" id="1347410686"> <label for="dmform-35" id="1540864179">Profilo professionale*</label> 
+<input type="text" name="dmform-35" id="1823270116"/><input type="hidden" name="label-dmform-35" value="Profilo professionale*" id="1265062430" class=""/></div> 
+ <div class="dmforminput small-12 medium-4 large-4 dmRespDesignCol required" id="1662093747"> <label for="dmform-58" id="1451263680">Corso richiesto*</label> 
+<input type="text" name="dmform-58" id="1823990468"/><input type="hidden" name="label-dmform-58" value="Corso richiesto*" id="1223842540" class=""/></div> 
+ <div class="dmforminput small-12 dmRespDesignCol newLine medium-12 large-12" id="1351565119"> <label for="dmform-38" id="1999002769" class="" hide="true">Testo libero</label> 
+ <div class="freetextwrapper" id="1783903941"> <p class="rteBlock" id="1293837097"> <strong id="1698120225">Iscritto 2</strong></p> 
+</div> 
+<input type="hidden" name="label-dmform-38" value="Testo libero" id="1452362323" class=""/></div> 
+ <div class="dmforminput small-12 medium-4 large-4 dmRespDesignCol" id="1173813839"> <label for="dmform-39" id="1144638173">Nome</label> 
+<input type="text" name="dmform-39" id="1194388136"/><input type="hidden" name="label-dmform-39" value="Nome" id="1094653433" class=""/></div> 
+ <div class="dmforminput small-12 medium-4 large-4 dmRespDesignCol" id="1490311020"> <label for="dmform-40" id="1663598565">Cognome</label> 
+<input type="text" name="dmform-40" id="1803663937"/><input type="hidden" name="label-dmform-40" value="Cognome" id="1404059631" class=""/></div> 
+ <div class="dmforminput small-12 medium-4 large-4 dmRespDesignCol" id="1548257910"> <label for="dmform-41" id="1739423642">Codice Fiscale</label> 
+<input type="text" name="dmform-41" id="1747129810"/><input type="hidden" name="label-dmform-41" value="Codice Fiscale" id="1094713477" class=""/></div> 
+ <div class="dmforminput small-12 medium-4 large-4 dmRespDesignCol" id="1486177044"> <label for="dmform-42" id="1077901736">Nato il:</label> 
+<input type="text" name="dmform-42" id="1708533139"/><input type="hidden" name="label-dmform-42" value="Nato il:" id="1845261869" class=""/></div> 
+ <div class="dmforminput small-12 medium-4 large-4 dmRespDesignCol" id="1270411808"> <label for="dmform-43" id="1579239367">Nato a:</label> 
+<input type="text" name="dmform-43" id="1128352523"/><input type="hidden" name="label-dmform-43" value="Nato a:" id="1188744198" class=""/></div> 
+ <div class="dmforminput small-12 medium-4 large-4 dmRespDesignCol" id="1705549019"> <label for="dmform-44" id="1357291688">Prov.:</label> 
+<input type="text" name="dmform-44" id="1000487932"/><input type="hidden" name="label-dmform-44" value="Prov.:" id="1600381957" class=""/></div> 
+ <div class="dmforminput small-12 medium-4 large-4 dmRespDesignCol" id="1797561234"> <label for="dmform-46" id="1236636748">Email:</label> 
+<input type="text" name="dmform-46" id="1616153596"/><input type="hidden" name="label-dmform-46" value="Email:" id="1224781142" class=""/></div> 
+ <div class="dmforminput small-12 medium-4 large-4 dmRespDesignCol" id="1948184172"> <label for="dmform-47" id="1160002886">Profilo professionale</label> 
+<input type="text" name="dmform-47" id="1853030430"/><input type="hidden" name="label-dmform-47" value="Profilo professionale" id="1489333595" class=""/></div> 
+ <div class="dmforminput small-12 medium-4 large-4 dmRespDesignCol" id="1315546355"> <label for="dmform-59" id="1514621083">Corso richiesto</label> 
+<input type="text" name="dmform-59" id="1346887258"/><input type="hidden" name="label-dmform-59" value="Corso richiesto" id="1548522185" class=""/></div> 
+ <div class="dmforminput small-12 dmRespDesignCol newLine medium-12 large-12" id="1125861504"> <label for="dmform-48" id="1230915570" class="" hide="true">Testo libero</label> 
+ <div class="freetextwrapper" id="1589261530"> <p class="rteBlock" id="1759658328"> <strong id="1858917952">Iscritto 3</strong></p> 
+</div> 
+<input type="hidden" name="label-dmform-48" value="Testo libero" id="1134576889" class=""/></div> 
+ <div class="dmforminput small-12 medium-4 large-4 dmRespDesignCol" id="1644418791"> <label for="dmform-49" id="1801997810">Nome</label> 
+<input type="text" name="dmform-49" id="1601395308"/><input type="hidden" name="label-dmform-49" value="Nome" id="1031892339" class=""/></div> 
+ <div class="dmforminput small-12 medium-4 large-4 dmRespDesignCol" id="1867667146"> <label for="dmform-50" id="1180230373">Cognome</label> 
+<input type="text" name="dmform-50" id="1005696416"/><input type="hidden" name="label-dmform-50" value="Cognome" id="1105453794" class=""/></div> 
+ <div class="dmforminput small-12 medium-4 large-4 dmRespDesignCol" id="1137251847"> <label for="dmform-51" id="1077177095">Cod. Fiscale</label> 
+<input type="text" name="dmform-51" id="1825992132"/><input type="hidden" name="label-dmform-51" value="Cod. Fiscale" id="1585393205" class=""/></div> 
+ <div class="dmforminput small-12 medium-4 large-4 dmRespDesignCol" id="1736614559"> <label for="dmform-52" id="1703496052">Nato il:</label> 
+<input type="text" name="dmform-52" id="1813638092"/><input type="hidden" name="label-dmform-52" value="Nato il:" id="1497963436" class=""/></div> 
+ <div class="dmforminput small-12 medium-4 large-4 dmRespDesignCol" id="1044949096"> <label for="dmform-53" id="1562344139">Nato a:</label> 
+<input type="text" name="dmform-53" id="1839739892"/><input type="hidden" name="label-dmform-53" value="Nato a:" id="1988226340" class=""/></div> 
+ <div class="dmforminput small-12 medium-4 large-4 dmRespDesignCol" id="1646521589"> <label for="dmform-54" id="1909037742">Prov.:</label> 
+<input type="text" name="dmform-54" id="1345421772"/><input type="hidden" name="label-dmform-54" value="Prov.:" id="1463539450" class=""/></div> 
+ <div class="dmforminput small-12 medium-4 large-4 dmRespDesignCol" id="1559796472"> <label for="dmform-55" id="1391604926">Email:</label> 
+<input type="text" name="dmform-55" id="1588706696"/><input type="hidden" name="label-dmform-55" value="Email:" id="1575833089" class=""/></div> 
+ <div class="dmforminput small-12 medium-4 large-4 dmRespDesignCol" id="1589874657"> <label for="dmform-56" id="1739859179">Profilo professionale:</label> 
+<input type="text" name="dmform-56" id="1349178148"/><input type="hidden" name="label-dmform-56" value="Profilo professionale:" id="1523114740" class=""/></div> 
+ <div class="dmforminput small-12 medium-4 large-4 dmRespDesignCol" id="1280624160"> <label for="dmform-60" id="1587969820">Corso richiesto</label> 
+<input type="text" name="dmform-60" id="1789022097"/><input type="hidden" name="label-dmform-60" value="Corso richiesto" id="1542127581" class=""/></div> 
+ <div class="dmforminput small-12 dmRespDesignCol medium-12 large-12" id="1273521447"> <label for="dmform-61" id="1402585357">Testo libero</label> 
+ <textarea name="dmform-61" id="1056758668"></textarea> 
+<input type="hidden" name="label-dmform-61" value="Testo libero" id="1070653445" class=""/></div> 
+ <div class="dmforminput small-12 dmRespDesignCol newLine medium-12 large-12" id="1034616421"> <label for="dmform-57" id="1340109291" class="" hide="true">Testo libero</label> 
+ <div class="freetextwrapper" id="1980528342"><br id="1679221228"/><br id="1448422358"/> <p class="rteBlock" id="1606400978"> <em id="1403916035">- I campi contrassegnati da * sono obbligatori</em> 
+</p> 
+ <p class="rteBlock" id="1396632546"> <em id="1358970507">- Se il numero dei partecipanti &egrave; superiore a 3 iscritti, compilate il campo &quot;testo libero&quot; riportando i dati richiesti</em> 
+</p> 
+</div> 
+<input type="hidden" name="label-dmform-57" value="Testo libero" id="1897309284" class=""/></div> 
+ <div class="dmforminput small-12 dmRespDesignCol required newLine medium-12 large-12" id="1065818516"> <label for="dmform-62" id="1397760375" class="" hide="true">Attivazione</label> 
+ <div class="optinwrapper" id="1572155427"> <div id="46648" class="contact-checkable-container"><input type="checkbox" value="true" name="dmform-62" id="27093"/> <div id="54606"> <p class="rteBlock" id="1238186839">Autorizzo il trattamento dei miei dati personali presenti nel cv ai sensi del Decreto Legislativo 30 giugno 2003, n. 196 &ldquo;Codice in materia di protezione dei dati personali&rdquo; e del GDPR (Regolamento UE 2016/679).</p> 
+</div> 
+</div> 
+</div> 
+<input type="hidden" name="label-dmform-62" value="Attivazione" id="1970084393" class=""/></div> 
+ <div class="dmformsubmit dmWidget R" preserve_css="true" id="1921732132"><input class="" name="submit" type="submit" value="Invia la preiscrizione" id="1630315416"/></div> 
+<input name="dmformsendto" type="hidden" value="O0wrseIfFLsSlLR4GAldFz/ubqWU4F9sPNQGvd5dx9EDEJCSlrMvBHIxLwBPpbBb2ZaY7s+VFiE=" preserve_css="true" id="1308938780" data-dec="true"/><input class="dmActionInput" type="hidden" name="action" value="/_dm/s/rt/widgets/dmform.submit.jsp" id="1722342463"/><input name="dmformsubject" type="hidden" value="Messaggio del modulo" preserve_css="true" id="1652547068"/><input name="dmformfrom" type="hidden" value="" preserve_css="true" id="1690803922"/></form> 
+</div> 
+ <div class="dmform-success" style="display:none" preserve_css="true" id="1120051393">Grazie per averci contattato.<br id="1764444241"/>Ti risponderemo il pi&ugrave; presto possibile.</div> 
+ <div class="dmform-error" style="display:none" preserve_css="true" id="1497831884">Si &egrave; verificato un errore durante l'invio del messaggio.<br id="1932414364"/>Riprova in un secondo momento.</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="u_1949524335 dmRespRow hide-for-small" id="1949524335"> <div class="dmRespColsWrapper" id="1132300017"> <div class="u_1632012560 dmRespCol small-12 medium-12 large-12" id="1632012560"> <h3 class="u_1717647326 dmNewParagraph" data-element-type="paragraph" id="1717647326" data-uialign="center" data-anim-desktop="none" data-gramm_id="8b49ed44-3895-b850-d67b-ec0935ad3034" data-gramm="true" spellcheck="false" data-gramm_editor="true">Scriveteci tramite l'indirizzo di posta elettronica info@progestgroup.it per maggiori informazioni<br/></h3> <a data-display-type="block" class="u_1609573347 align-center dmButtonLink dmWidget dmWwr default dmOnlyButton1 dmDefaultGradient" file="false" href="contatti" id="1609573347" data-element-type="dButtonLinkId" dm_dont_rewrite_url="false" data-anim-desktop="zoomIn"> <span class="iconBg" id="1195656305"> <span class="icon hasFontIcon icon-star" id="1114049299"></span> 
+</span> 
+ <span class="text" id="1331606858">Contatti</span> 
+</a> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="sticky-widgets-container-global" id="1328410349"></div> 
+ <div class="dmFooterContainer"> <div id="fcontainer" class="f_hcontainer dmFooter p_hfcontainer"> <div dm:templateorder="14" class="dmFooterResp dmFullFooterResp" id="1647734480"> <div class="dmRespRow dmDividerRow" id="1592018802"> <div class="dmRespColsWrapper" id="1283171258"> <div class="large-12 medium-12 small-12 dmRespCol" id="1463596247"> <div class="dmDividerWrapper clearfix" id="1676938871" data-element-type="dDividerId"><hr class="dmDivider defaultDivider" id="1887652558"/></div> 
+</div> 
+</div> 
+</div> 
+ <div class="u_1433312742 dmRespRow dmFooterContent" id="1433312742"> <div class="dmRespColsWrapper" id="1125594739"> <div class="dmRespCol large-12 medium-12 small-12 dmFooterCol" id="1228982456"> <div class="u_1261656725 dmNewParagraph text-center hide-for-medium" data-dmtmpl="true" id="1261656725" data-editor-state="closed" data-uialign="center"><div style="display:block;text-decoration:none;"><span style="" class="font-size-14 lh-1">PROGEST GROUP di Zoccarato Marco</span></div><div style="display:block;text-decoration:none;"><span style="" class="font-size-14 lh-1">Via Nicesolo n.1 &ndash; 30021 Caorle (VE)</span></div><div style="display:block;text-decoration:none;"><span style="" class="font-size-14 lh-1">Tel 0421210119 | Fax 042181476&nbsp;</span></div><div style="display:block;text-decoration:none;"><span style="" class="font-size-14 lh-1">info@progestgroup.it</span></div><div style="display:block;text-decoration:none;"><span style="" class="font-size-14 lh-1">P.I. 03843840277 | Informazioni Legali | Privacy Policy e Cookie Policy</span></div></div> <div class="u_1033020813 dmSocialHome dmSocialHub" id="1033020813" dmle_extension="social_hub" data-element-type="social_hub" data-dmtmpl="true" wr="false" icon="true" surround="false"> <div class="socialHubWrapper"> <div class="socialHubInnerDiv vertical"> <a href="https://www.facebook.com/progestgroup/?fref=ts" target="_blank" dmle_dont_remove="target" dm_dont_rewrite_url="true"> <span class="dmSocialFacebook dm-social-icons-facebook oneIcon socialHubIcon style3" data-hover-effect=""></span> 
+</a> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="u_1664316562 dmRespRow" style="text-align: center;" id="1664316562"> <div class="dmRespColsWrapper" id="1233776066"> <div class="dmRespCol small-12 medium-12 large-12" id="1940415529"> <div class="dmNewParagraph u_1767521838 text-center" data-dmtmpl="true" id="1767521838" data-editor-state="closed" data-uialign="center"><div><span class="size-14 lh-1"><a href="http://www.italiaonline.it" file="false" target="_blank">Powered by Italiaonline</a> 
+&ndash; <a href="http://www.paginegialle.it" file="false" target="_blank">Paginegialle.it</a></span></div></div></div> 
+</div> 
+</div> 
+ <div id="1981032071" dmle_extension="powered_by" data-element-type="powered_by" icon="true" surround="false" data-dmtmpl="true"></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+
+            </div>
+        </div>
+<!--  Add full CSS and Javascript before the close tag of the body if needed -->
+<script type="text/javascript" id="d_track_campaign">
+(function() {
+ 	var campaign = (/utm_campaign=([^&]*)/).exec(window.location.search);
+
+ 	if (campaign && campaign != null && campaign.length > 1) {
+ 		campaign = campaign[1];
+ 		document.cookie = "_dm_rt_campaign=" + campaign + ";expires=" + new Date().getTime() + 24*60*60*1000 + ";domain=" + window.location.hostname + ";path=/";
+ 	}
+}());
+</script>
+<script type="text/javascript" >
+  var _dm_gaq = {};
+  var _gaq = _gaq || [];
+  var _dm_insite = [];
+</script>
+
+  <script type="text/javascript" id="d_track_ga">
+
+  _dm_gaq.siteAlias = '002795da';
+  _dm_gaq.systemAggregatedGaqID = 'UA-7265702-9';
+  _dm_gaq.externalGaqID = '';
+  
+  _gaq.push(['_gat._forceSSL']);
+  
+  _gaq.push (['_gat._anonymizeIp']);
+  
+
+  if(_dm_gaq.systemAggregatedGaqID && (_dm_gaq.systemAggregatedGaqID != _dm_gaq.systemGaqID)){
+     // track aggregated account
+    _gaq.push(['b._setAccount', _dm_gaq.systemAggregatedGaqID]);
+    _gaq.push(['b._setAllowLinker', true]);
+    _gaq.push(['b._setVar', _dm_gaq.siteAlias]);
+    _gaq.push(['b._setCustomVar', 1, 'product', 'DM_DIRECT',  2 ]);
+    _gaq.push(['b._setCustomVar', 2, 'plan', 'BUSINESS_PLUS',  2 ]);
+    _gaq.push(['b._setCustomVar', 3, 'dfooter', 'false',  2 ]);
+    _gaq.push(['b._setCustomVar', 4, 'sitetype', '1',  2 ]);
+    _gaq.push(['b._setCustomVar', 5, 'pwaEnabled', 'false',  2 ]);
+
+      _gaq.push(['b._trackPageview' ]);
+    pushInsiteImpressions('b._trackEvent');
+   }
+
+   if(_dm_gaq.externalGaqID && _dm_gaq.externalGaqID!= '') {
+     _gaq.push(['c._setAccount', _dm_gaq.externalGaqID]);
+     _gaq.push(['c._setVar', _dm_gaq.siteAlias]);
+     _gaq.push(['c._setDomainName', 'progestgroup.it']);
+     _gaq.push(['c._setAllowLinker', true]);
+     _gaq.push(['c._trackPageview' ]);
+
+     pushInsiteImpressions('c._trackEvent');
+   }
+
+   function pushInsiteImpressions(category) {
+   	$.each(_dm_insite, function(idx, rule) {
+   		_gaq.push([ category, 'insite_impression' , _dm_gaq.siteAlias, rule.ruleType + '__' + rule.ruleId, ]);
+   	});
+   }
+(function() {
+	var ga = document.createElement('script');
+	ga.type = 'text/javascript';
+	ga.async = true;
+  
+	ga.src = 'https://ssl.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(ga, s);
+})();
+
+  </script>
+<script type="text/javascript" id="d_track_sp">
+;(function(p,l,o,w,i,n,g){if(!p[i]){p.GlobalSnowplowNamespace=p.GlobalSnowplowNamespace||[];
+p.GlobalSnowplowNamespace.push(i);p[i]=function(){(p[i].q=p[i].q||[]).push(arguments)
+};p[i].q=p[i].q||[];n=l.createElement(o);g=l.getElementsByTagName(o)[0];n.async=1;
+n.src=w;g.parentNode.insertBefore(n,g)}}(window,document,"script","//d32hwlnfiv2gyn.cloudfront.net/sp-2.0.0-dm-0.1.min.js","snowplow"));
+window.dmsnowplow  = window.snowplow;
+
+dmsnowplow('newTracker', 'cf', 'd32hwlnfiv2gyn.cloudfront.net', { // Initialise a tracker
+  appId: '002795da'
+});
+
+dmsnowplow('trackPageView')
+$.each(_dm_insite, function(idx, rule) {
+	//('trackStructEvent', 'category','action','label','property','value');
+			// Specifically in popup only the client knows if it is shown or not so we don't always want to track its impression here
+	        // the tracking is in popup.js
+			if (rule.actionName !== "popup") {
+                dmsnowplow('trackStructEvent', 'insite', 'impression', rule.ruleType, rule.ruleId);
+            }
+ 			$(document).ready(function(){
+ 				$.DM.events.trigger('event-ruleTriggered', {value: rule})}
+ 			);
+ 		});
+</script>
+   <div style="display:none;" id="P6iryBW0Wu"></div>
+
+<!-- photoswipe markup -->
+
+
+
+
+
+
+
+
+
+<!-- Root element of PhotoSwipe. Must have class pswp. -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    <!-- Background of PhotoSwipe. 
+         It's a separate element as animating opacity is faster than rgba(). -->
+    <div class="pswp__bg"></div>
+
+    <!-- Slides wrapper with overflow:hidden. -->
+    <div class="pswp__scroll-wrap">
+
+        <!-- Container that holds slides. 
+            PhotoSwipe keeps only 3 of them in the DOM to save memory.
+            Don't modify these 3 pswp__item elements, data is added later on. -->
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                <!--  Controls are self-explanatory. Order can be changed. -->
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                <!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
+                <!-- element will get class pswp__preloader--active when preloader is running -->
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                      <div class="pswp__preloader__cut">
+                        <div class="pswp__preloader__donut"></div>
+                      </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div> 
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+<div id="fb-root"
+        data-locale="en"></div>
+
+<!-- Alias: 002795da -->
+<div class="dmPopupMask" id="dmPopupMask"></div>
+<div id="dmPopup" class="dmPopup">
+	<div class="dmPopupCloseWrapper"> <div class="dmPopupClose dm-common-icons-close oneIcon" onclick="dmHidePopup(event);"></div> </div>
+ 	<div class="dmPopupTitle"> <span></span> Share by:</div> 
+	<div class="data"></div>
+</div><script id="d_track_personalization">
+// Collects client data and updates cookies used by smart sites
+var expireDays = 365,visitLength = 30 * 60000;
+$.setCookie("dm_timezone_offset", (new Date()).getTimezoneOffset(), expireDays);
+function setSmartSiteCookies() {
+	setSmartSiteCookiesInternal("dm_this_page_view","dm_last_page_view","dm_total_visits","dm_last_visit");
+}
+$.DM.events.on("afterAjax", setSmartSiteCookies);
+setSmartSiteCookies();
+</script>
+<script type="text/javascript">
+    
+    Parameters.NavigationAreaParams.MoreButtonText = 'More';
+    
+    Parameters.NavigationAreaParams.LessButtonText = 'Less';
+    Parameters.HomeLinkText = 'Home';
+    </script>
+
+<script>
+
+    jQuery(window).load(function () {
+        try {
+            jQuery.DM.updateIOSHeight();
+        } catch (e) {
+        }
+        ;
+    });
+</script>
+<script>
+    dmAPI.loadScript('https://cdn.jsdelivr.net/npm/lozad/dist/lozad.min.js', function () {
+        dmAPI.runOnReady('lozadInit', function () {
+            window.document.querySelectorAll('img.lazy').forEach(function (img) {
+                img.addEventListener('load', function (event) {
+                    var img = event.target;
+                    img.style.filter = 'blur(0)';
+                    setTimeout(function () {
+                        $(img).closest('.imageWidget').addClass('lazyLoaded');
+                    }, 250)
+                });
+            });
+            lozad('.lazy', {
+                threshold: 0.1,
+                loaded: function (element) {
+                    if (element.getAttribute('data-background-image')) {
+                        element.style.setProperty(
+                            'background-image',
+                            "url('" + element.getAttribute('data-background-image') + "')",
+                            "important"
+                        );
+                    }
+                }
+            }).observe();
+        });
+    });
+</script>
+<!--  End Script tags -->
+
+<!--  Begin Body End Markup -->
+<script type="text/javascript" src="https://qol3pvxuq3.execute-api.eu-west-1.amazonaws.com/live/js/3F1165AF-1C22-94B8-E050-A8C08D26705B
+"></script>
+<noscript>
+    <iframe src="https://qol3pvxuq3.execute-api.eu-west-1.amazonaws.com/live/noscript/3F1165AF-1C22-94B8-E050-A8C08D26705B
+" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<script type="text/javascript" src="https://spotzer-website-data.s3.amazonaws.com/Italia_Online/scripts/jquery.cookiebar.iol.min.js"></script><!--  End Body End Markup -->
+
+<!--  Begin Product Custom HTML Markup -->
+<script type="text/javascript" src="https://iol-website.italiaonline.it/script/iol-body.js"></script><!--  End Product Custom HTML Markup -->
+</body>
+</html>
